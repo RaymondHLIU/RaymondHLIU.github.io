@@ -9,5 +9,5 @@ author_profile: true
 
 
 **PC Member**:
-* The AAAI Conference on Artificial Intelligence (AAAI-2020)
-* The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (2019)
+* The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI-2020**).
+* The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**).

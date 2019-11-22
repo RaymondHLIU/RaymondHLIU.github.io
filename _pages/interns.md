@@ -1,6 +1,6 @@
 ---
 title: "Interns"
-permalink: /services/
+permalink: /interns/
 author_profile: true
 description: Interns I supervised at Baidu Research.
 ---
