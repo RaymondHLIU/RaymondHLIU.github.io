@@ -11,7 +11,7 @@ permalink: /publications/
 * <span style="color:red">New!</span> Renjun Hu, Xinjiang Lu, Chuanren Liu, Yanyan Li, **Hao Liu**, Shuai Ma, and Hui Xiong. [Why We Go Where We Go: Profiling User Decisions on Choosing POIs](http://RaymondHLIU.github.io/files/AAAI20-poirec.pdf). In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**), New York City, USA, 2020. 
 
 **2019**
-* **Hao Liu**, Yongxin Tong, Panpan Zhang, Xinjiang Lu, Jianguo Duan, and Hui Xiong. [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](http://RaymondHLIU.github.io/files/KDD20-Hydra.pdf). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**), Anchorage, Alaska, 2019.
+* **Hao Liu**, Yongxin Tong, Panpan Zhang, Xinjiang Lu, Jianguo Duan, and Hui Xiong. [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](http://RaymondHLIU.github.io/files/KDD19-Hydra.pdf). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**), Anchorage, Alaska, 2019.
 * **Hao Liu**, Ting Li, Renjun Hu, Yanjie Fu, Jingjing Gu, and Hui Xiong. [Joint Representation Learning for Multi-Modal Transportation Recommendation](http://RaymondHLIU.github.io/files/AAAI19-trans2vec.pdf). In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI 2019**) , Honolulu, Hawaii, USA, 2019.
 * Ting Li, Yiming Zhang, **Hao Liu**, Guangtao Xue, and Ling Liu. Fast Compressive Spectral Clustering for Large-Scale Sparse Graph. IEEE Transactions on Big Data (**TBD**) 2019.
 
