@@ -30,8 +30,8 @@ News
 
 Selected Publications
 ======
-* Weijia Zhang, **Hao Liu**, Yanchi Liu, Jingbo Zhou, and Hui Xiong. [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](#main). In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**), New York City, USA, 2020. 
-* **Hao Liu**, Yongxin Tong, Panpan Zhang, Xinjiang Lu, Jianguo Duan, and Hui Xiong. [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](#main). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD-2019**) , Anchorage, Alaska, 2019.
-* **Hao Liu**, Ting Li, Renjun Hu, Yanjie Fu, Jingjing Gu, and Hui Xiong. [Joint Representation Learning for Multi-Modal Transportation Recommendation](#main).
+* Weijia Zhang, **Hao Liu**, Yanchi Liu, Jingbo Zhou, and Hui Xiong. [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](http://RaymondHLIU.github.io/files/AAAI20-parking.pdf). In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**), New York City, USA, 2020. 
+* **Hao Liu**, Yongxin Tong, Panpan Zhang, Xinjiang Lu, Jianguo Duan, and Hui Xiong. [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](http://RaymondHLIU.github.io/files/KDD20-Hydra.pdf). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD-2019**) , Anchorage, Alaska, 2019.
+* **Hao Liu**, Ting Li, Renjun Hu, Yanjie Fu, Jingjing Gu, and Hui Xiong. [Joint Representation Learning for Multi-Modal Transportation Recommendation](http://RaymondHLIU.github.io/files/AAAI19-trans2vec.pdf).
 In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI-2019**) , Honolulu, Hawaii, USA, 2019.
 
