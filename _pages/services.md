@@ -5,9 +5,14 @@ author_profile: true
 ---
 
 **Conference Organizer**:
-* The KDD Cup 2019 Regular ML Track, Co-organizer.
+* The KDD Cup 2019 Regular ML Track, Co-organizer
 
 
 **PC Member**:
-* The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI-2020**).
-* The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2019**).
+* **KDD 2020** Research Track
+* **KDD 2019** Research Track
+* **AAAI-2020**
+
+**Journal Reviewer**
+* IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+* Data and Knowledge Engineering (**DKE**)
