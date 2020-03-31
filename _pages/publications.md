@@ -7,6 +7,7 @@ permalink: /publications/
 (\* indicates correpsonding author)
 
 **2020**
+* <span style="color:red">New!</span> **Hao Liu**, Yonngxin Tong, Jindong Han, Panpan Zhang, Xinjiang Lu, and Hui Xiong. Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), Accepted.
 * <span style="color:red">New!</span> Weijia Zhang, **Hao Liu**\*, Yanchi Liu, Jingbo Zhou, and Hui Xiong. [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](http://RaymondHLIU.github.io/files/AAAI20-parking.pdf). In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**), New York City, USA, 2020. 
 
 
@@ -17,7 +18,7 @@ permalink: /publications/
 
 
 **2018**
-* **Hao Liu**, Jiang Xiao, Haoyu Tan, Qiong Luo, Jintao Zhao, and Lionel M Ni. Efficient detection of soft concatenation mapping. IEEE Transactions on Knowledge and Data Engineering (**TKDE**) 2018.
+* **Hao Liu**, Jiang Xiao, Haoyu Tan, Qiong Luo, Jintao Zhao, and Lionel M Ni. Efficient detection of soft concatenation mapping. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2018.
 * Bing He, Dian Zhang, Siyuan Liu, **Hao Liu**, Dawei Han, Lionel M. Ni. Profiling driver Bbehavior for personalized insurance pricing and maximal profit. In 2018 IEEE International Conference on Big Data (**Big Data 2018**), Seattle, WA, USA, 2018.
 
 **2017**
