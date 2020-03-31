@@ -24,7 +24,7 @@ News
 * (2019-11-11) Our paper [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](http://RaymondHLIU.github.io/files/AAAI20-parking.pdf) was accepted to **AAAI 2020**. Congratulations to my intern Weijia Zhang! The work was done when Weijia was an undergraduate student.
 * (2019-08-02) We organized "The KDD Cup 2019 Regular ML Track", [Context-Aware Multi-Modal Transportation Recommendation](https://dianshi.baidu.com/competition/29/rule). We attracted over 1700 teams participates.
 * (2019-04-29) Our paper [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](https://dl.acm.org/ft_gateway.cfm?id=3330660&type=pdf) was accepted to KDD 2019 ADS track.
-* (2018-11-01) Our paper [joint representation learning for multi-modal transportation recommendation](https://www.aaai.org/ojs/index.php/AAAI/article/view/3894/3772) was accepted to AAAI 2019.
+* (2018-11-01) Our paper [Joint representation learning for multi-modal transportation recommendation](https://www.aaai.org/ojs/index.php/AAAI/article/view/3894/3772) was accepted to AAAI 2019.
 * (2018-9-01) Our Multi-Modal Transportation Recommendation service get online! Download Baidu Maps and try Zhixing!
 
 
