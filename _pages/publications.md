@@ -8,6 +8,7 @@ permalink: /publications/
 
 **2020**
 * <span style="color:red">New!</span> **Hao Liu**, Yonngxin Tong, Jindong Han, Panpan Zhang, Xinjiang Lu, and Hui Xiong. Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), Accepted.
+* <span style="color:red">New!</span> Renjun Hu, Xinjiang Lu, Chuanren Liu, Yanyan Li, **Hao Liu**, Jingjing Gu, Shuai Ma, Hui Xiong. Why We Go Where We Go: Profiling User Decisions on Choosing POIs. International Joint Conference on Artificial Intelligence (***IJCAI 2020***), Yokohama, Japan, 2020.
 * <span style="color:red">New!</span> Weijia Zhang, **Hao Liu**\*, Yanchi Liu, Jingbo Zhou, and Hui Xiong. [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](http://RaymondHLIU.github.io/files/AAAI20-parking.pdf). In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI 2020**), New York City, USA, 2020. 
 
 
