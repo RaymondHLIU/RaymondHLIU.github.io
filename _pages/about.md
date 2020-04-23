@@ -19,6 +19,8 @@ His general research interests are in data mining, machine learning, and big dat
 
 News
 ======
+* <span style="color:red">New!</span> (2019-04-21) Our paper [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](https://raymondhliu.github.io/) was accepted to **SIGIR 2020**.
+* <span style="color:red">New!</span> (2019-04-21) Our paper [Spatial Object Recommendation with Hints: When Spatial Granularity Matters](https://raymondhliu.github.io/) was accepted to **SIGIR 2020**.
 * <span style="color:red">New!</span> (2019-04-21) Our paper [Why We Go Where We Go: Profiling User Decisions on Choosing POIs](https://raymondhliu.github.io/) was accepted to **IJCAI 2020**.
 * <span style="color:red">New!</span> (2019-03-31) Our paper [Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation](https://raymondhliu.github.io/) was accepted to **TKDE**.
 * (2020-03-16) Our Cross-City Multi-Modal Recommendation service get online! This service covers over 330 cities in mainland China.
