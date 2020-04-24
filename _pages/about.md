@@ -14,7 +14,6 @@ Hao received his Ph.D. degree in Computer Science and Engineering from (HKUST) i
 His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing.
 
 <span style="color:red">I am recruiting self-motivated long term (at least six months) interns!</span> Please send me your resume via email. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
-
 <span id="main"> </span>
 
 News
