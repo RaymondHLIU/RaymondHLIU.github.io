@@ -18,6 +18,8 @@ His general research interests are in data mining, machine learning, and big dat
 
 News
 ======
+* <span style="color:red">New!</span> (2019-05-16) Our paper [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](https://raymondhliu.github.io/) is accepted to ***KDD 2020*** ADS track as oral (oral accpetence rate 5.8%).
+* <span style="color:red">New!</span> (2019-05-16) Our paper [Competitive Analysis for Points of Interest](https://raymondhliu.github.io/) is accepted to ***KDD 2020*** research track.
 * <span style="color:red">New!</span> (2019-04-23) Our paper [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](https://raymondhliu.github.io/) was accepted to ***SIGIR 2020***.
 * <span style="color:red">New!</span> (2019-04-23) Our paper [Spatial Object Recommendation with Hints: When Spatial Granularity Matters](https://raymondhliu.github.io/) was accepted to ***SIGIR 2020***.
 * <span style="color:red">New!</span> (2019-04-21) Our paper [Why We Go Where We Go: Profiling User Decisions on Choosing POIs](https://raymondhliu.github.io/) was accepted to ***IJCAI 2020***.

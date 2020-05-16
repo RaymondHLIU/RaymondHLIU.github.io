@@ -22,7 +22,7 @@ permalink: /publications/
 
 **2018**
 * **Hao Liu**, Jiang Xiao, Haoyu Tan, Qiong Luo, Jintao Zhao, and Lionel M Ni. Efficient detection of soft concatenation mapping. IEEE Transactions on Knowledge and Data Engineering (***TKDE***), 2018.
-* Bing He, Dian Zhang, Siyuan Liu, **Hao Liu**, Dawei Han, Lionel M. Ni. Profiling driver Bbehavior for personalized insurance pricing and maximal profit. In 2018 IEEE International Conference on Big Data (***Big Data 2018***), Seattle, WA, USA, 2018.
+* Bing He, Dian Zhang, Siyuan Liu, **Hao Liu**, Dawei Han, Lionel M. Ni. Profiling driver Behavior for personalized insurance pricing and maximal profit. In 2018 IEEE International Conference on Big Data (***Big Data 2018***), Seattle, WA, USA, 2018.
 
 **2017**
 * **Hao Liu**, Jiang Xiao, and Fengchao Peng. Scalable Hash Ripple Join on Spark. In 2017 IEEE 23rd International Conference on Parallel and Distributed Systems (***ICPADS 2017***), Shenzhen, China, 2017.
