@@ -20,10 +20,10 @@ News
 ======
 * <span style="color:red">New!</span> (2019-05-16) Our paper [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](https://raymondhliu.github.io/) is accepted to ***KDD 2020*** ADS track as oral (oral accpetence rate 5.8%).
 * <span style="color:red">New!</span> (2019-05-16) Our paper [Competitive Analysis for Points of Interest](https://raymondhliu.github.io/) is accepted to ***KDD 2020*** research track.
-* <span style="color:red">New!</span> (2019-04-23) Our paper [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](https://raymondhliu.github.io/) was accepted to ***SIGIR 2020***.
-* <span style="color:red">New!</span> (2019-04-23) Our paper [Spatial Object Recommendation with Hints: When Spatial Granularity Matters](https://raymondhliu.github.io/) was accepted to ***SIGIR 2020***.
-* <span style="color:red">New!</span> (2019-04-21) Our paper [Why We Go Where We Go: Profiling User Decisions on Choosing POIs](https://raymondhliu.github.io/) was accepted to ***IJCAI 2020***.
-* <span style="color:red">New!</span> (2019-03-31) Our paper [Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation](https://ieeexplore.ieee.org/document/9063461) was accepted to ***TKDE***.
+* (2019-04-23) Our paper [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](https://raymondhliu.github.io/) was accepted to ***SIGIR 2020***.
+* (2019-04-23) Our paper [Spatial Object Recommendation with Hints: When Spatial Granularity Matters](https://raymondhliu.github.io/) was accepted to ***SIGIR 2020***.
+* (2019-04-21) Our paper [Why We Go Where We Go: Profiling User Decisions on Choosing POIs](https://raymondhliu.github.io/) was accepted to ***IJCAI 2020***.
+* (2019-03-31) Our paper [Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation](https://ieeexplore.ieee.org/document/9063461) was accepted to ***TKDE***.
 * (2020-03-16) Our Cross-City Multi-Modal Recommendation service get online! This service covers over 330 cities in mainland China.
 * (2019-11-11) Our paper [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](http://RaymondHLIU.github.io/files/AAAI20-parking.pdf) was accepted to ***AAAI 2020***. Congratulations to my intern Weijia Zhang! The work was done when Weijia was an undergraduate student.
 * (2019-08-02) We organized "The KDD Cup 2019 Regular ML Track", [Context-Aware Multi-Modal Transportation Recommendation](https://dianshi.baidu.com/competition/29/rule). We attracted over 1700 teams participates.
@@ -34,6 +34,7 @@ News
 
 Selected Publications
 ======
+* **Hao Liu**, Ying Li, Yanjie Fu, Huaibo Mei, Jingbo Zhou, Xu Ma and Hui Xiong. Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (***KDD 2020***), San Diego, California, 2020.
 * Zixuan Yuan, **Hao Liu\***, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu and Hui Xiong. Spatio-Temporal Dual Graph Attention Network for Query-POI Matching. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (***SIGIR 2020***), Xi'an, China, 2020.
 * Weijia Zhang, **Hao Liu\***, Yanchi Liu, Jingbo Zhou, and Hui Xiong. [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](http://RaymondHLIU.github.io/files/AAAI20-parking.pdf). In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (***AAAI 2020***), New York City, USA, 2020. 
 * **Hao Liu**, Yongxin Tong, Panpan Zhang, Xinjiang Lu, Jianguo Duan, and Hui Xiong. [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](http://RaymondHLIU.github.io/files/KDD19-Hydra.pdf). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (***KDD-2019***) , Anchorage, Alaska, 2019.

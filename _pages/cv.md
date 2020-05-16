@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-TBD.
+Available upon request.
