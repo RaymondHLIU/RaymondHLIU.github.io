@@ -7,9 +7,10 @@ permalink: /publications/
 (\* indicates correpsonding author)
 
 **2021**
-* <span style="color:red">New!</span> **[VLDB]** **Hao Liu**, Jindong Han, Yanjie Fu, Jingbo Zhou, Xinjiang Lu, Hui Xiong. Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/). In Proceedings of the VLDB Endowment, Copenhagen, Denmark, 2021.
+* <span style="color:red">New!</span> **[VLDB]** **Hao Liu**, Jindong Han, Yanjie Fu, Jingbo Zhou, Xinjiang Lu and Hui Xiong. Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/). In Proceedings of the VLDB Endowment, Copenhagen, Denmark, 2021.
 
 **2020**
+* <span style="color:red">New!</span> **[TKDE]** Weijia Zhang, ***Hao Liu\****, Yanchi Liu, Jingbo Zhou, Tong Xu and Hui Xiong. [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://raymondhliu.github.io/). IEEE Transactions on Knowledge and Data Engineering, Accepted.
 * **[TKDE]** ***Hao Liu***, Yonngxin Tong, Jindong Han, Panpan Zhang, Xinjiang Lu, and Hui Xiong. [Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation](https://ieeexplore.ieee.org/document/9063461). IEEE Transactions on Knowledge and Data Engineering, Accepted.
 * **[KDD]** ***Hao Liu***, Ying Li, Yanjie Fu, Huaibo Mei, Jingbo Zhou, Xu Ma and Hui Xiong. [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf). In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Diego, California, 2020.
 * **[KDD]** Shuangli Li, Jingbo Zhou, ***Hao Liu***, Xinjiang Lu, Tong Xu and Hui Xiong. Competitive Analysis for Points of Interest. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Diego, California, 2020.
