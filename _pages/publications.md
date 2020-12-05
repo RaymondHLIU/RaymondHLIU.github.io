@@ -6,8 +6,13 @@ permalink: /publications/
 
 (\* indicates correpsonding author)
 
+
 **2021**
 * <span style="color:red">New!</span> **[VLDB]** ***Hao Liu***, Jindong Han, Yanjie Fu, Jingbo Zhou, Xinjiang Lu and Hui Xiong. [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/publications/). In Proceedings of the VLDB Endowment, Copenhagen, Denmark, 2021.
+* <span style="color:red">New!</span> **[AAAI]** ***Hao Liu***, Qiyu Wu, Fuzhen Zhuang, Xinjiang Lu, Dejing Dou and Hui Xiong. [Community-Aware Multi-Task Transportation Demand Prediction](https://raymondhliu.github.io/publications/). In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, Virtual Conference, 2021.
+* <span style="color:red">New!</span> **[AAAI]** Jindong Han, ***Hao Liu\****, Hengshu Zhu, Dejing Dou and Hui Xiong. Joint Air Quality and Weather Prediction Based on Multi-Adversarial Spatiotemporal Networks. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, Virtual Conference, 2021.
+* <span style="color:red">New!</span> **[AAAI]** Zixuan Yuan, ***Hao Liu\****, Renjun Hu, Denghui Zhang and Hui Xiong. Self-Supervised Prototype Representation Learning for Event-based Corporate Profiling. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, Virtual Conference, 2021.
+* <span style="color:red">New!</span> **[AAAI]** Haoran Xin, Xinjiang Lu, Tong Xu, ***Hao Liu***, Jingjing Gu, Dejing Dou and Hui Xiong. Out-of-Town Recommendation with Travel Intention Modeling. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, Virtual Conference, 2021.
 
 **2020**
 * <span style="color:red">New!</span> **[TKDE]** Weijia Zhang, ***Hao Liu\****, Yanchi Liu, Jingbo Zhou, Tong Xu and Hui Xiong. [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://raymondhliu.github.io/publications/). IEEE Transactions on Knowledge and Data Engineering, Accepted.
