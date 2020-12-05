@@ -9,7 +9,7 @@ author_profile: true
 
 
 **PC Member**:
-* **IJCAI 2021**
+* **IJCAI 2021** Senior PC
 * **AAAI 2021** 
 * **KDD 2020** Research Track
 * **KDD 2019** Research Track
@@ -17,6 +17,7 @@ author_profile: true
 
 **Journal Reviewer**
 * IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+* ACM Transactions on Intelligent Systems and Technology (**TIST**) 
 * Data and Knowledge Engineering (**DKE**)
 * IEEE Transaction on Big Data (**TBD**)
 * IEEE Transactions on Cybernetics
