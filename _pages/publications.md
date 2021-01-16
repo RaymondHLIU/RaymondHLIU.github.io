@@ -8,6 +8,8 @@ permalink: /publications/
 
 
 **2021**
+* <span style="color:red">New!</span> **[WWW]** Weijia Zhang, ***Hao Liu**\****, Fan Wang, Tong Xu, Haoran Xin, Dejing Dou and Hui Xiong. [A Multi-Agent Reinforcement Learning Framework for Intelligent Electric Vehicle Charging Recommendation](https://raymondhliu.github.io/publications/). In Proceedings of The Web Conference 2021.
+* <span style="color:red">New!</span> **[WWW]** Zixuan Yuan, ***Hao Liu\****, Junming Liu, Yanchi Liu, Yang Yang, Renjun Hu and Hui Xiong. [Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching](https://raymondhliu.github.io/publications/). In Proceedings of The Web Conference 2021.
 * <span style="color:red">New!</span> **[VLDB]** ***Hao Liu***, Jindong Han, Yanjie Fu, Jingbo Zhou, Xinjiang Lu and Hui Xiong. [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/publications/). In Proceedings of the VLDB Endowment, Copenhagen, Denmark, 2021.
 * <span style="color:red">New!</span> **[AAAI]** ***Hao Liu***, Qiyu Wu, Fuzhen Zhuang, Xinjiang Lu, Dejing Dou and Hui Xiong. [Community-Aware Multi-Task Transportation Demand Prediction](https://raymondhliu.github.io/publications/). In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, Virtual Conference, 2021.
 * <span style="color:red">New!</span> **[AAAI]** Jindong Han, ***Hao Liu\****, Hengshu Zhu, Dejing Dou and Hui Xiong. [Joint Air Quality and Weather Prediction Based on Multi-Adversarial Spatiotemporal Networks](https://raymondhliu.github.io/publications/). In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, Virtual Conference, 2021.
