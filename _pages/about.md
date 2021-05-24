@@ -18,6 +18,7 @@ His general research interests are in data mining, machine learning, and big dat
 
 News
 ======
+* <span style="color:red">New!</span> (2021-05-18) Four papers were accepted to ***SIGKDD 2021*** about **web-scale machine learning system**, **real estate appraisal**, **talent demand forecasting**, and **domain-oriented BERT**.
 * (2021-01-16) Two papers were accepted to ***WebConf 2021*** about **intelligent charging station recommendation** and **online query-POI matching**.
 * (2020-12-02) Four papers were accepted to ***AAAI 2021*** about **transportation demand prediction**, **atmospheric prediction**, **corporate porfiling**, and **POI recommendation**.
 * (2020-10-21) Our paper [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://ieeexplore.ieee.org/document/9241427)  was accepted to ***TKDE***.
