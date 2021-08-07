@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 After spending several years in industrial research, Hao back to [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk), where he started his research career.
-Hao was a Research Scientist at Business Intelligence Lab, [Baidu Research](http://research.baidu.com/) and a postdoctoral fellow at the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk) .
+Hao was a Research Scientist at Business Intelligence Lab, [Baidu Research](http://research.baidu.com/) and a postdoctoral fellow at the HKUST.
 Hao received his Ph.D. degree and M.Phil. degree from HKUST in 2017 and 2014, respectively. He also received a Bachelor degree from [South China University of Technology](https://www.scut.edu.cn/) in 2012.
 His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing.
 
-<span style="color:red"> **[Open Positions]** Several Ph.D. student (2022 fall) and Postdoctoral fellow positions avialble! 
-I am also recruiting self-motivated long term (at least six months) visting students.</span> Please send me your resume to liuh\[at\]ust.hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
+<span style="color:red"> **[Open Positions]** Several Ph.D. student (2022 fall) and Postdoctoral fellow positions available! 
+I am also recruiting self-motivated long term (at least six months) visting students.</span> Please feell free to send your resume to liuh\[at\]ust.hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
 <span id="main"> </span>
 
 News
