@@ -81,15 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Hao Liu"
-  avatar           : "hao.jpg"
+  avatar           : "haoliu.jpg"
   bio              : |
-    Research Scientist, <br>
-    Bussiness Intelligence Lab, <br>
-    Baidu Research
-  location         : "Beijing, China"
+    The Hong Kong University <br>
+    of Science and Technology
+  location         : "Clear water bay, Hong Kong SAR"
   employer         :
   googlescholar    : 
-  email            :
+  email            : "liuh@ust.hk"
   uri              :
   bitbucket        :
   codepen          :
