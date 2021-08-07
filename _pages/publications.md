@@ -7,7 +7,7 @@ permalink: /publications/
 (Underline indicates students I supervised, \* indicates correpsonding author)
 
 **2021**
-* <span style="color:red">New!</span> **[TKDE]** <ins>Wei Fan</ins>, Kunpeng, Liu, **Hao Liu***, Yong Ge, Hui Xiong, Yanjie Fu. [Interactive Reinforcement Learning for Feature Selection with Decision Tree in the Loop](https://raymondhliu.github.io/publications/). IEEE Transactions on Knowledge and Data Engineering, Accepted.
+* <span style="color:red">New!</span> **[TKDE]** <ins>Wei Fan</ins>, Kunpeng, Liu, ***Hao Liu***, Yong Ge, Hui Xiong, Yanjie Fu. [Interactive Reinforcement Learning for Feature Selection with Decision Tree in the Loop](https://raymondhliu.github.io/publications/). IEEE Transactions on Knowledge and Data Engineering, Accepted.
 * **[KDD]** ***Hao Liu***, Qian Gao, Jiang Li, Xiaochao Liao, Hao Xiong, Guangxing Chen, Wenlin Wang,
 Guobao Yang, Zhiwei Zha, Daxiang Dong, Dejing Dou, Haoyi Xiong. [JiZhi: A Fast and Cost-Effective Model-As-A-Service System for
 Web-Scale Online Inference at Baidu](https://raymondhliu.github.io/publications/). In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Virtual Conference, 2021.
