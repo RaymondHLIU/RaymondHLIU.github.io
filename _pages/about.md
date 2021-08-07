@@ -14,7 +14,7 @@ Hao received his Ph.D. degree and M.Phil. degree from HKUST in 2017 and 2014, re
 His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing.
 
 <span style="color:red"> **[Open Positions]** </span> Several Ph.D. student (2022 fall) and Postdoctoral Fellow positions available! 
-I am also recruiting self-motivated long term (at least six months) visting students. Please feell free to send your resume to liuh\[at\]ust.hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
+I am also recruiting self-motivated long term (at least six months) visting students. Please feell free to send your resume to liuh\[at\]ust\[.\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
 <span id="main"> </span>
 
 News
@@ -24,13 +24,13 @@ News
 * (2020-12-02) Four papers were accepted to ***AAAI 2021*** about **transportation demand prediction**, **atmospheric prediction**, **corporate porfiling**, and **POI recommendation**.
 * (2020-10-21) Our paper [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://ieeexplore.ieee.org/document/9241427)  was accepted to ***TKDE***.
 * (2020-10-16) Our paper [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/) was accepted to ***VLDB 2021*** Scalable Data Science track.
-[ * (2020-05-16) Our paper [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf) was accepted to ***KDD 2020*** ADS track as oral (oral accpetence rate 5.8%).
+[^_^]: # * (2020-05-16) Our paper [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf) was accepted to ***KDD 2020*** ADS track as oral (oral accpetence rate 5.8%).
 * (2020-05-16) Our paper [Competitive Analysis for Points of Interest](http://RaymondHLIU.github.io/files/KDD20-competitive.pdf) was accepted to ***KDD 2020*** research track.
 * (2020-04-23) Our paper [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](http://RaymondHLIU.github.io/files/SIGIR20-matching.pdf) was accepted to ***SIGIR 2020***.
 * (2020-04-23) Our paper [Spatial Object Recommendation with Hints: When Spatial Granularity Matters](http://RaymondHLIU.github.io/files/SIGIR20-poirec.pdf) was accepted to ***SIGIR 2020***.
 * (2020-04-21) Our paper [Why We Go Where We Go: Profiling User Decisions on Choosing POIs](https://www.ijcai.org/Proceedings/2020/0478.pdf) was accepted to ***IJCAI 2020***.
 * (2020-03-31) Our paper [Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation](https://ieeexplore.ieee.org/document/9063461) was accepted to ***TKDE***. 
-# * (2020-03-16) Our Cross-City Multi-Modal Recommendation service get online! This service covers over 330 cities in mainland China.
+* (2020-03-16) Our Cross-City Multi-Modal Recommendation service get online! This service covers over 330 cities in mainland China.
 * (2019-11-11) Our paper [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](http://RaymondHLIU.github.io/files/AAAI20-parking.pdf) was accepted to ***AAAI 2020***. Congratulations to my intern Weijia Zhang! The work was done when Weijia was an undergraduate student.
 * (2019-08-02) We organized "The KDD Cup 2019 Regular ML Track", [Context-Aware Multi-Modal Transportation Recommendation](https://dianshi.baidu.com/competition/29/rule). We attracted over 1700 teams participates.
 * (2019-04-29) Our paper [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](http://RaymondHLIU.github.io/files/KDD19-Hydra.pdf) was accepted to ***KDD 2019*** ADS track.
