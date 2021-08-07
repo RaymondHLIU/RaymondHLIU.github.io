@@ -24,8 +24,10 @@ News
 * (2020-12-02) Four papers were accepted to ***AAAI 2021*** about **transportation demand prediction**, **atmospheric prediction**, **corporate porfiling**, and **POI recommendation**.
 * (2020-10-21) Our paper [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://ieeexplore.ieee.org/document/9241427)  was accepted to ***TKDE***.
 * (2020-10-16) Our paper [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/) was accepted to ***VLDB 2021*** Scalable Data Science track.
-[^_^]: # * (2020-05-16) Our paper [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf) was accepted to ***KDD 2020*** ADS track as oral (oral accpetence rate 5.8%).
-* (2020-05-16) Our paper [Competitive Analysis for Points of Interest](http://RaymondHLIU.github.io/files/KDD20-competitive.pdf) was accepted to ***KDD 2020*** research track.
+<details>
+<summary>Older news</summary>
+* (2020-05-16) Our paper [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf) was accepted to ***KDD 2020*** ADS track as oral (oral accpetence rate 5.8%).
+<!-- * (2020-05-16) Our paper [Competitive Analysis for Points of Interest](http://RaymondHLIU.github.io/files/KDD20-competitive.pdf) was accepted to ***KDD 2020*** research track. -->
 * (2020-04-23) Our paper [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](http://RaymondHLIU.github.io/files/SIGIR20-matching.pdf) was accepted to ***SIGIR 2020***.
 * (2020-04-23) Our paper [Spatial Object Recommendation with Hints: When Spatial Granularity Matters](http://RaymondHLIU.github.io/files/SIGIR20-poirec.pdf) was accepted to ***SIGIR 2020***.
 * (2020-04-21) Our paper [Why We Go Where We Go: Profiling User Decisions on Choosing POIs](https://www.ijcai.org/Proceedings/2020/0478.pdf) was accepted to ***IJCAI 2020***.
@@ -35,8 +37,8 @@ News
 * (2019-08-02) We organized "The KDD Cup 2019 Regular ML Track", [Context-Aware Multi-Modal Transportation Recommendation](https://dianshi.baidu.com/competition/29/rule). We attracted over 1700 teams participates.
 * (2019-04-29) Our paper [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](http://RaymondHLIU.github.io/files/KDD19-Hydra.pdf) was accepted to ***KDD 2019*** ADS track.
 # * (2018-11-01) Our paper [Joint representation learning for multi-modal transportation recommendation](https://www.aaai.org/ojs/index.php/AAAI/article/view/3894/3772) was accepted to ***AAAI 2019***.
-# * (2018-9-01) Our Multi-Modal Transportation Recommendation service get online! Download Baidu Maps and try Zhixing!]: #
-
+# * (2018-9-01) Our Multi-Modal Transportation Recommendation service get online! Download Baidu Maps and try Zhixing!
+</details>
 
 Selected Publications
 ======
