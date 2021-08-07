@@ -25,7 +25,7 @@ News
 * (2020-10-21) Our paper [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://ieeexplore.ieee.org/document/9241427)  was accepted to ***TKDE***.
 * (2020-10-16) Our paper [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/) was accepted to ***VLDB 2021*** Scalable Data Science track.
 <details>
-<summary>Older news</summary>
+<summary>Past news</summary>
 <!-- * (2020-05-16) Our paper [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf) was accepted to ***KDD 2020*** ADS track as oral (oral accpetence rate 5.8%). -->
 <!-- * (2020-05-16) Our paper [Competitive Analysis for Points of Interest](http://RaymondHLIU.github.io/files/KDD20-competitive.pdf) was accepted to ***KDD 2020*** research track. -->
 <!-- * (2020-04-23) Our paper [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](http://RaymondHLIU.github.io/files/SIGIR20-matching.pdf) was accepted to ***SIGIR 2020***. -->
