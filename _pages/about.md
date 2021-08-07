@@ -14,7 +14,7 @@ Hao received his Ph.D. degree and M.Phil. degree from HKUST in 2017 and 2014, re
 His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing.
 
 <span style="color:red"> **[Open Positions]** </span> Several Ph.D. student (2022 fall) and Postdoctoral Fellow positions available! 
-I am also recruiting self-motivated long term (at least six months) visting students. Please feell free to send your resume to liuh\[at\]ust\[.\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
+I am also recruiting self-motivated long term (at least six months) visting students. Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
 <span id="main"> </span>
 
 News
