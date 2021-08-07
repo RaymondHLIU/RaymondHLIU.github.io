@@ -7,13 +7,10 @@ author_profile: true
 **Conference Organizer**:
 * The KDD Cup 2019 Regular ML Track, Co-organizer
 
-
-**PC Member**:
-* **IJCAI 2021** Senior PC
-* **AAAI 2021** 
-* **KDD 2020** Research Track
-* **KDD 2019** Research Track
-* **AAAI 2020**
+**(Senior) PC Member**:
+* **KDD 2019, 2020, 2021** Research Track
+* **IJCAI 2021, 2022**
+* **AAAI 2020, 2021, 2022**
 
 **Journal Reviewer**
 * IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
@@ -22,3 +19,4 @@ author_profile: true
 * IEEE Transaction on Big Data (**TBD**)
 * IEEE Transactions on Cybernetics
 * Information Processing and Management (**IPM**)
+* Transportation Research: Part C (**TRC**)
