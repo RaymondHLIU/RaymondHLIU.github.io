@@ -40,6 +40,8 @@ News
 # * (2018-9-01) Our Multi-Modal Transportation Recommendation service get online! Download Baidu Maps and try Zhixing!
 </details>
 
+
+
 Selected Publications
 ======
 * **Hao Liu**, Jindong Han, Yanjie Fu, Jingbo Zhou, Xinjiang Lu, Hui Xiong. [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/). In Proceedings of the VLDB Endowment (***VLDB 2021***), Copenhagen, Denmark, 2021.
