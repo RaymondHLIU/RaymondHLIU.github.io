@@ -1,11 +1,11 @@
 ---
-title: "Interns"
-permalink: /interns/
+title: "Students"
+permalink: /students/
 author_profile: true
-description: Interns I supervised at Baidu Research.
+description: Students and interns I supervised.
 ---
 
-Past Interns (Worked with me for at least six months)
+Past Interns at Baidu Research (Worked with me for at least six months)
 ---
 * **Can Chen**, (*2020.12-2021.8*), Ph.D. student at McGill University.
 * **Jindong Han**, (*2019.07-2021.6*), Master student at Beijing University of Posts and Telecommunications -> Ph.D. student at HKUST.
