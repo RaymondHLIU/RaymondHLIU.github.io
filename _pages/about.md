@@ -20,6 +20,7 @@ I am also recruiting self-motivated long term (at least six months) visting stud
 
 News
 ======
+* <span style="color:red">New!</span> (2021-09-16) I was named in Forbes 30 Under 30 China 2021 list.
 * <span style="color:red">New!</span> (2021-05-18) Four papers were accepted to ***SIGKDD 2021*** about **web-scale machine learning system**, **real estate appraisal**, **talent demand forecasting**, and **domain-oriented BERT**.
 * (2021-01-16) Two papers were accepted to ***WebConf 2021*** about **intelligent charging station recommendation** and **online query-POI matching**.
 * (2020-12-02) Four papers were accepted to ***AAAI 2021*** about **transportation demand prediction**, **atmospheric prediction**, **corporate porfiling**, and **POI recommendation**.
