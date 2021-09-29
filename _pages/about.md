@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 Hao Liu received his Ph.D. degree from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk) in 2017.  He is currently an assistant professor at the Artificial Intelligence Thrust, HKUST (Guangzhou), and an Affiliated Assistant Professor at the Department of Computer Science and Engineering, HKUST (Clear Water Bay).
-
 Dr. Liu's current research interests include spatiotemporal data mining, graph learning, reinforcement learning, and their applications on urban computing, intelligent transportation, and recommender systems. 
-In the past two years, he has filed over 50 Chinese/U.S. patents and published over 20 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, AAAI, and IJCAI. He also regularly served as the reviewer and (senior) program committee member of many top-tier journals and conferences, such as IEEE TKDE, IEEE TITS, TRC, ACM SIGKDD, AAAI, and IJCAI. In addition, he is the organizer and questioner of the KDD Cup 2019 Machine Learning competition, which has been well-recognized as the world's top data science competition. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
+In the past two years, he has filed over 50 Chinese/U.S. patents and published over 20 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, AAAI, and IJCAI. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
 
 <!-- After spending several years in industrial research, Hao back to [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk), where he started his research career.
 Previously, Hao was a Research Scientist at Business Intelligence Lab, [Baidu Research](http://research.baidu.com/) and a Postdoctoral Fellow at the HKUST.
