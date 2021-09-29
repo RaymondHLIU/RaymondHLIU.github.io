@@ -7,21 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hao Liu received his Ph.D. degree from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk) in 2017.  He is currently an assistant professor at the Artificial Intelligence Thrust, HKUST (Guangzhou), and an Affiliated Assistant Professor at the Department of Computer Science and Engineering, HKUST (Clear Water Bay).
 
-After spending several years in industrial research, Hao back to [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk), where he started his research career.
+Dr. Liu's current research interests include spatiotemporal data mining, graph learning, reinforcement learning, and their applications on urban computing, intelligent transportation, and recommender systems. 
+In the past two years, he has filed over 50 Chinese/U.S. patents and published over 20 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, AAAI, and IJCAI. He also regularly served as the reviewer and (senior) program committee member of many top-tier journals and conferences, such as IEEE TKDE, IEEE TITS, TRC, ACM SIGKDD, AAAI, and IJCAI. In addition, he is the organizer and questioner of the KDD Cup 2019 Machine Learning competition, which has been well-recognized as the world's top data science competition. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
+
+<!-- After spending several years in industrial research, Hao back to [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk), where he started his research career.
 Previously, Hao was a Research Scientist at Business Intelligence Lab, [Baidu Research](http://research.baidu.com/) and a Postdoctoral Fellow at the HKUST.
 Hao received his Ph.D. degree from HKUST in 2017. 
-<!-- He also received a Bachelor degree from [South China University of Technology](https://www.scut.edu.cn/) in 2012. -->
+He also received a Bachelor degree from [South China University of Technology](https://www.scut.edu.cn/) in 2012. 
 His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing.
+-->
 
-<span style="color:red"> **[Open Positions]** </span> Multiple Ph.D. student (2022 spring and 2022 fall) and Postdoctoral Fellow positions available! 
+<span style="color:red"> **[Open Positions]** </span> Multiple Ph.D. student (2022 fall) and Research Assistant positions available! 
 I am also recruiting self-motivated long term (at least six months) visting students. Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
 <span id="main"> </span>
 
 News
 ======
-* <span style="color:red">New!</span> (2021-09-16) I was named in Forbes 30 Under 30 China 2021 list.
-* <span style="color:red">New!</span> (2021-05-18) Four papers were accepted to ***SIGKDD 2021*** about **web-scale machine learning system**, **real estate appraisal**, **talent demand forecasting**, and **domain-oriented BERT**.
+* <span style="color:red">New!</span> (2021-09-28) One paper was accepted to ***NeurIPS 2021*** about **bi-level optimization**.
+* <span style="color:red">New!</span> (2021-09-16) I was named in ***Forbes 30 Under 30 China 2021*** list.
+* (2021-05-18) Four papers were accepted to ***SIGKDD 2021*** about **web-scale machine learning system**, **real estate appraisal**, **talent demand forecasting**, and **domain-oriented BERT**.
 * (2021-01-16) Two papers were accepted to ***WebConf 2021*** about **intelligent charging station recommendation** and **online query-POI matching**.
 * (2020-12-02) Four papers were accepted to ***AAAI 2021*** about **transportation demand prediction**, **atmospheric prediction**, **corporate porfiling**, and **POI recommendation**.
 * (2020-10-21) Our paper [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://ieeexplore.ieee.org/document/9241427)  was accepted to ***TKDE***.
