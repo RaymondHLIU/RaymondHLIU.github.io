@@ -18,14 +18,15 @@ He also received a Bachelor degree from [South China University of Technology](h
 His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing.
 -->
 
-<span style="color:red"> **[Open Positions]** </span> Multiple Ph.D. student (2022 fall) and Research Assistant positions available! 
+<span style="color:red"> **[Open Positions]** </span> One Ph.D. student (2022 fall) and Research Assistant positions available! 
 I am also recruiting self-motivated long term (at least six months) visting students. Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
 <span id="main"> </span>
 
 News
 ======
-* <span style="color:red">New!</span> (2021-09-28) One paper was accepted to ***NeurIPS 2021*** about **bi-level optimization**.
-* <span style="color:red">New!</span> (2021-09-16) I was named in ***Forbes 30 Under 30 China 2021*** list.
+* <span style="color:red">New!</span> One paper was accepted to ***AAAI 2022*** about **long path knowledge reasoning**.
+* (2021-09-28) One paper was accepted to ***NeurIPS 2021*** about **bi-level optimization**.
+* (2021-09-16) I was named in ***Forbes 30 Under 30 China 2021*** list.
 * (2021-05-18) Four papers were accepted to ***SIGKDD 2021*** about **web-scale machine learning system**, **real estate appraisal**, **talent demand forecasting**, and **domain-oriented BERT**.
 * (2021-01-16) Two papers were accepted to ***WebConf 2021*** about **intelligent charging station recommendation** and **online query-POI matching**.
 * (2020-12-02) Four papers were accepted to ***AAAI 2021*** about **transportation demand prediction**, **atmospheric prediction**, **corporate porfiling**, and **POI recommendation**.
