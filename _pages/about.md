@@ -24,7 +24,8 @@ I am also recruiting self-motivated long term (at least six months) visting stud
 
 News
 ======
-* <span style="color:red">New!</span> (2021-12-02) One paper was accepted to ***AAAI 2022*** about **long path knowledge reasoning**.
+* <span style="color:red">New!</span> (2022-1-29) One paper on **graph-grounded conversational recommendation** was accepted to ***TKDE***, and one paper on **data science competition analysis** was accepted to ***TKDD***.
+* (2021-12-02) One paper was accepted to ***AAAI 2022*** about **long path knowledge reasoning**.
 * (2021-09-28) One paper was accepted to ***NeurIPS 2021*** about **bi-level optimization**.
 * (2021-09-16) I was named in ***Forbes 30 Under 30 China 2021*** list.
 * (2021-05-18) Four papers were accepted to ***SIGKDD 2021*** about **web-scale machine learning system**, **real estate appraisal**, **talent demand forecasting**, and **domain-oriented BERT**.
