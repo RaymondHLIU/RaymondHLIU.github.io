@@ -7,7 +7,8 @@ permalink: /publications/
 (Underline indicates students I supervised, \* indicates correpsonding author)
 
 **2022**
-* <span style="color:red">New!</span> **[TKDE]** Zeming Liu, Ding Zhou, ***Hao Liu***, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che, Ting Liu, Hui Xiong. [Graph-Grounded Goal Planning for Conversational Recommendation](https://raymondhliu.github.io/publications/). IEEE Transactions on Knowledge and Data Engineering, Accepted.
+* <span style="color:red">New!</span> **[TKDE]** <ins>Jindong Han</ins>, ***Hao Liu\****, Haoyi Xiong, Jing Yang. [Semi-Supervised Air Quality Forecasting via Self-Supervised Hierarchical Graph Neural Network](https://raymondhliu.github.io/publications/). IEEE Transactions on Knowledge and Data Engineering, Accepted.
+* <span style="color:red">New!</span> **[TKDE]** Zeming Liu, <ins>Ding Zhou</ins>, ***Hao Liu***, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che, Ting Liu, Hui Xiong. [Graph-Grounded Goal Planning for Conversational Recommendation](https://raymondhliu.github.io/publications/). IEEE Transactions on Knowledge and Data Engineering, Accepted.
 * <span style="color:red">New!</span> **[TKDD]** ***Hao Liu***, Qingyu Guo, Hengshu Zhu, Fuzhen Zhuang, Shengwen Yang, Dejing Dou, Hui Xiong. [Who will Win the Data Science Competition? Insights from KDD Cup 2019 and Beyond](https://raymondhliu.github.io/publications/). ACM Transactions on Knowledge Discovery from Data, Accepted.
 * **[AAAI]** Denghui Zhang, Zixuan Yuan, ***Hao Liu***, Xiaodong Lin and Hui Xiong. [Learning to Walk with Dual Agents for Knowledge Graph Reasoning](https://raymondhliu.github.io/publications/). In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence, Vancouver, BC, Canada, 2022.
 
