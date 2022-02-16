@@ -5,12 +5,6 @@ author_profile: true
 description: Students and interns I supervised.
 ---
 
-Students at HKUST(GZ)
----
-***Ph.D. students***
-* **Jindong Han**, 2021 fall, from Beijing University of Posts and Telecommunications.
-* **Kehua Chen**, 2021 fall, from University of Chinese Academy of Sciences & University of Copenhagen.
-
 
 Interns at Baidu Research (Worked with me for at least six months)
 ---
