@@ -24,7 +24,7 @@ I am also recruiting self-motivated long term (at least six months) visting stud
 
 News
 ======
-* <span style="color:red">New!</span> (2022-1-29) Two papers on **semi-supervised air quality forecasting** and **graph-grounded conversational recommendation** were accepted to ***TKDE***
+* <span style="color:red">New!</span> (2022-1-29) Two papers on **semi-supervised air quality forecasting** and **graph-grounded conversational recommendation** were accepted to ***TKDE***.
 * <span style="color:red">New!</span> (2022-1-29) One paper on **data science competition analysis** was accepted to ***TKDD***.
 * (2021-12-02) One paper was accepted to ***AAAI 2022*** about **long path knowledge reasoning**.
 * (2021-09-28) One paper was accepted to ***NeurIPS 2021*** about **bi-level optimization**.
