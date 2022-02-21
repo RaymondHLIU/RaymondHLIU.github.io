@@ -22,7 +22,7 @@ His general research interests are in data mining, machine learning, and big dat
 Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
 <span id="main"> </span>
 
-<span style="color:red"> **[2023 fall]** Perspective students of the 2023 fall are highly encouraged to apply to my visiting student/research assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your Ph.D. career. 
+<span style="color:red"> **[2023 spring/fall]** Perspective students of the 2023 spring/fall are highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your Ph.D. career. 
 <span id="main"> </span>
 
 News
