@@ -6,7 +6,7 @@ description: Students and interns I supervised.
 ---
 
 
-Interns at Baidu Research (Worked with me for at least six months)
+Research Assistants and Interns (Worked with me for at least six months)
 ---
 * **Can Chen**, Ph.D. student at McGill University.
 * **Jindong Han**, Master student at Beijing University of Posts and Telecommunications -> Ph.D. student at HKUST.

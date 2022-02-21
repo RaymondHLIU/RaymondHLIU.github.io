@@ -18,12 +18,16 @@ He also received a Bachelor degree from [South China University of Technology](h
 His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing.
 -->
 
-<span style="color:red"> **[Open Positions]** </span> One Ph.D. student (2022 fall) and Research Assistant positions available! 
-I am also recruiting self-motivated long term (at least six months) visting students. Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
+<span style="color:red"> **[2022 fall]** </span> One Ph.D. student and several Research Assistant positions available! 
+Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus.
+<span id="main"> </span>
+
+<span style="color:red"> **[2023 fall]** Perspective students of the 2023 fall are highly encouraged to apply to my visiting student/research assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your Ph.D. career. 
 <span id="main"> </span>
 
 News
 ======
+* <span style="color:red">New!</span> (2022-2-21) One paper on **national-wide public transportation routing** were accepted to ***TKDE***.
 * <span style="color:red">New!</span> (2022-1-29) Two papers on **semi-supervised air quality forecasting** and **graph-grounded conversational recommendation** were accepted to ***TKDE***.
 * <span style="color:red">New!</span> (2022-1-29) One paper on **data science competition analysis** was accepted to ***TKDD***.
 * (2021-12-02) One paper was accepted to ***AAAI 2022*** about **long path knowledge reasoning**.
