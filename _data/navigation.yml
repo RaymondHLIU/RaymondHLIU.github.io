@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
-    
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /publications/ 
 
   - title: "Services"
     url: /services/
