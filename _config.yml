@@ -10,9 +10,8 @@ locale                   : "en-US"
 title                    : "Hao Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Hao Liu"
-description              : &description "Research Scientist"
-description              : &description "Bussiness Intelligence Lab"
-description              : &description "Baidu Research"
+description              : &description "Assistant Professor"
+description              : &description "HKUST(GZ)"
 url                      : https://RaymondHLIU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RaymondHLIU/RaymondHLIU.github.io"
@@ -84,7 +83,7 @@ author:
   avatar           : "haoliu.jpg"
   bio              : |
     The Hong Kong University of <br>
-    Science and Technology
+    Science and Technology (Guangzhou)
   location         : "Hong Kong SAR"
   employer         :
   googlescholar    : 
