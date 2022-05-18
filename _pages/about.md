@@ -25,10 +25,11 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
+* <span style="color:red">New!</span> (2022-5-18) One paper on **Reinforced charging station recommendation** was accepted to ***TKDE***.
 * <span style="color:red">New!</span> (2022-5-1) One paper on **multi-modal transportation routing** was accepted to ***VLDBJ***.
-* <span style="color:red">New!</span> (2022-2-21) One paper on **national-wide public transportation routing** was accepted to ***TKDE***.
-* <span style="color:red">New!</span> (2022-1-29) Two papers on **semi-supervised air quality forecasting** and **graph-grounded conversational recommendation** were accepted to ***TKDE***.
-* <span style="color:red">New!</span> (2022-1-29) One paper on **data science competition analysis** was accepted to ***TKDD***.
+* (2022-2-21) One paper on **national-wide public transportation routing** was accepted to ***TKDE***.
+* (2022-1-29) Two papers on **semi-supervised air quality forecasting** and **graph-grounded conversational recommendation** were accepted to ***TKDE***.
+* (2022-1-29) One paper on **data science competition analysis** was accepted to ***TKDD***.
 * (2021-12-02) One paper was accepted to ***AAAI 2022*** about **long path knowledge reasoning**.
 * (2021-09-28) One paper was accepted to ***NeurIPS 2021*** about **bi-level optimization**.
 * (2021-09-16) I was named in ***Forbes 30 Under 30 China 2021*** list.
