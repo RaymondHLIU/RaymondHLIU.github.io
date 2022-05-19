@@ -25,7 +25,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2022-5-19) Three papers on **GPU-accelerated deep learning system**, **Imitative charging station recommendation**, and **Talent demand-supply prediction** were accepted to ***KDD 2022***.
+* <span style="color:red">New!</span> (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **Imitative charging station recommendation**, and **Talent demand-supply prediction**.
 * <span style="color:red">New!</span> (2022-5-18) One paper on **Reinforced charging station recommendation** was accepted to ***TKDE***.
 * <span style="color:red">New!</span> (2022-5-1) One paper on **multi-modal transportation routing** was accepted to ***VLDBJ***.
 * (2022-2-21) One paper on **national-wide public transportation routing** was accepted to ***TKDE***.
