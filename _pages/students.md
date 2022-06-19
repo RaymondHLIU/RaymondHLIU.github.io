@@ -7,13 +7,13 @@ description: Students and interns I supervised.
 
 Current Members
 ---
-* Jindong Han, Ph.D. student, co-supervise with Prof. Hui Xiong, master from BUPT.
-* Lu Dai, Ph.D. student, co-supervise with Prof. Hui Xiong, undergraduate from USTC.
-* Weijia Zhang, Ph.D. student, co-supervise with Prof. Hui Xiong, master from USTC.
-* Wenzhao Jiang, Ph.D. student, co-supervise with Prof. Hui Xiong, undergraduate from USTC (school of gifted young).
-* Zhuoning Guo, Ph.D. student, co-supervise with Prof. Qiang Yang, undergraduate from HIT.
-* Qingyan Zhu, M.Phil. student, undergraduate from USTC. 
-* Fan Liu, M.Phil. student, undergraduate from UESTC.
+* **Jindong Han**, Ph.D. student, co-supervise with Prof. Hui Xiong, master from BUPT.
+* **Lu Dai**, Ph.D. student, co-supervise with Prof. Hui Xiong, undergraduate from USTC.
+* **Weijia Zhang**, Ph.D. student, co-supervise with Prof. Hui Xiong, master from USTC.
+* **Wenzhao Jiang**, Ph.D. student, co-supervise with Prof. Hui Xiong, undergraduate from USTC (school of gifted young).
+* **Zhuoning Guo**, Ph.D. student, co-supervise with Prof. Qiang Yang, undergraduate from HIT.
+* **Qingyan Zhu**, M.Phil. student, undergraduate from USTC. 
+* **Fan Liu**, M.Phil. student, undergraduate from UESTC.
 
 Past members
 ---
