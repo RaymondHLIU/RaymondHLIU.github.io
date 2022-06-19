@@ -5,18 +5,25 @@ author_profile: true
 description: Students and interns I supervised.
 ---
 
-
-Research Assistants and Interns (Worked with me for at least six months)
+Current Members
 ---
-* **Can Chen**, Ph.D. student at McGill University.
-* **Jindong Han**, Master student at Beijing University of Posts and Telecommunications -> Ph.D. student at HKUST.
-* **Qingyu Guo**, Ph.D. student at HKUST.
-* **Ding Zhou**, Master student at University of Science and Technology of China -> Alibaba Group.
-* **Carter Blum**, Master student at University of Minnesota -> Bloomberg.
-* **Qiyu Wu**, Master studet at Peking University. 
-* **Weijia Zhang**, Undergraduate student at Southwest Jiaotong University -> Master studnet at University of Science and Technology of China.
-* **Ying Xu** Ph.D student at National University of Defense Technology.
-* **Pengfei Wang**, Ph.D. student at Chinese Academy of Sciences -> Alibaba Group.
-* **Zixuan Yuan**, Ph.D student at Rutgers University.
-* **Ting Li**, Master student at National University of Defense Technology -> JD Digits.
+* Jindong Han, Ph.D. student, co-supervise with Prof. Hui Xiong, master from BUPT.
+* Lu Dai, Ph.D. student, co-supervise with Prof. Hui Xiong, undergraduate from USTC.
+* Weijia Zhang, Ph.D. student, co-supervise with Prof. Hui Xiong, master from USTC.
+* Wenzhao Jiang, Ph.D. student, co-supervise with Prof. Hui Xiong, undergraduate from USTC (school of gifted young).
+* Zhuoning Guo, Ph.D. student, co-supervise with Prof. Qiang Yang, undergraduate from HIT.
+* Qingyan Zhu, M.Phil. student, undergraduate from USTC. 
+* Fan Liu, M.Phil. student, undergraduate from UESTC.
+
+Past members
+---
+* **Can Chen**, Intern, Undergraduate at USTC -> Ph.D. student at McGill University.
+* **Qingyu Guo**, Intern, Ph.D. student at HKUST.
+* **Ding Zhou**, Intern, Master at USTC -> Alibaba Group.
+* **Carter Blum**, Intern, Master student at University of Minnesota -> Bloomberg.
+* **Qiyu Wu**, Intern, Master studet at PKU. 
+* **Ying Xu** Intern, Ph.D student at NUDT.
+* **Pengfei Wang**, Intern, Ph.D. student at CAS -> Alibaba Group.
+* **Zixuan Yuan**, Intern, Ph.D student at Rutgers University.
+* **Ting Li**, Intern, Master student at NUDT -> JD Digits.
 

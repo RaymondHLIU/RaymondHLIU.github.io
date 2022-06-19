@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hao Liu received his Ph.D. degree from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk) in 2017.  He is currently an assistant professor at the Artificial Intelligence Thrust, HKUST (Guangzhou), and an Affiliated Assistant Professor at the Department of Computer Science and Engineering, HKUST (Clear Water Bay).
 Dr. Liu's current research interests include spatiotemporal data mining, graph learning, reinforcement learning, and their applications on urban computing, intelligent transportation, and recommender systems. 
-In the past two years, he has filed over 50 China/U.S. patents and published over 20 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, AAAI, and IJCAI. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
+In the past three years, he has filed over 50 China/U.S. patents and published over 40 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, AAAI, and IJCAI. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
 
 <!-- After spending several years in industrial research, Hao back to [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk), where he started his research career.
 Previously, Hao was a Research Scientist at Business Intelligence Lab, [Baidu Research](http://research.baidu.com/) and a Postdoctoral Fellow at the HKUST.
@@ -25,7 +25,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging station recommendation**, and **talent demand-supply prediction**.
+* <span style="color:red">New!</span> (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging pricing**, and **talent demand-supply prediction**, congrats to my students Weijia Zhang and Zhuoning Guo.
 * <span style="color:red">New!</span> (2022-5-18) One paper on **Reinforced charging station recommendation** was accepted to ***TKDE***.
 * <span style="color:red">New!</span> (2022-5-1) One paper on **multi-modal transportation routing** was accepted to ***VLDBJ***.
 * (2022-2-21) One paper on **national-wide public transportation routing** was accepted to ***TKDE***.
@@ -56,6 +56,9 @@ News
 
 Selected Publications
 ======
+* *Hao Liu*, Qian Gao, Jiang Li, Xiaochao Liao, Hao Xiong, Guangxing Chen, Wenlin Wang,
+Guobao Yang, Zhiwei Zha, Daxiang Dong, Dejing Dou, Haoyi Xiong. [JiZhi: A Fast and Cost-Effective Model-As-A-Service System for
+Web-Scale Online Inference at Baidu](https://raymondhliu.github.io/). In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Virtual Conference, 2021.
 * **Hao Liu**, Jindong Han, Yanjie Fu, Jingbo Zhou, Xinjiang Lu, Hui Xiong. [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/). In Proceedings of the VLDB Endowment (***VLDB 2021***), Copenhagen, Denmark, 2021.
 * **Hao Liu**, Ying Li, Yanjie Fu, Huaibo Mei, Jingbo Zhou, Xu Ma and Hui Xiong. [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf). In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (***KDD 2020***), San Diego, California, 2020.
 <!-- * Zixuan Yuan, **Hao Liu\***, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu and Hui Xiong. [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](http://RaymondHLIU.github.io/files/SIGIR20-matching.pdf). In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (***SIGIR 2020***), Xi'an, China, 2020. -->
