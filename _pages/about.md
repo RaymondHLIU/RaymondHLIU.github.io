@@ -25,9 +25,10 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging pricing**, and **talent demand-supply prediction**, congrats to my students Weijia Zhang and Zhuoning Guo.
-* <span style="color:red">New!</span> (2022-5-18) One paper on **Reinforced charging station recommendation** was accepted to ***TKDE***.
-* <span style="color:red">New!</span> (2022-5-1) One paper on **multi-modal transportation routing** was accepted to ***VLDBJ***.
+* <span style="color:red">New!</span> (2022-9-1) One paper were accepted to ***ICDM 2022*** about **knowledge enhanced imitative trajectory generation**, congrats to my student Qingyan Zhu who graduated in August, a perfect end of research study.
+* (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging pricing**, and **talent demand-supply prediction**, congrats to my students Weijia Zhang and Zhuoning Guo.
+* (2022-5-18) One paper on **Reinforced charging station recommendation** was accepted to ***TKDE***.
+* (2022-5-1) One paper on **multi-modal transportation routing** was accepted to ***VLDBJ***.
 * (2022-2-21) One paper on **national-wide public transportation routing** was accepted to ***TKDE***.
 * (2022-1-29) Two papers on **semi-supervised air quality forecasting** and **graph-grounded conversational recommendation** were accepted to ***TKDE***.
 * (2022-1-29) One paper on **data science competition analysis** was accepted to ***TKDD***.
