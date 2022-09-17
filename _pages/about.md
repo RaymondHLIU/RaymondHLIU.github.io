@@ -60,9 +60,9 @@ News
 
 Selected Publications
 ======
-* *Hao Liu*, Qian Gao, Jiang Li, Xiaochao Liao, Hao Xiong, Guangxing Chen, Wenlin Wang,
+* **Hao Liu**, Qian Gao, Jiang Li, Xiaochao Liao, Hao Xiong, Guangxing Chen, Wenlin Wang,
 Guobao Yang, Zhiwei Zha, Daxiang Dong, Dejing Dou, Haoyi Xiong. [JiZhi: A Fast and Cost-Effective Model-As-A-Service System for
-Web-Scale Online Inference at Baidu](https://raymondhliu.github.io/). In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Virtual Conference, 2021.
+Web-Scale Online Inference at Baidu](https://raymondhliu.github.io/). In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining  (***KDD 2021***), Virtual Conference, 2021.
 * **Hao Liu**, Jindong Han, Yanjie Fu, Jingbo Zhou, Xinjiang Lu, Hui Xiong. [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/). In Proceedings of the VLDB Endowment (***VLDB 2021***), Copenhagen, Denmark, 2021.
 * **Hao Liu**, Ying Li, Yanjie Fu, Huaibo Mei, Jingbo Zhou, Xu Ma and Hui Xiong. [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf). In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (***KDD 2020***), San Diego, California, 2020.
 <!-- * Zixuan Yuan, **Hao Liu\***, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu and Hui Xiong. [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](http://RaymondHLIU.github.io/files/SIGIR20-matching.pdf). In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (***SIGIR 2020***), Xi'an, China, 2020. -->
