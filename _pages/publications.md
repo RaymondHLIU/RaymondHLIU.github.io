@@ -6,6 +6,9 @@ permalink: /publications/
 
 (Underline indicates students I supervised, \* indicates correpsonding author)
 
+**2023**
+* **[TKDE]** <ins>Jindong Han</ins>, ***Hao Liu\****, Hengshu Zhu, Hui Xiong. [Kill Two Birds with One Stone: A Multi-View Multi-Adversarial Learning Approach for Joint Air Quality and Weather Prediction](https://raymondhliu.github.io/publications/). IEEE Transactions on Knowledge and Data Engineering, Accepted.
+
 **2022**
 * **[VLDBJ]** ***Hao Liu***, Jindong Han, Yanjie Fu, Yanyan Li, Kai Chen, Hui Xiong. [Unified Route Representation Learning for Multi-Modal Transportation Recommendation with Spatiotemporal Pre-Training](https://raymondhliu.github.io/publications/). The VLDB Journal, Accepted.
 * **[TKDE]** <ins>Weijia Zhang</ins>, ***Hao Liu\****, Tong Xu, Fan Wang, Haoran Xin, Hua Wu, Hui Xiong\*. [RLCharge: Imitative Multi-Agent Spatiotemporal Reinforcement Learning for Electric Vehicle Charging Station Recommendation](https://raymondhliu.github.io/publications/). IEEE Transactions on Knowledge and Data Engineering, Accepted.

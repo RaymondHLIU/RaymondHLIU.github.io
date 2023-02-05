@@ -21,13 +21,14 @@ His general research interests are in data mining, machine learning, and big dat
 <span style="color:red"> **[New]** Postdoc position available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. 
 <span id="main"> </span>
 
-<span style="color:red"> **[2023 Fall]** Multiple Ph.D. positions available! 
+<span style="color:red"> **[2024 Spring and Fall]** Multiple Ph.D. positions available! 
 Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your Ph.D. career. 
 <span id="main"> </span>
 
 News
 ======
-* <span style="color:red">New!</span> (2022-9-16) One paper was accepted to ***NeurIPS 2022*** about **adversarial attack against graph based traffic forecasting models**, congrats to my student Fan Liu.
+* <span style="color:red">New!</span> (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han.
+* (2022-9-16) One paper was accepted to ***NeurIPS 2022*** about **adversarial attack against graph based traffic forecasting models**, congrats to my student Fan Liu.
 * (2022-9-1) One paper was accepted to ***ICDM 2022*** about **knowledge enhanced imitative trajectory generation**, congrats to my student Qingyan Zhu who graduated in August, a perfect end of research study.
 * (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging pricing**, and **talent demand-supply prediction**, congrats to my students Weijia Zhang and Zhuoning Guo.
 * (2022-5-18) One paper on **Reinforced charging station recommendation** was accepted to ***TKDE***.
