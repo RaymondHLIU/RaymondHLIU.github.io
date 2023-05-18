@@ -8,9 +8,10 @@ author_profile: true
 * The KDD Cup 2019 Regular ML Track, Co-organizer
 
 **(Senior) PC Member**:
-* **KDD 2019, 2020, 2021, 2022** Research Track
-* **IJCAI 2021, 2022**
-* **AAAI 2020, 2021, 2022**
+* **KDD 2019, 2020, 2021, 2022, 2023** Research Track
+* **IJCAI 2021, 2022, 2023**
+* **AAAI 2020, 2021, 2022, 2023**
+* **NeurIPS 2023**
 * **SDM 2021**
 
 **Journal Reviewer**
