@@ -25,9 +25,13 @@ His general research interests are in data mining, machine learning, and big dat
 Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your Ph.D. career. 
 <span id="main"> </span>
 
+<span style="color:red"> For prospective MPhil students, please read the [Guidelines & Expectations](http://RaymondHLIU.github.io/files/MPhil_Guideline.pdf) before you contact me. Thanks! 
+<span id="main"> </span>
+
 News
 ======
-* <span style="color:red">New!</span> (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han.
+* <span style="color:red">New!</span> (2023-5-17) Four paperd were accepted to ***KDD*** about **adversarial spatiotemporal training**, **ETA prediction**, and **personalized vehicle energy consumption estimation** congrats to my student Fan Liu, Jindong Han, and Siqi Lai.
+* (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han.
 * (2022-9-16) One paper was accepted to ***NeurIPS 2022*** about **adversarial attack against graph based traffic forecasting models**, congrats to my student Fan Liu.
 * (2022-9-1) One paper was accepted to ***ICDM 2022*** about **knowledge enhanced imitative trajectory generation**, congrats to my student Qingyan Zhu who graduated in August, a perfect end of research study.
 * (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging pricing**, and **talent demand-supply prediction**, congrats to my students Weijia Zhang and Zhuoning Guo.

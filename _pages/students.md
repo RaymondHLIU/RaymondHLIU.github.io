@@ -7,13 +7,15 @@ description: Students and interns I supervised.
 
 Current Members
 ---
-* **Jindong Han**, Ph.D. student, co-supervise with Prof. Hui Xiong, master from BUPT.
-* **Lu Dai**, Ph.D. student, co-supervise with Prof. Hui Xiong, undergraduate from USTC.
-* **Weijia Zhang**, Ph.D. student, co-supervise with Prof. Hui Xiong, master from USTC.
-* **Wenzhao Jiang**, Ph.D. student, co-supervise with Prof. Hui Xiong, undergraduate from USTC (school of gifted young).
-* **Zhuoning Guo**, Ph.D. student, co-supervise with Prof. Qiang Yang, undergraduate from HIT.
+* **Jindong Han**, Ph.D. student, master from BUPT.
+* **Lu Dai**, Ph.D. student, undergraduate from USTC.
+* **Weijia Zhang**, Ph.D. student, master from USTC.
+* **Wenzhao Jiang**, Ph.D. student, undergraduate from USTC (school of gifted young).
+* **Zhuoning Guo**, Ph.D. student, undergraduate from HIT.
 * **Tengfei Lyu**, Ph.D. student, master from CSU.
 * **Fan Liu**, M.Phil. student, undergraduate from UESTC.
+* **Wenshuo Chao**, M.Phil. student, undergraduate from HKUST.
+* **Ziyang Wu**, M.Phil. student, undergraduate from CityU.
 
 Past members@HKUST(GZ)
 ---
@@ -27,7 +29,7 @@ Past members@Baidu Research
 * **Carter Blum**, Intern, Master student at University of Minnesota -> Bloomberg.
 * **Qiyu Wu**, Intern, Master studet at PKU. 
 * **Ying Xu** Intern, Ph.D. student at NUDT.
-* **Pengfei Wang**, Intern, Ph.D. student at CAS -> Alibaba Group.
+* **Pengfei Wang**, Intern, Ph.D. student at CAS, now associate researcher at Chinese Academy of Sciences.
 * **Zixuan Yuan**, Intern, Ph.D student at Rutgers University.
 * **Ting Li**, Intern, Master student at NUDT -> JD Digits.
 
