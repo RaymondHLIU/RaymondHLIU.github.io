@@ -7,15 +7,21 @@ description: Students and interns I supervised.
 
 Current Members
 ---
-* **Jindong Han**, Ph.D. student, master from BUPT.
-* **Lu Dai**, Ph.D. student, undergraduate from USTC.
-* **Weijia Zhang**, Ph.D. student, master from USTC.
-* **Wenzhao Jiang**, Ph.D. student, undergraduate from USTC (school of gifted young).
-* **Zhuoning Guo**, Ph.D. student, undergraduate from HIT.
-* **Tengfei Lyu**, Ph.D. student, master from CSU.
-* **Fan Liu**, M.Phil. student, undergraduate from UESTC.
-* **Wenshuo Chao**, M.Phil. student, undergraduate from HKUST.
-* **Ziyang Wu**, M.Phil. student, undergraduate from CityU.
+***Ph.D. students***
+* **Jindong Han**, master from BUPT.
+* **Lu Dai**, undergraduate from USTC.
+* **Weijia Zhang**, master from USTC.
+* **Wenzhao Jiang**, undergraduate from USTC.
+* **Zhuoning Guo**, undergraduate from HIT.
+* **Tengfei Lyu**, master from CSU.
+* **Shuowei Cai**, master from HKUST.
+* **Siqi Lai**, undergraduate from WHU.
+* **Hang Ni**, ndergraduate from NWPU.
+
+***M.Phil. students***
+* **Fan Liu**, undergraduate from UESTC.
+* **Wenshuo Chao**, undergraduate from HKUST.
+* **Ziyang Wu**, undergraduate from CityU.
 
 Past members@HKUST(GZ)
 ---
@@ -24,12 +30,13 @@ Past members@HKUST(GZ)
 Past members@Baidu Research
 ---
 * **Can Chen**, Intern, Undergraduate at USTC -> Ph.D. student at McGill University.
+* **Wei Fan**, Intern, Ph.D. student at UCF.
 * **Qingyu Guo**, Intern, Ph.D. student at HKUST.
 * **Ding Zhou**, Intern, Master at USTC -> Alibaba Group.
 * **Carter Blum**, Intern, Master student at University of Minnesota -> Bloomberg.
 * **Qiyu Wu**, Intern, Master studet at PKU. 
 * **Ying Xu** Intern, Ph.D. student at NUDT.
 * **Pengfei Wang**, Intern, Ph.D. student at CAS, now associate researcher at Chinese Academy of Sciences.
-* **Zixuan Yuan**, Intern, Ph.D student at Rutgers University.
+* **Zixuan Yuan**, Intern, Ph.D student at Rutgers University, now assistant professor at HKUST(GZ).
 * **Ting Li**, Intern, Master student at NUDT -> JD Digits.
 
