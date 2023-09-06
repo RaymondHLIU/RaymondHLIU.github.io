@@ -16,7 +16,7 @@ Current Members
 * **Tengfei Lyu**, master from CSU.
 * **Shuowei Cai**, master from HKUST.
 * **Siqi Lai**, undergraduate from WHU.
-* **Hang Ni**, ndergraduate from NWPU.
+* **Hang Ni**, undergraduate from NWPU.
 
 ***M.Phil. students***
 * **Fan Liu**, undergraduate from UESTC.
