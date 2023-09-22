@@ -15,7 +15,7 @@ author_profile: true
 * **ICLR 2023**
 * **WebConf 2023**
 * **ICDM 2023**
-* **SDM 2021**
+* **SDM 2021, 2023**
 
 **Journal Reviewer**
 * IEEE Transactions on Knowledge and Data Engineering (**TKDE**)

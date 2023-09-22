@@ -30,7 +30,8 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2023-5-17) Four papers were accepted to ***KDD*** about **adversarial spatiotemporal training**, **ETA prediction**, and **personalized vehicle energy consumption estimation** congrats to my student Fan Liu, Jindong Han, and Siqi Lai.
+* <span style="color:red">New!</span> (2023-9-22) One paper was accepted to ***NeurIPS*** Datasets and Benchmarks track about **Urban Knowledge Graph** congrats to my student Yansong Ning. Checkout the opensourced [UrbanKG construction tool and UrbanKGs for NYC and Chicago](https://github.com/usail-hkust/UUKG) to boost your own research. 
+* 2023-5-17) Four papers were accepted to ***KDD*** about **adversarial spatiotemporal training**, **ETA prediction**, and **personalized vehicle energy consumption estimation** congrats to my student Fan Liu, Jindong Han, and Siqi Lai.
 * (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han.
 * (2022-9-16) One paper was accepted to ***NeurIPS 2022*** about **adversarial attack against graph based traffic forecasting models**, congrats to my student Fan Liu.
 * (2022-9-1) One paper was accepted to ***ICDM 2022*** about **knowledge enhanced imitative trajectory generation**, congrats to my student Qingyan Zhu who graduated in August, a perfect end of research study.

@@ -14,7 +14,7 @@ Current Members
 * **Wenzhao Jiang**, undergraduate from USTC.
 * **Zhuoning Guo**, undergraduate from HIT.
 * **Tengfei Lyu**, master from CSU.
-* **Shuowei Cai**, master from HKUST.
+* **Shuowei Cai**, M.Phil. from HKUST.
 * **Siqi Lai**, undergraduate from WHU.
 * **Hang Ni**, undergraduate from NWPU.
 
@@ -23,12 +23,13 @@ Current Members
 * **Wenshuo Chao**, undergraduate from HKUST.
 * **Ziyang Wu**, undergraduate from CityU.
 
-Past members@HKUST(GZ)
+Past members
 ---
 * **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc. 
 
-Past members@Baidu Research
----
+* **Xiaolong Jin**, Intern, Undergraduate at USTC -> Ph.D. student at Purdue University.
+* **Weilin Li**, Intern, MSC at CityU -> Ph.D. student at HKUST(GZ).
+
 * **Can Chen**, Intern, Undergraduate at USTC -> Ph.D. student at McGill University.
 * **Wei Fan**, Intern, Ph.D. student at UCF.
 * **Qingyu Guo**, Intern, Ph.D. student at HKUST.
