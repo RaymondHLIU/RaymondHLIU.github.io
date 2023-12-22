@@ -31,7 +31,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 News
 ======
 * <span style="color:red">New!</span> (2023-12-20) One paper was accepted to ***VLDB 2024*** about **large-scale traffic forecasting**, congrats to my student Jindong Han.
-* * <span style="color:red">New!</span> (2023-12-20) two papers were accepted to ***AAAI 2024*** about **skill demand-supply prediction** and **hierarchical multi-label classification**, congrats to my student Wenshuo Chao and Dr. Zixuan Yuan.
+* <span style="color:red">New!</span> (2023-12-20) two papers were accepted to ***AAAI 2024*** about **skill demand-supply prediction** and **hierarchical multi-label classification**, congrats to my student Wenshuo Chao and Dr. Zixuan Yuan.
 * (2023-9-22) One paper was accepted to ***NeurIPS*** Datasets and Benchmarks track about **Urban Knowledge Graph** congrats to my student Yansong Ning. Checkout the opensourced [UrbanKG construction tool and UrbanKGs for NYC and Chicago](https://github.com/usail-hkust/UUKG) to boost your own research. 
 * (2023-5-17) Four papers were accepted to ***KDD*** about **adversarial spatiotemporal training**, **ETA prediction**, and **personalized vehicle energy consumption estimation** congrats to my students Fan Liu, Jindong Han, and Siqi Lai.
 * (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han.
