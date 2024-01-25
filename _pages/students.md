@@ -8,27 +8,32 @@ description: Students and interns I supervised.
 Current Members
 ---
 ***Ph.D. students***
-* **Jindong Han**, master from BUPT.
-* **Lu Dai**, undergraduate from USTC.
-* **Weijia Zhang**, master from USTC.
-* **Wenzhao Jiang**, undergraduate from USTC.
-* **Zhuoning Guo**, undergraduate from HIT.
-* **Tengfei Lyu**, master from CSU.
+* **Jindong Han**, master from Beijing University of Posts and Telecommunications.
+* **Lu Dai**, undergraduate from University of Science and Technology of China.
+* **Weijia Zhang**, master from University of Science and Technology of China.
+* **Wenzhao Jiang**, undergraduate from University of Science and Technology of China.
+* **Zhuoning Guo**, undergraduate from Harbin Institute of Technology.
+* **Tengfei Lyu**, master from Central South University.
 * **Shuowei Cai**, M.Phil. from HKUST.
-* **Siqi Lai**, undergraduate from WHU.
-* **Hang Ni**, undergraduate from NWPU.
+* **Siqi Lai**, undergraduate from Wuhan University.
+* **Hang Ni**, undergraduate from Northwestern Polytechnical University.
+* **Fan Liu**, M.Phil. from HKUST(GZ).
 
 ***M.Phil. students***
-* **Fan Liu**, undergraduate from UESTC.
 * **Wenshuo Chao**, undergraduate from HKUST.
-* **Ziyang Wu**, undergraduate from CityU.
+* **Ziyang Wu**, undergraduate from City Uinversity of Hong Kong.
+* **Zhao Xu**, undergraduate from Tsinghua University.
+* **Yansong Ning**, undergraduate from Taiyuan University of Technology.
+* **Tianrui Song**,undergraduate from Nanjing Agricultural University.
+* **Ruiqian Han**, undergraduate from Hohai University.
 
 Past members
 ---
+* **Fan Liu**, M.Phil. 2023 -> Continue Ph.D. at HKUST(GZ).
 * **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc. 
 
 * **Xiaolong Jin**, Intern, Undergraduate at USTC -> Ph.D. student at Purdue University.
-* **Weilin Li**, Intern, MSC at CityU -> Ph.D. student at HKUST(GZ).
+* **Weilin Lin**, Intern, MSC at CityU -> Ph.D. student at HKUST(GZ).
 
 * **Can Chen**, Intern, Undergraduate at USTC -> Ph.D. student at McGill University.
 * **Wei Fan**, Intern, Ph.D. student at UCF.
