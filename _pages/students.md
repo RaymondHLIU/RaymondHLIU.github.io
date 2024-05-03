@@ -40,7 +40,6 @@ Past members
 * **Qingyu Guo**, Intern, Ph.D. student at HKUST.
 * **Ding Zhou**, Intern, Master at USTC -> Alibaba Group.
 * **Carter Blum**, Intern, Master student at University of Minnesota -> Bloomberg.
-* **Qiyu Wu**, Intern, Master studet at PKU. 
 * **Ying Xu** Intern, Ph.D. student at NUDT.
 * **Pengfei Wang**, Intern, Ph.D. student at CAS, now associate researcher at Chinese Academy of Sciences.
 * **Zixuan Yuan**, Intern, Ph.D student at Rutgers University, now assistant professor at HKUST(GZ).
