@@ -36,7 +36,7 @@ Past members
 * **Weilin Lin**, Intern, MSC at CityU -> Ph.D. student at HKUST(GZ).
 
 * **Can Chen**, Intern, Undergraduate at USTC -> Ph.D. student at McGill University.
-* **Wei Fan**, Intern, Ph.D. student at UCF.
+* **Wei Fan**, Intern, Ph.D. student at UCF, now postdoc at Oxford.
 * **Qingyu Guo**, Intern, Ph.D. student at HKUST.
 * **Ding Zhou**, Intern, Master at USTC -> Alibaba Group.
 * **Carter Blum**, Intern, Master student at University of Minnesota -> Bloomberg.

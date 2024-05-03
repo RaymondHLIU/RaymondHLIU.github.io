@@ -16,22 +16,27 @@ Previously, Hao was a Research Scientist at Business Intelligence Lab, [Baidu Re
 Hao received his Ph.D. degree from HKUST in 2017. 
 He also received a Bachelor degree from [South China University of Technology](https://www.scut.edu.cn/) in 2012. 
 His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing.
--->
-
-<span style="color:red"> **[New]** Postdoc position available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. 
-<span id="main"> </span>
 
 <span style="color:red"> **[2024 Spring and Fall]** Multiple Ph.D. positions available! 
 Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your Ph.D. career. 
 <span id="main"> </span>
+-->
 
-<span style="color:red"> **[Prospective MPhil students]** Please read the [Guidelines & Expectations](http://RaymondHLIU.github.io/files/MPhil_Guideline.pdf) before you request for supervision. Thanks! 
+<span style="color:red"> **[New]** Postdoc/Research Associate/Assistant Researcher position available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. 
+<span id="main"> </span>
+
+<span style="color:red"> **[Prospective 2025 Fall students]** Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career. 
+<span id="main"> </span>
+
+<span style="color:red"> **[Prospective RBM students]** Please read the [Guidelines & Expectations](http://RaymondHLIU.github.io/files/MPhil_Guideline.pdf) before you request for supervision. Thanks! 
 <span id="main"> </span>
 
 News
 ======
-* <span style="color:red">New!</span> (2023-12-20) One paper was accepted to ***VLDB 2024*** about **large-scale traffic forecasting**, congrats to my student Jindong Han.
-* <span style="color:red">New!</span> (2023-12-20) two papers were accepted to ***AAAI 2024*** about **skill demand-supply prediction** and **hierarchical multi-label classification**, congrats to my student Wenshuo Chao and Dr. Zixuan Yuan.
+* <span style="color:red">New!</span> (2024-5-1) Congratulations to my student Jindong Han for receiving the ***HKUST AIS Best Research Award***!
+* <span style="color:red">New!</span> (2024-5-1) One paper was accepted to ***ICML 2024*** about **irregular time series forecasting**, congrats to my student Weijia Zhang.
+* (2023-12-20) One paper was accepted to ***VLDB 2024*** about **large-scale traffic forecasting**, congrats to my student Jindong Han.
+* (2023-12-20) two papers were accepted to ***AAAI 2024*** about **skill demand-supply prediction** and **hierarchical multi-label classification**, congrats to my student Wenshuo Chao and Dr. Zixuan Yuan.
 * (2023-9-22) One paper was accepted to ***NeurIPS*** Datasets and Benchmarks track about **Urban Knowledge Graph** congrats to my student Yansong Ning. Checkout the opensourced [UrbanKG construction tool and UrbanKGs for NYC and Chicago](https://github.com/usail-hkust/UUKG) to boost your own research. 
 * (2023-5-17) Four papers were accepted to ***KDD*** about **adversarial spatiotemporal training**, **ETA prediction**, and **personalized vehicle energy consumption estimation** congrats to my students Fan Liu, Jindong Han, and Siqi Lai.
 * (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han.

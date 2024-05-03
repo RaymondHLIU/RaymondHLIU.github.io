@@ -7,7 +7,7 @@ description: Courses I am teaching.
 
 Current Courses
 ---
-* 2023 Fall: [AIAA 5028 Machine Learning on Graphs](https://raymondhliu.github.io/aiaa5028/)
+* 2023 Fall: AIAA 5028 Machine Learning on Graphs
 
 
 Past Courses
