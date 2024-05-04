@@ -39,7 +39,7 @@ Past members
 * **Wei Fan**, Intern, Ph.D. student at UCF, now postdoc at Oxford.
 * **Qingyu Guo**, Intern, Ph.D. student at HKUST.
 * **Ding Zhou**, Intern, Master at USTC -> Alibaba Group.
-* **Qiyu Ww**, Intern, Master at PKU.
+* **Qiyu Wu**, Intern, Master at PKU.
 * **Carter Blum**, Intern, Master student at University of Minnesota -> Bloomberg.
 * **Ying Xu** Intern, Ph.D. student at NUDT.
 * **Pengfei Wang**, Intern, Ph.D. student at CAS, now associate researcher at Chinese Academy of Sciences.
