@@ -33,7 +33,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2024-5-17) Three papers were accepted to ***KDD 2024*** about **traffic congestion prediction** **federated graph** and **irregular traffic forecasting**, congrats to my students Wenzhao Jiang, Zhuoning Guo, and Weijia Zhang.
+* <span style="color:red">New!</span> (2024-5-17) Three papers were accepted to ***KDD 2024*** about **traffic congestion prediction**, **federated graph learning** and **irregular traffic forecasting**, congrats to my students Wenzhao Jiang, Zhuoning Guo, and Weijia Zhang.
 * (2024-5-1) Congratulations to my student Jindong Han for receiving the ***HKUST AIS Best Research Award***!
 * (2024-5-1) One paper was accepted to ***ICML 2024*** about **irregular time series forecasting**, congrats to my student Weijia Zhang.
 * (2023-12-20) One paper was accepted to ***VLDB 2024*** about **large-scale traffic forecasting**, congrats to my student Jindong Han.
