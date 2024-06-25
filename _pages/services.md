@@ -11,10 +11,10 @@ author_profile: true
 * **KDD 2019, 2020, 2021, 2022, 2023, 2024**
 * **IJCAI 2021, 2022, 2023, 2024**
 * **AAAI 2020, 2021, 2022, 2023, 2024**
-* **NeurIPS 2023**
+* **NeurIPS 2023, 2024**
 * **ICLR 2023, 2024**
 * **WebConf 2023**
-* **ICDM 2023**
+* **ICDM 2023, 2024**
 * **SDM 2021, 2023**
 
 **Journal Reviewer**
@@ -24,5 +24,5 @@ author_profile: true
 * Data and Knowledge Engineering (**DKE**)
 * IEEE Transaction on Big Data (**TBD**)
 * IEEE Transactions on Cybernetics
-* Information Processing and Management (**IPM**)
+* Scientific Reports
 * Transportation Research: Part C (**TRC**)

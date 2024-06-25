@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 Hao Liu received his Ph.D. degree from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk) in 2017.  He is currently an assistant professor at the Artificial Intelligence Thrust, HKUST (Guangzhou), and an Affiliated Assistant Professor at the Department of Computer Science and Engineering, HKUST (Clear Water Bay).
-Dr. Liu's current research interests include spatiotemporal data mining, graph learning, reinforcement learning, and their applications on urban computing, intelligent transportation, and recommender systems. 
-In the past three years, he has filed over 50 China/U.S. patents and published over 40 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, AAAI, and IJCAI. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
+Dr. Liu's current research interests include urban foundation models, spatiotemporal data mining, and their applications on urban science, intelligent transportation, and recommender systems. 
+In the past five years, he has filed over 50 China/U.S. patents and published over 60 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, NeurIPS, and ICML. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
 
 <!-- After spending several years in industrial research, Hao back to [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk), where he started his research career.
 Previously, Hao was a Research Scientist at Business Intelligence Lab, [Baidu Research](http://research.baidu.com/) and a Postdoctoral Fellow at the HKUST.
@@ -42,6 +42,8 @@ News
 * (2023-9-22) One paper was accepted to ***NeurIPS*** Datasets and Benchmarks track about **Urban Knowledge Graph** congrats to my student Yansong Ning. Checkout the opensourced [UrbanKG construction tool and UrbanKGs for NYC and Chicago](https://github.com/usail-hkust/UUKG) to boost your own research. 
 * (2023-5-17) Four papers were accepted to ***KDD*** about **adversarial spatiotemporal training**, **ETA prediction**, and **personalized vehicle energy consumption estimation** congrats to my students Fan Liu, Jindong Han, and Siqi Lai.
 * (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han.
+<details>
+<summary>Past news</summary>
 * (2022-9-16) One paper was accepted to ***NeurIPS 2022*** about **adversarial attack against graph based traffic forecasting models**, congrats to my student Fan Liu.
 * (2022-9-1) One paper was accepted to ***ICDM 2022*** about **knowledge enhanced imitative trajectory generation**, congrats to my student Qingyan Zhu who graduated in August, a perfect end of research study.
 * (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging pricing**, and **talent demand-supply prediction**, congrats to my students Weijia Zhang and Zhuoning Guo.
@@ -55,8 +57,6 @@ News
 * (2021-09-16) I was named in ***Forbes 30 Under 30 China 2021*** list.
 * (2021-05-18) Four papers were accepted to ***SIGKDD 2021*** about **web-scale machine learning system**, **real estate appraisal**, **talent demand forecasting**, and **domain-oriented BERT**.
 * (2021-01-16) Two papers were accepted to ***WebConf 2021*** about **intelligent charging station recommendation** and **online query-POI matching**.
-<details>
-<summary>Past news</summary>
 <!-- * (2020-12-02) Four papers were accepted to ***AAAI 2021*** about **transportation demand prediction**, **atmospheric prediction**, **corporate porfiling**, and **POI recommendation**. -->
 <!-- * (2020-10-21) Our paper [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://ieeexplore.ieee.org/document/9241427)  was accepted to ***TKDE***. -->
 <!-- * (2020-10-16) Our paper [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/) was accepted to ***VLDB 2021*** Scalable Data Science track. -->

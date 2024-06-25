@@ -7,6 +7,7 @@ permalink: /publications/
 (Underline indicates students I supervised, \* indicates correpsonding author)
 
 **2024**
+* **[KDD]** <ins>Weijia Zhang</ins>, <ins>Jindong Han</ins>, <ins>Zhao Xu</ins>, <ins>Hang Ni</ins>, ***Hao Liu\**** and Hui Xiong. [Urban Foundation Models: A Survey](https://raymondhliu.github.io/publications/). In Proceedings of the 30th SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, Spain, 2024.
 * **[KDD]** <ins>Wenzhao Jiang</ins>, <ins>Jindong Han</ins>, ***Hao Liu\****, Tao Tao, Naiqiang Tan and Hui Xiong. [Interpretable Cascading Mixture-of-Experts for Urban Traffic Congestion Prediction](https://raymondhliu.github.io/publications/). In Proceedings of the 30th SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, Spain, 2024.
 * **[KDD]** <ins>Zhuoning Guo</ins>, Duanyi Yao, Qiang Yang and ***Hao Liu\****. [HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning](https://raymondhliu.github.io/publications/). In Proceedings of the 30th SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, Spain, 2024.
 * **[KDD]** <ins>Weijia Zhang</ins>, Le Zhang, <ins>Jindong Han</ins>, ***Hao Liu\****, Yanjie Fu, Jingbo Zhou, Yu Mei and Hui Xiong\*. [Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks](https://raymondhliu.github.io/publications/). In Proceedings of the 30th SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, Spain, 2024.
