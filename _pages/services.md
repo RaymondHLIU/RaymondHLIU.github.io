@@ -6,7 +6,7 @@ author_profile: true
 
 **Conference Organizer**:
 * VLDB 2024, Local Chair
-* ACL Rolling Reivew, Area Chair
+* ACL Rolling Reivew 2023, 2024, Area Chair
 * The KDD Cup 2019 Regular ML Track, Co-organizer
 
 **(Senior) PC Member**:
