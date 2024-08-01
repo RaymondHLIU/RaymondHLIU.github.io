@@ -33,7 +33,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2024-5-30) We will give a tutorial about **urban foundation models** on ***KDD 2024***, checkout the tutorial homepage [here](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial/) and the [survey](https://www.researchgate.net/publication/382025953_Urban_Foundation_Models_A_Survey).
+* <span style="color:red">New!</span> (2024-5-30) We will give a tutorial about **urban foundation models** on ***KDD 2024***, checkout the tutorial [homepage](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial/) and the [survey](https://www.researchgate.net/publication/382025953_Urban_Foundation_Models_A_Survey).
 * <span style="color:red">New!</span> (2024-5-17) Three papers were accepted to ***KDD 2024*** about **traffic congestion prediction**, **federated graph learning** and **irregular traffic forecasting**, congrats to my students Wenzhao Jiang, Zhuoning Guo and Weijia Zhang.
 * (2024-5-1) Congratulations to my student Jindong Han for receiving the ***HKUST AIS Best Research Award***!
 * (2024-5-1) One paper was accepted to ***ICML 2024*** about **irregular time series forecasting**, congrats to my student Weijia Zhang.
