@@ -18,9 +18,10 @@ Current Members
 * **Siqi Lai**, undergraduate from Wuhan University.
 * **Hang Ni**, undergraduate from Northwestern Polytechnical University.
 * **Fan Liu**, M.Phil. from HKUST(GZ).
+* **Wenshuo Chao**, M.Phil. from HKUST(GZ).
+* **Zirui Yuan**, Master from Tianjin University.
 
 ***M.Phil. students***
-* **Wenshuo Chao**, undergraduate from HKUST.
 * **Zhao Xu**, undergraduate from Tsinghua University.
 * **Yansong Ning**, undergraduate from Taiyuan University of Technology.
 * **Tianrui Song**,undergraduate from Nanjing Agricultural University.
