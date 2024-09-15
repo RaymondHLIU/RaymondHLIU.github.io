@@ -22,17 +22,17 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 <span id="main"> </span>
 -->
 
-<span style="color:red"> **[New]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. <span id="main"> </span>
-
-<span style="color:red"> **[Prospective 2025 Fall PhD students]** Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career. <span id="main"> </span>
-
+<span style="color:red"> **[New]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. <span id="main"> </span><br>
+<span style="color:red"> **[Prospective 2025 Fall PhD students]** Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career. <span id="main"> </span><br>
 <span style="color:red"> **[Prospective RBM students]** If you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. If you have accepted an offer, please appointment with me for a meeting and read the [Guidelines & Expectations](http://RaymondHLIU.github.io/files/MPhil_Guideline.pdf) before you request for supervision. Thanks! 
 <span id="main"> </span>
 
 News
 ======
+* <span style="color:red">New!</span> (2024-9-13) Start to serve as an associate editor of IEEE transaction on Big Data.
+* <span style="color:red">New!</span> (2024-9-1) Congratulations to my students Weijia Zhang and Fan Liu for receiving the AI Thrust ***Best Research Award*** and ***Rising Star Award***, respectively!
 * <span style="color:red">New!</span> (2024-8-30) Our paper [BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks](https://dl.acm.org/doi/abs/10.14778/3641204.3641217) received the **VLDB 2024 Best Paper Nomination Award**, congrats to my student Jindong Han. 
-* (<span style="color:red">New!</span> 2024-8-27) We gave a tutorial about **urban foundation models** on ***KDD 2024***, checkout the tutorial [homepage](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial/) and the [survey](https://www.researchgate.net/publication/382025953_Urban_Foundation_Models_A_Survey).
+* <span style="color:red">New!</span> (2024-8-27) We gave a tutorial about **urban foundation models** on ***KDD 2024***, checkout the tutorial [homepage](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial/) and the [survey](https://www.researchgate.net/publication/382025953_Urban_Foundation_Models_A_Survey).
 * (2024-5-17) Three papers were accepted to ***KDD 2024*** about **traffic congestion prediction**, **federated graph learning** and **irregular traffic forecasting**, congrats to my students Wenzhao Jiang, Zhuoning Guo and Weijia Zhang.
 * (2024-5-1) Congratulations to my student Jindong Han for receiving the ***HKUST AIS Best Research Award***!
 * (2024-5-1) One paper was accepted to ***ICML 2024*** about **irregular time series forecasting**, congrats to my student Weijia Zhang.
