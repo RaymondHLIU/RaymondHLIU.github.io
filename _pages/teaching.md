@@ -7,9 +7,11 @@ description: Courses I am teaching.
 
 Current Courses
 ---
-* 2023 Fall: AIAA 5028 Machine Learning on Graphs
+* 2024 Fall: UFUG 1601 Introduction to Computer Science
+* 2024 Fall: UCMP 6010 Cross-disciplinary Research Methods I
 
 
 Past Courses
 ---
+* 2023 Fall: AIAA 5028 Machine Learning on Graphs
 * 2022 Fall: AIAA 5028 Machine Learning on Graphs

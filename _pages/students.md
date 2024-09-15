@@ -35,7 +35,7 @@ Past members
 
 * **Xiaolong Jin**, RA, Undergraduate at USTC -> Ph.D. student at Purdue University.
 * **Weilin Lin**, RA, MSC at CityU -> Ph.D. student at HKUST(GZ).
-* **Zixuan Weng**, RA, Undergraduate at Beijing Jiaotong University -> Ph.D. student at University of Notre Dame。
+* **Zixuan Weng**, RA, Undergraduate at Beijing Jiaotong University -> Ph.D. student at University of Notre Dame.
 
 * **Can Chen**, Intern, Undergraduate at USTC -> Ph.D. student at McGill University.
 * **Wei Fan**, Intern, Ph.D. student at UCF, now postdoc at Oxford University.
