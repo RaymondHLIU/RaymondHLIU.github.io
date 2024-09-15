@@ -30,9 +30,9 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2024-9-13) Starting to serve as an associate editor of [IEEE transaction on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317).
+* <span style="color:red">New!</span> (2024-9-13) Starting to serve as an associate editor of ***[IEEE transaction on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)***.
 * <span style="color:red">New!</span> (2024-9-1) Congratulations to my students Weijia Zhang and Fan Liu for receiving the [AI Thrust ***Best Research Award*** and ***Rising Star Award***](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/), respectively!
-* <span style="color:red">New!</span> (2024-8-30) Our paper [BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks](https://dl.acm.org/doi/abs/10.14778/3641204.3641217) received the **[VLDB 2024](https://vldb.org/2024/) Best Paper Nomination Award**, congrats to my student Jindong Han. 
+* <span style="color:red">New!</span> (2024-8-30) Our paper [BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks](https://dl.acm.org/doi/abs/10.14778/3641204.3641217) received the **[VLDB 2024 Best Paper Nomination Award](https://vldb.org/2024/) **, congrats to my student Jindong Han. 
 * <span style="color:red">New!</span> (2024-8-27) We gave a tutorial about **urban foundation models** on ***[KDD 2024](https://kdd2024.kdd.org/)***, checkout the tutorial [homepage](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial/) and the [survey](https://www.researchgate.net/publication/382025953_Urban_Foundation_Models_A_Survey).
 * (2024-5-17) Three papers were accepted to ***KDD 2024*** about **traffic congestion prediction**, **federated graph learning** and **irregular traffic forecasting**, congrats to my students Wenzhao Jiang, Zhuoning Guo and Weijia Zhang.
 * (2024-5-1) Congratulations to my student Jindong Han for receiving the ***[HKUST AIS Best Research Award](https://ais.hkust.edu.hk/)***!
