@@ -22,7 +22,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 <span id="main"> </span>
 -->
 
-<span style="color:red"> **[New]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. <span id="main"> </span><br>
+<span style="color:red"> **[New]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. </span>
 <span style="color:red"> **[Prospective 2025 Fall PhD students]** Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career. <span id="main"> </span><br>
 <span style="color:red"> **[Prospective RBM students]** If you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. If you have accepted an offer, please appointment with me for a meeting and read the [Guidelines & Expectations](http://RaymondHLIU.github.io/files/MPhil_Guideline.pdf) before you request for supervision. Thanks! 
 <span id="main"> </span>
@@ -36,13 +36,13 @@ News
 * (2024-5-17) Three papers were accepted to ***KDD 2024*** about **traffic congestion prediction**, **federated graph learning** and **irregular traffic forecasting**, congrats to my students Wenzhao Jiang, Zhuoning Guo and Weijia Zhang.
 * (2024-5-1) Congratulations to my student Jindong Han for receiving the ***HKUST AIS Best Research Award***!
 * (2024-5-1) One paper was accepted to ***ICML 2024*** about **irregular time series forecasting**, congrats to my student Weijia Zhang.
+<details>
+<summary>Past news</summary>
 * (2023-12-20) One paper was accepted to ***VLDB 2024*** about **large-scale traffic forecasting**, congrats to my student Jindong Han.
 * (2023-12-20) two papers were accepted to ***AAAI 2024*** about **skill demand-supply prediction** and **hierarchical multi-label classification**, congrats to my student Wenshuo Chao and Dr. Zixuan Yuan.
 * (2023-9-22) One paper was accepted to ***NeurIPS*** Datasets and Benchmarks track about **Urban Knowledge Graph** congrats to my student Yansong Ning. Checkout the opensourced [UrbanKG construction tool and UrbanKGs for NYC and Chicago](https://github.com/usail-hkust/UUKG) to boost your own research. 
 * (2023-5-17) Four papers were accepted to ***KDD*** about **adversarial spatiotemporal training**, **ETA prediction**, and **personalized vehicle energy consumption estimation** congrats to my students Fan Liu, Jindong Han, and Siqi Lai.
 * (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han.
-<details>
-<summary>Past news</summary>
 * (2022-9-16) One paper was accepted to ***NeurIPS 2022*** about **adversarial attack against graph based traffic forecasting models**, congrats to my student Fan Liu.
 * (2022-9-1) One paper was accepted to ***ICDM 2022*** about **knowledge enhanced imitative trajectory generation**, congrats to my student Qingyan Zhu who graduated in August, a perfect end of research study.
 * (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging pricing**, and **talent demand-supply prediction**, congrats to my students Weijia Zhang and Zhuoning Guo.
