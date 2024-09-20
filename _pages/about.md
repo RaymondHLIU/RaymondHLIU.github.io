@@ -30,6 +30,8 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
+* <span style="color:red">New!</span> (2024-9-20) Pleased to announce our IEEE standard **[IEEE Recommended Practice for the Application of Knowledge Graphs for Talent Services](https://standards.ieee.org/ieee/3154/10842/)** formally published after two years preparation.
+* <span style="color:red">New!</span> (2024-9-20) Two papers were accepted to ***EMNLP 2024*** about **dense retrival for RAG/QA** (main) and **LLM enhanced recommendation** (findings), congrates to my students Lu Dai and Wenshuo Chao.
 * <span style="color:red">New!</span> (2024-9-13) Starting to serve as an associate editor of **[IEEE transaction on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)**.
 * <span style="color:red">New!</span> (2024-9-1) Congratulations to my students Weijia Zhang and Fan Liu for receiving the [AI Thrust **Best Research Award** and **Rising Star Award**](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/), respectively!
 * <span style="color:red">New!</span> (2024-8-30) Our paper [BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks](https://dl.acm.org/doi/abs/10.14778/3641204.3641217) received the **[VLDB 2024 Best Paper Nomination Award](https://vldb.org/2024/)**, congrats to my student Jindong Han. 
