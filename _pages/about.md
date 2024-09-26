@@ -30,6 +30,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
+* <span style="color:red">New!</span> (2024-9-20) Two papers were accepted to ***NeurIPS 2024*** about **[LLM based Urban KG Construction](https://github.com/usail-hkust/UrbanKGent)** and **[Benchmarking Jailbreak Attacks](https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking)** (D&S), congrates to my students Yansong Ning and Zhao Xu.
 * <span style="color:red">New!</span> (2024-9-20) Pleased to announce our IEEE standard **[IEEE Recommended Practice for the Application of Knowledge Graphs for Talent Services](https://standards.ieee.org/ieee/3154/10842/)** formally published after two years preparation.
 * <span style="color:red">New!</span> (2024-9-20) Two papers were accepted to ***EMNLP 2024*** about **dense retrival for RAG/QA** (main) and **LLM enhanced recommendation** (findings), congrates to my students Lu Dai and Wenshuo Chao.
 * <span style="color:red">New!</span> (2024-9-13) Starting to serve as an associate editor of **[IEEE transaction on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)**.
