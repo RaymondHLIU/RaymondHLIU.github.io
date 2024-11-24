@@ -5,8 +5,10 @@ author_profile: true
 ---
 
 **Journal Editor and Conference / Standard Organizer**:
-* IEEE Transaction on Big Data, Associate Editor
-* VLDB 2024, Local Chair
+* [IEEE Transaction on Big Data](https://www.computer.org/csdl/journal/bd), Associate Editor
+* [npj | Artificial Intelligence](https://www.nature.com/npjai/), Editor
+* [IJCAI 2025](https://2025.ijcai.org/), Competition Chair
+* [VLDB 2024](https://vldb.org/2024/), Local Chair
 * ACL Rolling Reivew 2023, 2024, Area Chair
 * IEEE P3154 Standard Working Group, Secretary
 * The KDD Cup 2019 Regular ML Track, Co-organizer
