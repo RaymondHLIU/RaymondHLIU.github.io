@@ -22,7 +22,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 <span id="main"> </span>
 -->
 
-<span style="color:red"> **[Call for paper]** We organize a special issue of [Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf) on **[ACM TIST](https://dl.acm.org/journal/tist)**, we sincerely invites you to contribute a manuscript. Submission deadline on April 15, 2025! </span>
+<span style="color:red"> **[Call for paper]** We organize a special issue of [Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf) on **[ACM TIST](https://dl.acm.org/journal/tist)**, we sincerely invites you to contribute a manuscript. Submission deadline on April 30, 2025! </span>
 
 <span style="color:red"> **[Postdoc]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. </span>
 
