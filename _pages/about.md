@@ -22,7 +22,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 <span id="main"> </span>
 -->
 
-<span style="color:red"> **[Call for paper]** We organize a special issue about **[Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf)** on ***[ACM TIST](https://dl.acm.org/journal/tist)***, we sincerely invite you to contribute a manuscript. Submission deadline on April 30, 2025! </span>
+<span style="color:red"> **[Call for paper]** We organize a special issue on **[Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf)** at ***[ACM TIST](https://dl.acm.org/journal/tist)***, we sincerely invite you to contribute a manuscript. Submission deadline on April 30, 2025! </span>
 
 <span style="color:red"> **[Postdoc]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. </span>
 
@@ -32,7 +32,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2024-11-20) We organize a special issue about **[Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf)** on ***[ACM TIST](https://dl.acm.org/journal/tist)***, we sincerely invite you to contribute a manuscript.
+* <span style="color:red">New!</span> (2024-11-20) We organize a special issue on **[Urban Foundation Models](http://RaymondHLIU.github.io/files/ACM-CFP-TIST-Urban-Foundation-Models.pdf)** at ***[ACM TIST](https://dl.acm.org/journal/tist)***, we sincerely invite you to contribute a manuscript.
 * <span style="color:red">New!</span> (2024-11-20) Three papers were accepted to ***KDD 2025*** about **[LLM as Traffic Control Agent](https://arxiv.org/abs/2312.16044)** ([Media Coverage](https://www.qbitai.com/2024/03/128386.html)), **[Auotmated Spatiotemporal Forecasting](https://arxiv.org/abs/2409.16586)** and **[Graph LoRA](https://arxiv.org/abs/2409.16670)**, congrates to my students Siqi Lai, Tengfei Lyu, and Zherui Yang.
 * <span style="color:red">New!</span> (2024-9-26) Two papers were accepted to ***NeurIPS 2024*** about **[LLM based Urban KG Construction](https://github.com/usail-hkust/UrbanKGent)** and **[Benchmarking LLM Jailbreak Attacks](https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking)** (D&S, [Media coverage](https://www.qbitai.com/2024/10/213933.html)), congrates to my students Yansong Ning and Zhao Xu.
 * <span style="color:red">New!</span> (2024-9-20) Pleased to announce our IEEE standard **[IEEE Recommended Practice for the Application of Knowledge Graphs for Talent Services](https://standards.ieee.org/ieee/3154/10842/)** formally published after two years preparation.
