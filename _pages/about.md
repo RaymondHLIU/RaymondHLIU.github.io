@@ -46,24 +46,25 @@ News
 * (2024-5-1) One paper was accepted to ***ICML 2024*** about **[Irregular Time Series Forecasting](https://proceedings.mlr.press/v235/zhang24bw.html)**, congrats to my student Weijia Zhang.
 <details>
 <summary>Past news</summary>
-* (2023-12-20) One paper was accepted to ***VLDB 2024*** about **large-scale traffic forecasting**, congrats to my student Jindong Han.  <br>
-* (2023-12-20) two papers were accepted to ***AAAI 2024*** about **skill demand-supply prediction** and **hierarchical multi-label classification**, congrats to my student Wenshuo Chao and Dr. Zixuan Yuan.  <br>
-* (2023-9-22) One paper was accepted to ***NeurIPS*** Datasets and Benchmarks track about **Urban Knowledge Graph** congrats to my student Yansong Ning. Checkout the opensourced [UrbanKG construction tool and UrbanKGs for NYC and Chicago](https://github.com/usail-hkust/UUKG) to boost your own research.   <br>
-* (2023-5-17) Four papers were accepted to ***KDD*** about **adversarial spatiotemporal training**, **ETA prediction**, and **personalized vehicle energy consumption estimation** congrats to my students Fan Liu, Jindong Han, and Siqi Lai.  <br>
-* (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han.  <br>
-* (2022-9-16) One paper was accepted to ***NeurIPS 2022*** about **adversarial attack against graph based traffic forecasting models**, congrats to my student Fan Liu.  <br>
-* (2022-9-1) One paper was accepted to ***ICDM 2022*** about **knowledge enhanced imitative trajectory generation**, congrats to my student Qingyan Zhu who graduated in August, a perfect end of research study.  <br>
-* (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging pricing**, and **talent demand-supply prediction**, congrats to my students Weijia Zhang and Zhuoning Guo.  <br>
-* (2022-5-18) One paper on **Reinforced charging station recommendation** was accepted to ***TKDE***.  <br>
-* (2022-5-1) One paper on **multi-modal transportation routing** was accepted to ***VLDBJ***.  <br>
-* (2022-2-21) One paper on **national-wide public transportation routing** was accepted to ***TKDE***.  <br>
-* (2022-1-29) Two papers on **semi-supervised air quality forecasting** and **graph-grounded conversational recommendation** were accepted to ***TKDE***.  <br>
-* (2022-1-29) One paper on **data science competition analysis** was accepted to ***TKDD***.  <br>
-* (2021-12-02) One paper was accepted to ***AAAI 2022*** about **long path knowledge reasoning**.  <br>
-* (2021-09-28) One paper was accepted to ***NeurIPS 2021*** about **bi-level optimization**.  <br>
-* (2021-09-16) I was named in ***Forbes 30 Under 30 China 2021*** list.  <br>
-* (2021-05-18) Four papers were accepted to ***SIGKDD 2021*** about **web-scale machine learning system**, **real estate appraisal**, **talent demand forecasting**, and **domain-oriented BERT**.  <br>
-* (2021-01-16) Two papers were accepted to ***WebConf 2021*** about **intelligent charging station recommendation** and **online query-POI matching**.  <br>
+<ul>
+<li> (2023-12-20) One paper was accepted to ***VLDB 2024*** about **large-scale traffic forecasting**, congrats to my student Jindong Han. </li>  <br>
+<li> (2023-12-20) two papers were accepted to ***AAAI 2024*** about **skill demand-supply prediction** and **hierarchical multi-label classification**, congrats to my student Wenshuo Chao and Dr. Zixuan Yuan.  </li><br>
+<li> (2023-9-22) One paper was accepted to ***NeurIPS*** Datasets and Benchmarks track about **Urban Knowledge Graph** congrats to my student Yansong Ning. Checkout the opensourced [UrbanKG construction tool and UrbanKGs for NYC and Chicago](https://github.com/usail-hkust/UUKG) to boost your own research. </li>  <br>
+<li> (2023-5-17) Four papers were accepted to ***KDD*** about **adversarial spatiotemporal training**, **ETA prediction**, and **personalized vehicle energy consumption estimation** congrats to my students Fan Liu, Jindong Han, and Siqi Lai. </li> <br>
+<li> (2023-1-30) One paper was accepted to ***TKDE*** about **joint air quality and weather prediction**, congrats to my student Jindong Han. </li> <br>
+<li> (2022-9-16) One paper was accepted to ***NeurIPS 2022*** about **adversarial attack against graph based traffic forecasting models**, congrats to my student Fan Liu. </li> <br>
+<li> (2022-9-1) One paper was accepted to ***ICDM 2022*** about **knowledge enhanced imitative trajectory generation**, congrats to my student Qingyan Zhu who graduated in August, a perfect end of research study. </li> <br>
+<li> (2022-5-19) Three papers were accepted to ***SIGKDD 2022*** about **GPU-accelerated deep learning system**, **multi-agent charging pricing**, and **talent demand-supply prediction**, congrats to my students Weijia Zhang and Zhuoning Guo. </li> <br>
+<li> (2022-5-18) One paper on **Reinforced charging station recommendation** was accepted to ***TKDE***. </li> <br>
+<li> (2022-5-1) One paper on **multi-modal transportation routing** was accepted to ***VLDBJ***. </li> <br>
+<li> (2022-2-21) One paper on **national-wide public transportation routing** was accepted to ***TKDE***. </li> <br>
+<li> (2022-1-29) Two papers on **semi-supervised air quality forecasting** and **graph-grounded conversational recommendation** were accepted to ***TKDE***. </li> <br>
+<li> (2022-1-29) One paper on **data science competition analysis** was accepted to ***TKDD***. </li> <br>
+<li> (2021-12-02) One paper was accepted to ***AAAI 2022*** about **long path knowledge reasoning**. </li> <br>
+<li> (2021-09-28) One paper was accepted to ***NeurIPS 2021*** about **bi-level optimization**. </li> <br>
+<li> (2021-09-16) I was named in ***Forbes 30 Under 30 China 2021*** list. </li> <br>
+<li> (2021-05-18) Four papers were accepted to ***SIGKDD 2021*** about **web-scale machine learning system**, **real estate appraisal**, **talent demand forecasting**, and **domain-oriented BERT**. </li> <br>
+<li> (2021-01-16) Two papers were accepted to ***WebConf 2021*** about **intelligent charging station recommendation** and **online query-POI matching**. </li> <br>
 <!-- * (2020-12-02) Four papers were accepted to ***AAAI 2021*** about **transportation demand prediction**, **atmospheric prediction**, **corporate porfiling**, and **POI recommendation**. -->
 <!-- * (2020-10-21) Our paper [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://ieeexplore.ieee.org/document/9241427)  was accepted to ***TKDE***. -->
 <!-- * (2020-10-16) Our paper [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/) was accepted to ***VLDB 2021*** Scalable Data Science track. -->
@@ -77,6 +78,7 @@ News
 * (2020-03-16) Our Cross-City Multi-Modal Recommendation service get online! This service covers over 330 cities in mainland China.<br>
 * (2019-08-02) We organized "The KDD Cup 2019 Regular ML Track", Context-Aware Multi-Modal Transportation Recommendation. We attracted over 1700 teams participates.<br>
 * (2018-9-01) Our Multi-Modal Transportation Recommendation service get online! Download Baidu Maps and try Zhixing!<br>
+</ul>
 </details><br>
 
 
