@@ -7,7 +7,7 @@ author_profile: true
 **Editor and Organizer**:
 * [IEEE Transaction on Big Data](https://www.computer.org/csdl/journal/bd), Associate Editor
 * [npj \| Artificial Intelligence](https://www.nature.com/npjai/), Editor
-* [Journal of Computer Science and Technology], Young Scientist Editor
+* [Journal of Computer Science and Technology](https://jcst.ict.ac.cn/), Young Scientist Editor
 * [ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/journal/tist), Guest Editor
 * [Encyclopedia of GIS](https://link.springer.com/referencework/10.1007/978-0-387-35973-1)， Field Editor
 * [IJCAI 2025](https://2025.ijcai.org/), Competition Chair
