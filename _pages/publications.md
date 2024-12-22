@@ -7,6 +7,7 @@ permalink: /publications/
 (Underline indicates students I supervised, \* indicates correpsonding author)
 
 **2025**
+* **[TKDE]** Yu Fan, Xinjiang Lu, ***Hao Liu***, Pengfei Wang, Liang Liu, Huadong Ma, Jingbo Zhou. [Towards Predicting Urban Land Use Changes: A Dynamic Graph Alignment Perspective](https://raymondhliu.github.io/). ACM Transactions on Intelligent Systems and Technology, Accepted.
 * **[KDD]** <ins>Tengfei Lyu</ins>, <ins>Weijia Zhang</ins>, Jinliang Deng and ***Hao Liu\****. [AutoSTF: Decoupled Neural Architecture Search for Cost-Effective Automated Spatio-Temporal Forecasting](https://arxiv.org/abs/2409.16586). In Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Toronto, ON, Canada, 2025.
 * **[KDD]** <ins>Siqi Lai</ins>, <ins>Zhao Xu</ins>, <ins>Weijia Zhang</ins>, ***Hao Liu\**** and Hui Xiong. [LLMLight: Large Language Models as Traffic Signal Control Agents](https://arxiv.org/abs/2312.16044). In Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Toronto, ON, Canada, 2025.
 * **[KDD]** <ins>Zherui Yang</ins>, <ins>Jindong Han</ins>,  Changdong Wang\* and ***Hao Liu\****. [GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning](https://arxiv.org/abs/2409.16670). In Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Toronto, ON, Canada, 2025.
