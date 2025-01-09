@@ -3,9 +3,8 @@ title: "Publications"
 author_profile: true
 permalink: /publications/
 ---
-Unless required by collaborators, all source code is open-sourced on [our group's GitHub repository](https://github.com/usail-hkust).
+Underline indicates students I supervised, \* indicates correpsonding author. Unless required by collaborators, all source code is open-sourced on [our group's GitHub repository](https://github.com/usail-hkust).
 
-(Underline indicates students I supervised, \* indicates correpsonding author)
 
 **2025**
 * **[TIST]** Yu Fan, Xinjiang Lu, ***Hao Liu***, Pengfei Wang, Liang Liu, Huadong Ma, Jingbo Zhou. [Towards Predicting Urban Land Use Changes: A Dynamic Graph Alignment Perspective](https://raymondhliu.github.io/). ACM Transactions on Intelligent Systems and Technology, Accepted.
