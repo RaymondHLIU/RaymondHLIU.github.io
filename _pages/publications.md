@@ -3,7 +3,7 @@ title: "Publications"
 author_profile: true
 permalink: /publications/
 ---
-Underline indicates students I supervised, \* indicates correpsonding author. Unless required by collaborators, all source code is open-sourced on [our group's GitHub repository](https://github.com/usail-hkust).
+Underline indicates students I supervised, \* indicates correpsonding author. Unless required by industry collaborators, all source code is open-sourced on [our group's GitHub repository](https://github.com/usail-hkust).
 
 
 **2025**
