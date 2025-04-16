@@ -11,12 +11,7 @@ Hao Liu received his Ph.D. degree from the [Hong Kong University of Science and 
 Dr. Liu's current research interests include urban foundation models, spatiotemporal data mining, and their applications on urban science, intelligent transportation, and recommender systems. 
 In the past five years, he has filed over 50 China/U.S. patents and published over 60 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, NeurIPS, and ICML. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
 
-<!-- After spending several years in industrial research, Hao back to [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk), where he started his research career.
-Previously, Hao was a Research Scientist at Business Intelligence Lab, [Baidu Research](http://research.baidu.com/) and a Postdoctoral Fellow at the HKUST.
-Hao received his Ph.D. degree from HKUST in 2017. 
-He also received a Bachelor degree from [South China University of Technology](https://www.scut.edu.cn/) in 2012. 
-His general research interests are in data mining, machine learning, and big data management, with a special focus on mobile analytics and urban computing.
-
+<!-- 
 <span style="color:red"> **[2024 Spring and Fall]** Multiple Ph.D. positions available! 
 Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your Ph.D. career. 
 <span id="main"> </span>
