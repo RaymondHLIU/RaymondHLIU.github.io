@@ -27,7 +27,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2025-4-15) Delighted to receive the Speical Award and Golden Medal of ***[International Exhibition of Inventions of Geneva 2025](https://www.inventions-geneva.ch/en/home-en/)***, congrates to the **[LLMLight team](https://github.com/usail-hkust/LLMTSCS)**.
+* <span style="color:red">New!</span> (2025-4-15) Delighted to receive the Speical Award and Golden Medal of ***[International Exhibition Inventions of Geneva 2025](https://www.inventions-geneva.ch/en/home-en/)***, congrates to the **[LLMLight team](https://github.com/usail-hkust/LLMTSCS)**.
 * (2025-3-16) One paper was accepted to ***VLDB 2025*** about **[Compact Pre-Trained Spatiotemporal Predictive Model](https://raymondhliu.github.io/)**, congrates to my students Jindong Han.
 * (2025-1-23) Three papers were accepted to ***ICLR 2025*** and ***WebConf 2025*** about **[Retrival Utility Measurement in RAG](https://arxiv.org/abs/2503.01478)** (Spotlight), **[LLM Data Selection](https://raymondhliu.github.io/)** and **[Federated Graph Unlearning](https://raymondhliu.github.io/)**, congrates to my students Lu Dai, Jindong Han, and Fan Liu.
 * (2024-12-19) Glad to receive the **Excellent Reviewer** recoginition from ***[KDD 2025](https://kdd2025.kdd.org/)***. And congras to my students Weijia Zhang and Siqi Lai for receving the **Outstanding Reviewer**, even better than me :)
