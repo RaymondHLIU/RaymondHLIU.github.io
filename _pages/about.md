@@ -27,6 +27,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
+* <span style="color:red">New!</span> (2025-4-25) One paper was accepted to ***IJCAI 2025*** about **[Language Model Empowered Spatio-Temporal Forecasting](https://arxiv.org/abs/2408.14505)** Congrates to my student Hao Wang!
 * <span style="color:red">New!</span> (2025-4-25) Congrates to my student Weijia Zhang for receiving the **[Baidu Scholarship](https://raymondhliu.github.io/)**, highly selective and well deserved!
 * <span style="color:red">New!</span> (2025-4-15) Delighted to receive the Speical Award and Golden Medal of ***[International Exhibition Inventions of Geneva 2025](https://www.inventions-geneva.ch/en/home-en/)***, congrates to the **[LLMLight team](https://github.com/usail-hkust/LLMTSCS)**.
 * (2025-3-16) One paper was accepted to ***VLDB 2025*** about **[Compact Pre-Trained Spatiotemporal Predictive Model](https://raymondhliu.github.io/)**, congrates to my students Jindong Han.
