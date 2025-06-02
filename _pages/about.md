@@ -27,6 +27,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
+* <span style="color:red">New!</span> (2025-5-31) Glad to receive the **Outstanding Reviewer** recoginition from ***[KDD 2025](https://kdd2025.kdd.org/)***.
 * <span style="color:red">New!</span> (2025-5-20) Several papers were accepted to ***KDD 2025*** about **[Pre-trained Language Model for Irregular Time Series](https://arxiv.org/abs/2408.08328)**, **[State Space Model for Time Series](https://arxiv.org/abs/2408.12068)**, **[Nuclear Radiation Forecasting](https://arxiv.org/abs/2410.119)**, **[LLM-Powered Ride-Hailing Assistant](https://arxiv.org/abs/2503.04768)**, and **[Large-Scale RAG Dataset for Scientific Research](https://raymondhliu.github.io/)**, Congrates to my students Weijia Zhang, Zixuan Weng, Tengfei Lyu, Yansong Ning, Junyong Lin and Lu Dai!
 * <span style="color:red">New!</span> (2025-4-30) One paper was accepted to ***IJCAI 2025*** about **[Language Model Empowered Spatio-Temporal Forecasting](https://arxiv.org/abs/2408.14505)** Congrates to my student Hao Wang!
 * <span style="color:red">New!</span> (2025-4-25) Congrates to my student Weijia Zhang for receiving the **[Baidu Scholarship](https://raymondhliu.github.io/)**, highly selective and well deserved!
