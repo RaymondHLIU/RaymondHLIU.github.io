@@ -7,11 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hao Liu is currently an assistant professor at the Artificial Intelligence Thrust, HKUST (Guangzhou), and an Affiliated Assistant Professor at HKUST (Clear Water Bay). Before joining HKUST(GZ), he was a research scientist at Baidu Research. 
+Dr. Liu's current research interests include Agentic AI, reasoning LLMs, spatiotemporal foundation models, and their applications in urban science, intelligent transportation, and recommender systems. His work bridges advanced AI methodologies with real-world challenges, aiming to create scalable and impactful solutions for modern cities.
+In the past five years, Hao has filed over 60 China/U.S. patents and published over 80 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, WebConf, VLDB, NeurIPS, and ICML. For his research on Urban Intelligence, he was named in 2021 Forbes 30 Under 30 China list.
+
+To know more about my recent research interest, please refer to the following survey and posistion papers.
+
+* [LLM Agents for Autonomous Scientific Discovery](https://www.researchgate.net/profile/Fan-Liu-90/publication/392172352_Foundation_Models_for_Scientific_Discovery_From_Paradigm_Enhancement_to_Paradigm_Transition/links/683807c0df0e3f544f5bb3d6/Foundation-Models-for-Scientific-Discovery-From-Paradigm-Enhancement-to-Paradigm-Transition.pdf)
+* [Foundation Models for Urban General Intelligence](https://arxiv.org/abs/2402.01749)
+
+
+<!-- 
+ [Agentic AI and Its Applications in Urban Domain]()
 Hao Liu received his Ph.D. degree from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk) in 2017.  He is currently an assistant professor at the Artificial Intelligence Thrust, HKUST (Guangzhou), and an Affiliated Assistant Professor at the Department of Computer Science and Engineering, HKUST (Clear Water Bay).
 Dr. Liu's current research interests include urban foundation models, spatiotemporal data mining, and their applications on urban science, intelligent transportation, and recommender systems. 
 In the past five years, he has filed over 50 China/U.S. patents and published over 60 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, NeurIPS, and ICML. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
-
-<!-- 
 <span style="color:red"> **[2024 Spring and Fall]** Multiple Ph.D. positions available! 
 Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your Ph.D. career. 
 <span id="main"> </span>
@@ -22,7 +32,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 <span style="color:red"> **[Postdoc]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. </span>
 
 <span style="color:red"> **[Prospective 2025 Fall PhD students]** Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career. </span><br><br>
-<span style="color:red"> **[Prospective RBM students]** If you are interested in my group, please directly apply in the system, we may schedule an offline meeting during your onsite interview. If you have accepted an offer, please appointment with me for a meeting and read the [Guidelines & Expectations](http://RaymondHLIU.github.io/files/MPhil_Guideline.pdf) before you request for supervision. Thanks! 
+<span style="color:red"> **[Prospective RBM students]** Please directly submit your application through the HKUST(GZ) admission system. If you have secured an offer, you are welcome to make an appointment to discuss research alignment and expectations. You are also encouraged to join my group as an RA before finalizing your decision. Please read the [Guidelines & Expectations](http://RaymondHLIU.github.io/files/MPhil_Guideline.pdf) for more details. Thanks! 
 <span id="main"> </span>
 
 News
