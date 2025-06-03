@@ -29,6 +29,8 @@ Current Members
 
 Past members
 ---
+* **Jindong Han**, Ph.D. 2025, first employment: Associate Professor at Shandong University.
+
 * **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc. 
 * **Ziyang Wu**, M.Phil. 2024, first employment: China Grid
 * **Ruohong Liu**, M.Phil. 2024 -> Ph.D. student at Oxford University.
@@ -38,7 +40,7 @@ Past members
 * **Zixuan Weng**, RA, Undergraduate at Beijing Jiaotong University -> Ph.D. student at University of Notre Dame.
 
 * **Can Chen**, Intern, Undergraduate at USTC -> Ph.D. student at McGill University.
-* **Wei Fan**, Intern, Ph.D. student at UCF, now postdoc at Oxford University.
+* **Wei Fan**, Intern, Ph.D. student at UCF, now Lecturer at Auckland University.
 * **Qingyu Guo**, Intern, Ph.D. student at HKUST.
 * **Ding Zhou**, Intern, Master at USTC -> Alibaba Group.
 * **Qiyu Wu**, Intern, Master at PKU.
