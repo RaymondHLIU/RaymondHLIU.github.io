@@ -8,7 +8,6 @@ description: Students and interns I supervised.
 Current Members
 ---
 ***Ph.D. students***
-* **Jindong Han**, master from Beijing University of Posts and Telecommunications.
 * **Lu Dai**, undergraduate from University of Science and Technology of China.
 * **Weijia Zhang**, master from University of Science and Technology of China.
 * **Wenzhao Jiang**, undergraduate from University of Science and Technology of China.
