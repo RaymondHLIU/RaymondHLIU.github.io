@@ -11,7 +11,7 @@ Hao Liu is currently an assistant professor at the Artificial Intelligence Thrus
 Dr. Liu's current research interests include Agentic AI, reasoning LLMs, spatiotemporal foundation models, and their applications in urban science, intelligent transportation, and recommender systems. His work bridges advanced AI methodologies with real-world challenges, aiming to create scalable and impactful solutions for modern cities.
 In the past five years, Hao has filed over 60 China/U.S. patents and published over 80 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, WebConf, VLDB, NeurIPS, and ICML. For his research on Urban Intelligence, he was named in 2021 Forbes 30 Under 30 China list.
 
-To know more about my recent research interest, please refer to the following survey and posistion papers.
+To know more about my recent research interest, please refer to the following survey and position papers.
 
 * [LLM Agents for Autonomous Scientific Discovery](https://www.researchgate.net/profile/Fan-Liu-90/publication/392172352_Foundation_Models_for_Scientific_Discovery_From_Paradigm_Enhancement_to_Paradigm_Transition/links/683807c0df0e3f544f5bb3d6/Foundation-Models-for-Scientific-Discovery-From-Paradigm-Enhancement-to-Paradigm-Transition.pdf)
 * [Foundation Models for Urban General Intelligence](https://arxiv.org/abs/2402.01749)

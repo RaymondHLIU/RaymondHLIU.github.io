@@ -9,7 +9,7 @@ Current Members
 ---
 ***Ph.D. students***
 * **Lu Dai**, undergraduate from University of Science and Technology of China.
-* **Weijia Zhang**, master from University of Science and Technology of China.
+* **Weijia Zhang**, master from University of Science and Technology of China. <font color="#dd0000"> Baidu Scholarship </font>
 * **Wenzhao Jiang**, undergraduate from University of Science and Technology of China.
 * **Zhuoning Guo**, undergraduate from Harbin Institute of Technology.
 * **Tengfei Lyu**, master from Central South University.
