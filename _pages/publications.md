@@ -7,6 +7,7 @@ Underline indicates students I supervised, \* indicates correpsonding author. Un
 
 
 **2025**
+* **[JCST]** <ins>Ziyang Wu</ins>, <ins>Fan Liu</ins>, <ins>Jindong Han</ins>, Yuxuan Liang and ***Hao Liu\****. [Spatial-Temporal Mixture-of-Graph-Experts for Multi-Type Crime Prediction](https://arxiv.org/abs/2409.15764). Journal of Computer Science and Technology, Accepted.
 * **[TIST]** Yu Fan, Xinjiang Lu, ***Hao Liu***, Pengfei Wang, Liang Liu, Huadong Ma, Jingbo Zhou. [Towards Predicting Urban Land Use Changes: A Dynamic Graph Alignment Perspective](https://dl.acm.org/doi/10.1145/3712702). ACM Transactions on Intelligent Systems and Technology, Accepted.
 * **[KDD]** <ins>Tengfei Lyu</ins>, <ins>Weijia Zhang</ins>, <ins>Jinliang Deng</ins> and ***Hao Liu\****. [AutoSTF: Decoupled Neural Architecture Search for Cost-Effective Automated Spatio-Temporal Forecasting](https://arxiv.org/abs/2409.16586). In Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Toronto, ON, Canada, 2025.
 * **[KDD]** <ins>Zixuan Weng</ins>, <ins>Jindong Han</ins>, <ins>Wenzhao Jiang</ins> and ***Hao Liu\****. [Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting](https://arxiv.org/abs/2408.12068). In Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Toronto, ON, Canada, 2025.
