@@ -5,13 +5,11 @@ author_profile: true
 description: Students and interns I supervised.
 ---
 
-Current Members
+Current Ph.D. students
 ---
-***Ph.D. students***
 * **Lu Dai**, undergraduate from University of Science and Technology of China.
 * **Weijia Zhang**, master from University of Science and Technology of China. <font color="#dd0000"> Baidu Scholarship </font>
 * **Wenzhao Jiang**, undergraduate from University of Science and Technology of China.
-* **Zhuoning Guo**, undergraduate from Harbin Institute of Technology.
 * **Tengfei Lyu**, master from Central South University.
 * **Shuowei Cai**, M.Phil. from HKUST.
 * **Siqi Lai**, undergraduate from Wuhan University.
@@ -19,12 +17,9 @@ Current Members
 * **Fan Liu**, M.Phil. from HKUST(GZ).
 * **Wenshuo Chao**, M.Phil. from HKUST(GZ).
 * **Zirui Yuan**, Master from Tianjin University.
+* **Yansong Ning**, M.Phil. from HKUST(GZ).
+* **Zherui Yang**, Master from Sun Yat-sen University.
 
-***M.Phil. students***
-* **Zhao Xu**, undergraduate from Tsinghua University.
-* **Yansong Ning**, undergraduate from Taiyuan University of Technology.
-* **Tianrui Song**,undergraduate from Nanjing Agricultural University.
-* **Ruiqian Han**, undergraduate from Hohai University.
 
 Past members
 ---
@@ -33,6 +28,8 @@ Past members
 * **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc. 
 * **Ziyang Wu**, M.Phil. 2024, first employment: China Grid
 * **Ruohong Liu**, M.Phil. 2024 -> Ph.D. student at Oxford University.
+* **Zhao Xu**, M.Phil. 2025 -> Ph.D. student at UCLA.
+* **Tianrui Song**, M.Phil. 2025 -> Master student at KCL.
 
 * **Xiaolong Jin**, RA, Undergraduate at USTC -> Ph.D. student at Purdue University.
 * **Weilin Lin**, RA, MSC at CityU -> Ph.D. student at HKUST(GZ).
