@@ -9,22 +9,24 @@ author_profile: true
 * [npj \| Artificial Intelligence](https://www.nature.com/npjai/), Editor
 * [Journal of Computer Science and Technology](https://jcst.ict.ac.cn/), Young Scientist Editor
 * [ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/journal/tist), Guest Editor
+* [Frontiers of Computer Science](https://link.springer.com/journal/11704), Guest Editor
 * [Encyclopedia of GIS](https://link.springer.com/referencework/10.1007/978-0-387-35973-1)， Field Editor
 * [IJCAI 2025](https://2025.ijcai.org/), Competition Chair
 * [VLDB 2024](https://vldb.org/2024/), Local Chair
 * IEEE P3154 Standard Working Group, Secretary
 * The KDD Cup 2019 Regular ML Track, Co-organizer
 
-**(Area/Senior) PC Member**:
-* **KDD 2019, 2020, 2021, 2022, 2023, 2024, 2025**
+**(SAC/AC/SPC/PC) Member**:
+* **KDD 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026**
 * **ACL Rolling Reivew 2023, 2024, 2025**
 * **IJCAI 2021, 2022, 2023, 2024**
-* **AAAI 2020, 2021, 2022, 2023, 2024, 2025**
-* **NeurIPS 2023, 2024**
+* **AAAI 2020, 2021, 2022, 2023, 2024, 2025, 2026**
+* **NeurIPS 2023, 2024, 2025**
 * **ICLR 2023, 2024, 2025**
 * **WebConf 2023**
-* **ICDM 2023, 2024**
+* **ICDM 2023, 2024, 2025**
 * **SDM 2021, 2023**
+* **ECAI 2025**
 
 **Journal Reviewer**
 * IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
