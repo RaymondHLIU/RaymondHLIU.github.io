@@ -37,7 +37,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
-* <span style="color:red">New!</span> (2025-8-5) Delighted to receive the [Audience Appreciation Award of KDD 2025](https://kdd2025.kdd.org/awards/), congrates to the **[LLMLight team](https://github.com/usail-hkust/LLMTSCS)**.
+* <span style="color:red">New!</span> (2025-8-5) Delighted to receive the **[Audience Appreciation Award of KDD 2025](https://kdd2025.kdd.org/awards/)**, congrates to the **[LLMLight team](https://github.com/usail-hkust/LLMTSCS)**.
 * (2025-6-1) Congratulations to my first PhD student Jindong Han for joining Shandong University as an Associate Professor.
 * (2025-5-31) Glad to receive the **Outstanding Reviewer** recoginition from ***[KDD 2025](https://kdd2025.kdd.org/)***.
 * (2025-5-20) Several papers were accepted to ***KDD 2025*** about **[Pre-trained Language Model for Irregular Time Series](https://arxiv.org/abs/2408.08328)**, **[State Space Model for Time Series](https://arxiv.org/abs/2408.12068)**, **[Nuclear Radiation Forecasting](https://arxiv.org/abs/2410.119)**, **[LLM-Powered Ride-Hailing Assistant](https://arxiv.org/abs/2503.04768)**, and **[Large-Scale RAG Dataset for Scientific Research](https://raymondhliu.github.io/)**, Congrates to my students Weijia Zhang, Zixuan Weng, Tengfei Lyu, Yansong Ning, Junyong Lin and Lu Dai!
