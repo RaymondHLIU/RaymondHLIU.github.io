@@ -37,6 +37,7 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 
 News
 ======
+* <span style="color:red">New!</span> (2025-11-25) Several papers were accepted to ***KDD 2026*** and ***AAAI 2026*** about **[Extreme Weather Forecasting](https://www.arxiv.org/abs/2508.01426)**, **[Subseasonal-to-Seasonal Weather Forecasting](https://arxiv.org/abs/2506.08049), **[MoE for Travel Time Estimation](https://raymondhliu.github.io/publications/)**, and **[Denoised Recommendation](https://arxiv.org/abs/2511.07295)**, Congrates to my students Tengfei Lyu, Wenzhao Jiang, Hang Ni, and Tianrui Song!
 * <span style="color:red">New!</span> (2025-9-25) Three papers were accepted to ***NeurIPS 2025*** about **[The Fifth Paradigm: LLM based Scientific Discovery](http://www.techrxiv.org/doi/full/10.36227/techrxiv.174953071.19189612/v1)**, **[Real-world Mathematical Modeling Agent](https://arxiv.org/abs/2505.14148)**, and **[Test-time Computation Benchmark of LLM Reasoning](https://arxiv.org/abs/2502.07191)**, Congrates to my student Fan Liu!
 * (2025-8-5) Delighted to receive the **[Audience Appreciation Award of KDD 2025](https://kdd2025.kdd.org/awards/)**, congrates to the **[LLMLight team](https://github.com/usail-hkust/LLMTSCS)**.
 * (2025-6-1) Congratulations to my first PhD student Jindong Han for joining Shandong University as an Associate Professor.

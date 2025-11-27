@@ -5,6 +5,12 @@ permalink: /publications/
 ---
 Underline indicates students I supervised, \* indicates correpsonding author. Unless required by industry collaborators, all source code is open-sourced on [our group's GitHub repository](https://github.com/usail-hkust).
 
+**2026**
+* **[KDD]** <ins>Hang Ni</ins>, <ins>Weijia Zhang</ins> and ***Hao Liu\****. [UniExtreme: A Universal Foundation Model for Extreme Weather Forecasting](https://www.arxiv.org/abs/2508.01426). In Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, South Korea, 2026.
+* **[KDD]** <ins>Tengfei Lyu</ins>, <ins>Weijia Zhang</ins> and ***Hao Liu\****. [UPhysics-Informed Teleconnection-Aware Transformer for Global Subseasonal-to-Seasonal Forecasting](https://arxiv.org/abs/2506.08049). In Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, South Korea, 2026.
+* **[KDD]** <ins>Wenzhao Jiang</ins>, <ins>Jindong Han</ins>, <ins>Ruiqian Han</ins> and ***Hao Liu\****. [MixTTE: Multi-Level Mixture-of-Experts for Scalable and Adaptive Travel Time Estimation](https://raymondhliu.github.io/publications/). In Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, South Korea, 2026.
+* **[AAAI]** <ins>Tianrui Song</ins>, <ins>Wenshuo Chao</ins> and ***Hao Liu\****. [Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models](https://arxiv.org/abs/2511.07295). In Proceedings of the Fortieth AAAI Conference on Artificial Intelligence, Singapore, 2026.
+
 
 **2025**
 * **[JCST]** <ins>Ziyang Wu</ins>, <ins>Fan Liu</ins>, <ins>Jindong Han</ins>, Yuxuan Liang and ***Hao Liu\****. [Spatial-Temporal Mixture-of-Graph-Experts for Multi-Type Crime Prediction](https://arxiv.org/abs/2409.15764). Journal of Computer Science and Technology, Accepted.
