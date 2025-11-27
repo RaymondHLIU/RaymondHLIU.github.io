@@ -63,8 +63,8 @@ News
 <li> (2024-8-30) Our paper <b>BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks</b> received the <b>VLDB 2024 Best Paper Nomination Award</b>, congrats to my student Jindong Han. </li>  
 <li> (2024-8-27) We gave a tutorial about <b>Urban Foundation Models</b> on <b>KDD 2024</b>, checkout the tutorial <b>Homepage</b> (https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial/ and the <b>paper list</b>(https://github.com/usail-hkust/Awesome-Urban-Foundation-Models).</li>  
 <li> (2024-5-17) Three papers were accepted to <b>KDD 2024</b> about <b>Traffic Congestion Prediction</b>, <b>Federated Graph Learning</b> and <b>Irregular Traffic Forecasting</b>, congrats to my students Wenzhao Jiang, Zhuoning Guo and Weijia Zhang.</li>  
-<li> (2024-5-1) Congratulations to my student Jindong Han for receiving the **[HKUST AIS Best Research Award](https://ais.hkust.edu.hk/)**!</li>
-<li> (2024-5-1) One paper was accepted to <b>ICML 2024<、b> about <b>Irregular Time Series Forecasting</b>, congrats to my student Weijia Zhang.</li>  
+<li> (2024-5-1) Congratulations to my student Jindong Han for receiving the <b>HKUST AIS Best Research Award</b>!</li>
+<li> (2024-5-1) One paper was accepted to <b>ICML 2024</b> about <b>Irregular Time Series Forecasting</b>, congrats to my student Weijia Zhang.</li>  
 <li> (2023-12-20) One paper was accepted to <b>VLDB 2024</b> about <b>large-scale traffic forecasting</b>, congrats to my student Jindong Han. </li>  
 <li> (2023-12-20) two papers were accepted to <b>AAAI 2024</b> about <b>skill demand-supply prediction</b> and <b>hierarchical multi-label classification</b> congrats to my student Wenshuo Chao and Dr. Zixuan Yuan.  </li>
 <li> (2023-9-22) One paper was accepted to <b>NeurIPS</b> Datasets and Benchmarks track about <b>Urban Knowledge Graph</b> congrats to my student Yansong Ning. Checkout the opensourced <b>UrbanKG construction tool and UrbanKGs for NYC and Chicago</b>(https://github.com/usail-hkust/UUKG) to boost your own research. </li>  
