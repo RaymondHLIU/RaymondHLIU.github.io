@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 Hao Liu is currently an assistant professor at the Artificial Intelligence Thrust, HKUST (Guangzhou), and an Affiliated Assistant Professor at HKUST (Clear Water Bay). Before joining HKUST(GZ), he was a research scientist at Baidu Research. 
-Dr. Liu's current research interests include Agentic AI, reasoning LLMs, spatiotemporal foundation models, and their applications in urban science, intelligent transportation, and recommender systems. His work bridges advanced AI methodologies with real-world challenges, aiming to create scalable and impactful solutions for modern cities.
-In the past five years, Hao has filed over 60 China/U.S. patents and published over 80 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, WebConf, VLDB, NeurIPS, and ICML. For his research on Urban Intelligence, he was named in 2021 Forbes 30 Under 30 China list.
+Dr. Liu's current research interests include Agentic AI, reasoning LLMs, trustworthy LLMs, spatiotemporal foundation models, and their applications in urban science, intelligent transportation, and recommender systems. His work bridges advanced AI methodologies with real-world challenges, aiming to create scalable and impactful solutions for modern cities.
+In the past five years, Hao has filed over 60 China/U.S. patents and published over 100 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, WebConf, VLDB, NeurIPS, and ICML. For his research on Urban Intelligence, he was named in 2021 Forbes 30 Under 30 China list.
 
 To know more about my recent research interest, please refer to the following survey and position papers.
 
