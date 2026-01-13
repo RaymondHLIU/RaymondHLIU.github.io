@@ -30,6 +30,7 @@ Past members
 * **Ruohong Liu**, M.Phil. 2024 -> Ph.D. student at Oxford University.
 * **Zhao Xu**, M.Phil. 2025 -> Ph.D. student at UCLA.
 * **Tianrui Song**, M.Phil. 2025 -> Master student at KCL.
+* **Ruiqian Han**, M.Phil. 2026, first employment: DiDi Chuxing Inc. 
 
 * **Xiaolong Jin**, RA, Undergraduate at USTC -> Ph.D. student at Purdue University.
 * **Weilin Lin**, RA, MSC at CityU -> Ph.D. student at HKUST(GZ).
