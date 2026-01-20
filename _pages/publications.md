@@ -51,7 +51,7 @@ Underline indicates students I supervised, \* indicates correpsonding author. Un
 * **[AAAI]** Zixuan Yuan, ***Hao Liu***, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang and Hui Xiong. [Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29601). In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence, Vancouver, BC, Canada, 2024.
 * **[EMNLP]** <ins>Lu Dai</ins>, ***Hao Liu***, Hui Xiong. [Improve Dense Passage Retrieval with Entailment Tuning](https://arxiv.org/abs/2410.15801). In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, 2024.
 * **[EMNLP]** <ins>Wenshuo Chao</ins>, Zhi Zheng, Hengshu Zhu\*, ***Hao Liu\****. [Make Large Language Model a Better Ranker](https://arxiv.org/abs/2403.19181). In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing Findings, Miami, Florida, 2024.
-* **[DASFAA]** <ins>Wei Fan</ins>, <ins>Weijia Zhang</ins>, Weiqi Wang, Yangqiu Song and ***Hao Liu\****. [Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation](https://arxiv.org/abs/2310.17922). In Proceedings of the 29th International Conference on Database Systems for Advanced Applications, Gifu, Japan, 2024.
+
 
 **2023**
 * **[TKDE]** <ins>Jindong Han</ins>, ***Hao Liu\****, Hengshu Zhu, Hui Xiong. [Kill Two Birds with One Stone: A Multi-View Multi-Adversarial Learning Approach for Joint Air Quality and Weather Prediction](https://ieeexplore.ieee.org/document/10015790). IEEE Transactions on Knowledge and Data Engineering, Accepted.
