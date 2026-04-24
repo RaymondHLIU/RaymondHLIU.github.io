@@ -23,7 +23,7 @@ Current Ph.D. students
 
 Past members
 ---
-* **Jindong Han**, Ph.D. 2025, first employment: Associate Professor at Shandong University.
+* **Jindong Han**, Ph.D. 2025, first employment: Professor at Shandong University.
 
 * **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc. 
 * **Ziyang Wu**, M.Phil. 2024, first employment: China Grid

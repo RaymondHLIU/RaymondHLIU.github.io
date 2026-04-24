@@ -27,11 +27,11 @@ Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of t
 <span id="main"> </span>
 -->
 
-<span style="color:red"> **[Call for paper]** We organize a special issue on **[AI and Data Science Competitions](https://link.springer.com/collections/fhbghibigc)** at ***[Frontiers of Computer Science (FCS, JCR Q1, CCF-B)](https://link.springer.com/journal/11704)***, we sincerely invite competition organizers, champions, and runners-up to contribute a manuscript. Submission deadline on November 30, 2025! </span>
+<span style="color:red"> **[Call for paper]** We organize the 1st workshop of **[AI Data Scientist](https://usail-hkust.github.io/aidatasci)** in conjunction with ***[KDD 2026](https://kdd2026.kdd.org/workshops/)***, we sincerely invite both academia and industry researchers to contribute a manuscript. Submission deadline on May 16, 2025! </span>
 
 <span style="color:red"> **[Postdoc]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. </span>
 
-<span style="color:red"> **[Prospective 2026 Fall PhD students]** Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career. </span><br><br>
+<span style="color:red"> **[Prospective 2026/2027 Fall PhD students]** Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career. </span><br><br>
 <span style="color:red"> **[Prospective RBM students]** Please directly submit your application through the HKUST(GZ) admission system. If you have secured an offer, you are welcome to make an appointment to discuss research alignment and expectations. You are also encouraged to join my group as an RA before finalizing your decision. Please read the [Guidelines & Expectations](http://RaymondHLIU.github.io/files/MPhil_Guideline.pdf) for more details. Thanks! 
 <span id="main"> </span>
 
