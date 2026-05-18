@@ -31,10 +31,12 @@ Past members
 * **Zhao Xu**, M.Phil. 2025 -> Ph.D. student at UCLA.
 * **Tianrui Song**, M.Phil. 2025 -> Master student at KCL.
 * **Ruiqian Han**, M.Phil. 2026, first employment: DiDi Chuxing Inc. 
+* **Hao Wang**, M.Phil. 2026 -> Ph.D. student at Hong Kong Polytechnic University. 
+* **Yuxuan Fan**, M.Phil. 2026 -> Ph.D. student at Nanyang Technological University. 
 
 * **Xiaolong Jin**, RA, Undergraduate at USTC -> Ph.D. student at Purdue University.
 * **Weilin Lin**, RA, MSC at CityU -> Ph.D. student at HKUST(GZ).
-* **Zixuan Weng**, RA, Undergraduate at Beijing Jiaotong University -> Ph.D. student at University of Notre Dame.
+* **Zixuan Weng**, RA, Undergraduate at Beijing Jiaotong University -> Ph.D. student at Georgia Institute of Technology.
 
 * **Can Chen**, Intern, Undergraduate at USTC -> Ph.D. student at McGill University.
 * **Wei Fan**, Intern, Ph.D. student at UCF, now Lecturer at Auckland University.
