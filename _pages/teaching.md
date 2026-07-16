@@ -1,20 +1,70 @@
 ---
-title: "Teaching"
+layout: home
+title: "Teaching — Hao Liu"
 permalink: /teaching/
-author_profile: true
-description: Courses I am teaching.
+description: "Courses taught by Hao Liu at HKUST(GZ)."
+author_profile: false
 ---
 
-Current Courses
----
-* 2026 Spring: UCMP 6010 Cross-disciplinary Research Methods I
+<header class="academic-intro academic-intro--compact">
+  <p class="home-eyebrow">Teaching</p>
+  <h1>Teaching</h1>
+</header>
 
-Past Courses
----
-* 2025 Fall: AIAA 3111 Introduction to Data Mining
-* 2025 Fall: UCMP 6010 Cross-disciplinary Research Methods I
-* 2025 Spring: UCMP 6010 Cross-disciplinary Research Methods I
-* 2024 Fall: UFUG 1601 Introduction to Computer Science
-* 2024 Fall: UCMP 6010 Cross-disciplinary Research Methods I
-* 2023 Fall: AIAA 5028 Machine Learning on Graphs
-* 2022 Fall: AIAA 5028 Machine Learning on Graphs
+<section class="academic-section academic-section--compact" aria-labelledby="current-courses-heading">
+  <header class="academic-section__header academic-section__header--simple">
+    <h2 id="current-courses-heading">Current Courses</h2>
+  </header>
+
+  <ul class="course-history course-history--current">
+    <li>
+      <time>2026 Fall</time>
+      <div><strong>AIAA 3111</strong><span>Introduction to Data Mining</span></div>
+    </li>
+    <li>
+      <time>2026 Fall</time>
+      <div><strong>UCUG 1002</strong><span>Artificial Intelligence General Education</span></div>
+    </li>
+  </ul>
+</section>
+
+<section class="academic-section academic-section--compact" aria-labelledby="past-courses-heading">
+  <header class="academic-section__header academic-section__header--simple">
+    <h2 id="past-courses-heading">Past Courses</h2>
+  </header>
+
+  <ul class="course-history">
+    <li>
+      <time>2026 Spring</time>
+      <div><strong>UCMP 6010</strong><span>Cross-disciplinary Research Methods I</span></div>
+    </li>
+    <li>
+      <time>2025 Fall</time>
+      <div><strong>AIAA 3111</strong><span>Introduction to Data Mining</span></div>
+    </li>
+    <li>
+      <time>2025 Fall</time>
+      <div><strong>UCMP 6010</strong><span>Cross-disciplinary Research Methods I</span></div>
+    </li>
+    <li>
+      <time>2025 Spring</time>
+      <div><strong>UCMP 6010</strong><span>Cross-disciplinary Research Methods I</span></div>
+    </li>
+    <li>
+      <time>2024 Fall</time>
+      <div><strong>UFUG 1601</strong><span>Introduction to Computer Science</span></div>
+    </li>
+    <li>
+      <time>2024 Fall</time>
+      <div><strong>UCMP 6010</strong><span>Cross-disciplinary Research Methods I</span></div>
+    </li>
+    <li>
+      <time>2023 Fall</time>
+      <div><strong>AIAA 5028</strong><span>Machine Learning on Graphs</span></div>
+    </li>
+    <li>
+      <time>2022 Fall</time>
+      <div><strong>AIAA 5028</strong><span>Machine Learning on Graphs</span></div>
+    </li>
+  </ul>
+</section>

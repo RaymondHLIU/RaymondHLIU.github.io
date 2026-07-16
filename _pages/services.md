@@ -1,39 +1,71 @@
 ---
-title: "Professional Services"
+layout: home
+title: "Professional Services — Hao Liu"
 permalink: /services/
-author_profile: true
+description: "Editorial, organizational, and reviewing service by Hao Liu."
+author_profile: false
 ---
 
-**Editor and Organizer**:
-* [IEEE Transaction on Big Data](https://www.computer.org/csdl/journal/bd), Associate Editor
-* [npj \| Artificial Intelligence](https://www.nature.com/npjai/), Editor
-* [Journal of Computer Science and Technology](https://jcst.ict.ac.cn/), Young Scientist Editor
-* [ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/journal/tist), Guest Editor
-* [Frontiers of Computer Science](https://link.springer.com/journal/11704), Guest Editor
-* [Encyclopedia of GIS](https://link.springer.com/referencework/10.1007/978-0-387-35973-1)， Field Editor
-* [IJCAI 2025](https://2025.ijcai.org/), Competition Chair
-* [VLDB 2024](https://vldb.org/2024/), Local Chair
-* IEEE P3154 Standard Working Group, Secretary
-* The KDD Cup 2019 Regular ML Track, Co-organizer
+<header class="academic-intro">
+  <p class="home-eyebrow">Professional Services</p>
+  <h1>Service to the research community.</h1>
+  <p class="academic-intro__lead">Selected editorial, organizational, program committee, and reviewing activities across artificial intelligence, data mining, and data science.</p>
+</header>
 
-**(SAC/AC/SPC/PC) Member**:
-* **KDD 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026**
-* **ACL Rolling Reivew 2023, 2024, 2025**
-* **IJCAI 2021, 2022, 2023, 2024**
-* **AAAI 2020, 2021, 2022, 2023, 2024, 2025, 2026**
-* **NeurIPS 2023, 2024, 2025**
-* **ICLR 2023, 2024, 2025**
-* **WebConf 2023**
-* **ICDM 2023, 2024, 2025**
-* **SDM 2021, 2023**
-* **ECAI 2025**
+<section class="academic-section" aria-labelledby="editorial-service-heading">
+  <header class="academic-section__header">
+    <p class="academic-section__eyebrow">Leadership</p>
+    <h2 id="editorial-service-heading">Editorial and Organizational Service</h2>
+  </header>
 
-**Journal Reviewer**
-* IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
-* ACM Transactions on Knowledge Discovery from Data(**TKDD**)
-* ACM Transactions on Intelligent Systems and Technology (**TIST**) 
-* Data and Knowledge Engineering (**DKE**)
-* IEEE Transaction on Big Data (**TBD**)
-* IEEE Transactions on Cybernetics
-* Scientific Reports
-* Transportation Research: Part C (**TRC**)
+  <ul class="service-list">
+    <li><a href="https://www.computer.org/csdl/journal/bd">IEEE Transactions on Big Data</a><span>Associate Editor</span></li>
+    <li><a href="https://www.nature.com/npjai/editors">npj Artificial Intelligence</a><span>Editorial Board Member</span></li>
+    <li><a href="https://jcst.ict.ac.cn/">Journal of Computer Science and Technology</a><span>Young Scientist Editor</span></li>
+    <li><a href="https://dl.acm.org/journal/tist">ACM Transactions on Intelligent Systems and Technology</a><span>Guest Editor</span></li>
+    <li><a href="https://link.springer.com/journal/11704">Frontiers of Computer Science</a><span>Guest Editor</span></li>
+    <li><a href="https://link.springer.com/referencework/10.1007/978-0-387-35973-1">Encyclopedia of GIS</a><span>Field Editor</span></li>
+    <li><a href="https://2025.ijcai.org/">IJCAI 2025</a><span>Competition Chair</span></li>
+    <li><a href="https://vldb.org/2024/">VLDB 2024</a><span>Local Chair</span></li>
+    <li><strong>IEEE P3154 Standard Working Group</strong><span>Secretary</span></li>
+    <li><strong>KDD Cup 2019 · Regular ML Track</strong><span>Co-organizer</span></li>
+  </ul>
+</section>
+
+<section class="academic-section" aria-labelledby="program-committee-heading">
+  <header class="academic-section__header">
+    <p class="academic-section__eyebrow">Peer review</p>
+    <h2 id="program-committee-heading">Conference Service</h2>
+  </header>
+
+  <div class="service-grid">
+    <article><h3>KDD</h3><p>2019–2026</p></article>
+    <article><h3>ACL Rolling Review</h3><p>2023–2026</p></article>
+    <article><h3>IJCAI</h3><p>2021–2024</p></article>
+    <article><h3>AAAI</h3><p>2020–2026</p></article>
+    <article><h3>NeurIPS</h3><p>2023–2026</p></article>
+    <article><h3>ICLR</h3><p>2023–2026</p></article>
+    <article><h3>The Web Conference</h3><p>2023</p></article>
+    <article><h3>ICDM</h3><p>2023–2025</p></article>
+    <article><h3>SDM</h3><p>2021, 2023</p></article>
+    <article><h3>ECAI</h3><p>2025</p></article>
+  </div>
+</section>
+
+<section class="academic-section" aria-labelledby="journal-reviewing-heading">
+  <header class="academic-section__header">
+    <p class="academic-section__eyebrow">Journals</p>
+    <h2 id="journal-reviewing-heading">Journal Reviewing</h2>
+  </header>
+
+  <ul class="journal-list">
+    <li>IEEE Transactions on Knowledge and Data Engineering</li>
+    <li>ACM Transactions on Knowledge Discovery from Data</li>
+    <li>ACM Transactions on Intelligent Systems and Technology</li>
+    <li>Data &amp; Knowledge Engineering</li>
+    <li>IEEE Transactions on Big Data</li>
+    <li>IEEE Transactions on Cybernetics</li>
+    <li>Scientific Reports</li>
+    <li>Transportation Research Part C</li>
+  </ul>
+</section>

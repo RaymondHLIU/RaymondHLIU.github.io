@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">iETA system overview</title>
+  <desc id="desc">Data acquisition and feature construction feed an incremental ETA learner with knowledge consolidation and adversarial training, followed by online serving and a continuous feedback loop.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#52665d"/>
+    </marker>
+    <style>
+      .heading { font: 700 25px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #1f2924; }
+      .label { font: 600 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #34423b; }
+      .small { font: 500 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #59665f; }
+      .box { stroke: #9aa79f; stroke-width: 2; rx: 16; }
+      .inner { fill: #fff; stroke: #c6cec9; stroke-width: 1.5; rx: 10; }
+      .flow { fill: none; stroke: #52665d; stroke-width: 4; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="1200" height="650" fill="#fbfbf8"/>
+  <text x="60" y="60" class="heading">Continuously learning ETA from evolving urban traffic</text>
+
+  <rect x="55" y="115" width="245" height="410" class="box" fill="#eef2ed"/>
+  <text x="177" y="158" class="heading" text-anchor="middle">Data acquisition</text>
+  <rect x="82" y="190" width="191" height="58" class="inner"/>
+  <text x="177" y="225" class="label" text-anchor="middle">Historical trips</text>
+  <rect x="82" y="265" width="191" height="58" class="inner"/>
+  <text x="177" y="300" class="label" text-anchor="middle">Traffic &amp; road data</text>
+  <rect x="82" y="340" width="191" height="58" class="inner"/>
+  <text x="177" y="375" class="label" text-anchor="middle">POI &amp; weather</text>
+  <rect x="82" y="430" width="191" height="60" rx="10" fill="#dfe9e2"/>
+  <text x="177" y="458" class="label" text-anchor="middle">Data curation</text>
+  <text x="177" y="480" class="small" text-anchor="middle">filter · extract · match</text>
+
+  <path d="M 305 320 H 353" class="flow"/>
+  <rect x="360" y="115" width="245" height="410" class="box" fill="#f2efe5"/>
+  <text x="482" y="158" class="heading" text-anchor="middle">Feature construction</text>
+  <rect x="387" y="195" width="191" height="110" class="inner"/>
+  <text x="482" y="230" class="label" text-anchor="middle">Route features</text>
+  <text x="482" y="260" class="small" text-anchor="middle">road · POI · traffic</text>
+  <rect x="387" y="330" width="191" height="130" class="inner"/>
+  <text x="482" y="365" class="label" text-anchor="middle">Contextual features</text>
+  <text x="482" y="395" class="small" text-anchor="middle">OD · time · driver</text>
+  <text x="482" y="420" class="small" text-anchor="middle">weather conditions</text>
+
+  <path d="M 610 320 H 658" class="flow"/>
+  <rect x="665" y="95" width="300" height="450" class="box" fill="#e9eff2"/>
+  <text x="815" y="140" class="heading" text-anchor="middle">Incremental learning</text>
+  <rect x="695" y="175" width="240" height="105" class="inner"/>
+  <text x="815" y="208" class="label" text-anchor="middle">Travel-time predictor</text>
+  <text x="815" y="238" class="small" text-anchor="middle">local propagation</text>
+  <text x="815" y="262" class="small" text-anchor="middle">global aggregation</text>
+  <rect x="695" y="305" width="240" height="100" class="inner"/>
+  <text x="815" y="338" class="label" text-anchor="middle">Knowledge consolidation</text>
+  <text x="815" y="368" class="small" text-anchor="middle">self-distillation · weekly priors</text>
+  <rect x="695" y="430" width="240" height="70" rx="10" fill="#e3e9f1" stroke="#a8b2c1" stroke-width="1.5"/>
+  <text x="815" y="473" class="label" text-anchor="middle">Adversarial training</text>
+
+  <path d="M 972 320 H 1020" class="flow"/>
+  <rect x="1028" y="165" width="130" height="310" class="box" fill="#e8f0ea"/>
+  <text x="1093" y="208" class="heading" text-anchor="middle">Online</text>
+  <text x="1093" y="238" class="heading" text-anchor="middle">serving</text>
+  <rect x="1050" y="285" width="86" height="58" class="inner"/>
+  <text x="1093" y="320" class="label" text-anchor="middle">Query</text>
+  <rect x="1050" y="370" width="86" height="58" rx="10" fill="#dce8df"/>
+  <text x="1093" y="405" class="label" text-anchor="middle">ETA</text>
+
+  <path d="M 1093 482 V 585 H 177 V 535" fill="none" stroke="#78998a" stroke-width="4" stroke-dasharray="10 8" marker-end="url(#arrow)"/>
+  <text x="650" y="620" class="small" text-anchor="middle">new trip records continuously update the model</text>
+</svg>
