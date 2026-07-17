@@ -7,12 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Liu's Homepage"
+title                    : "Hao Liu"
 title_separator          : "-"
 name                     : &name "Hao Liu"
-description              : &description "Assistant Professor"
-description              : &description "HKUST(GZ)"
-url                      : https://RaymondHLIU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Associate Professor at HKUST(GZ) working on agentic systems"
+url                      : https://raymondhliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RaymondHLIU/RaymondHLIU.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -65,28 +64,40 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Hao Liu
+  links:
+    - "https://scholar.google.com/citations?user=66KKZR4AAAAJ&hl=en"
+    - "https://github.com/RaymondHLIU"
+    - "https://orcid.org/0000-0003-4271-1567"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "UA-153143657-1"
+  provider               : "goatcounter"
+  goatcounter:
+    # Create the site at https://www.goatcounter.com/signup and add its code here.
+    # Example: "raymondhliu" for https://raymondhliu.goatcounter.com.
+    site_code            : "raymondhliu"
+    production_hostname  : "raymondhliu.github.io"
+
+# Lightweight public counter displayed in the footer. GoatCounter also powers
+# the private analytics dashboard, so only one statistics service is loaded.
+page_views:
+  enabled                : true
+  provider               : "goatcounter"
 
 
 # Site Author
 author:
-  name             : "Dr. Hao Liu"
+  name             : "Hao Liu"
   avatar           : "haoliu.jpg"
   bio              : |
     The Hong Kong University of <br>
     Science and Technology (Guangzhou)
-  location         : "Hong Kong SAR"
+  location         : "Guangzhou, China"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=66KKZR4AAAAJ&hl=en"
   email            : "liuh@ust.hk"
   uri              :
   bitbucket        :
@@ -101,7 +112,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : 
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-4271-1567"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -260,11 +271,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

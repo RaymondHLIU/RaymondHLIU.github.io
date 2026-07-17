@@ -1,5 +1,15 @@
-<!-- start custom footer snippets -->
-<div style="width: 300px; margin: 0 auto">
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=Zh13J-mHiXjABSGq4r4Th8XE0H-bVyQiOZ_FAZ2d2pY&cl=ffffff&w=a"></script>
+{% include base_path %}
+
+<div class="site-footer">
+  <p class="site-footer__meta">
+    <span class="site-footer__copyright">&copy; {{ site.time | date: '%Y' }} Hao Liu <span class="site-footer__separator" aria-hidden="true">·</span> HKUST(GZ)</span>
+    {% if site.page_views.enabled %}
+      <span class="site-footer__views">Site visits <span id="goatcounter_site_views" aria-live="polite">—</span></span>
+    {% endif %}
+  </p>
+  <nav aria-label="Footer links">
+    <a href="https://scholar.google.com/citations?user=66KKZR4AAAAJ&amp;hl=en">Google Scholar</a>
+    <a href="https://github.com/usail-hkust">GitHub</a>
+    <a href="mailto:liuh@ust.hk">Email</a>
+  </nav>
 </div>
-<!-- end custom footer snippets -->

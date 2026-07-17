@@ -1,113 +1,104 @@
 ---
+layout: home
 permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+title: "Hao Liu — Agentic Systems"
+excerpt: "Hao Liu is an Associate Professor at HKUST(GZ) working on agentic systems for complex digital and physical worlds."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
-Hao Liu is currently an assistant professor at the Artificial Intelligence Thrust, HKUST (Guangzhou), and an Affiliated Assistant Professor at HKUST (Clear Water Bay). Before joining HKUST(GZ), he was a research scientist at Baidu Research. 
-Dr. Liu's current research interests include Agentic AI, reasoning LLMs, trustworthy LLMs, spatiotemporal foundation models, and their applications in urban science, intelligent transportation, and recommender systems. His work bridges advanced AI methodologies with real-world challenges, aiming to create scalable and impactful solutions for modern cities.
-In the past five years, Hao has filed over 60 China/U.S. patents and published over 100 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, WebConf, VLDB, NeurIPS, and ICML. For his research on Urban Intelligence, he was named in 2021 Forbes 30 Under 30 China list.
 
-To know more about my recent research interest, please refer to the following survey and position papers.
+<section class="home-intro" aria-labelledby="home-name">
+  <div class="home-intro__copy">
+    <h1 id="home-name">Hao Liu</h1>
 
-* [LLM Agents for Autonomous Scientific Discovery](https://www.researchgate.net/profile/Fan-Liu-90/publication/392172352_Foundation_Models_for_Scientific_Discovery_From_Paradigm_Enhancement_to_Paradigm_Transition/links/683807c0df0e3f544f5bb3d6/Foundation-Models-for-Scientific-Discovery-From-Paradigm-Enhancement-to-Paradigm-Transition.pdf)
-* [Foundation Models for Urban General Intelligence](https://arxiv.org/abs/2402.01749)
+    <p class="home-bio">I am an Associate Professor in the Artificial Intelligence Thrust at The Hong Kong University of Science and Technology (Guangzhou), and an affiliated faculty member at HKUST. Before joining HKUST(GZ), I was a Research Scientist at Baidu Research.</p>
 
+    <nav class="home-links" aria-label="Profile links">
+      <a class="home-links__internal" href="#join-us">Join Us</a>
+      <a href="https://scholar.google.com/citations?user=66KKZR4AAAAJ&amp;hl=en">Google Scholar</a>
+      <a href="https://github.com/usail-hkust">GitHub</a>
+      <a href="mailto:liuh@ust.hk">Email</a>
+    </nav>
+  </div>
 
-<!-- 
- [Agentic AI and Its Applications in Urban Domain]()
-Hao Liu received his Ph.D. degree from the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk) in 2017.  He is currently an assistant professor at the Artificial Intelligence Thrust, HKUST (Guangzhou), and an Affiliated Assistant Professor at the Department of Computer Science and Engineering, HKUST (Clear Water Bay).
-Dr. Liu's current research interests include urban foundation models, spatiotemporal data mining, and their applications on urban science, intelligent transportation, and recommender systems. 
-In the past five years, he has filed over 50 China/U.S. patents and published over 60 research papers at prestigious journals and conferences, such as TKDE, SIGKDD, SIGIR, WebConf, VLDB, NeurIPS, and ICML. For his research on intelligent transportation and urban computing, he was named in Forbes 30 Under 30 China list for science and healthcare 2021.
-<span style="color:red"> **[2024 Spring and Fall]** Multiple Ph.D. positions available! 
-Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your Ph.D. career. 
-<span id="main"> </span>
--->
+  <figure class="home-portrait">
+    <img src="{{ site.baseurl }}/images/haoliu.jpg" alt="Portrait of Hao Liu">
+  </figure>
+</section>
 
-<span style="color:red"> **[Call for paper]** We organize the 1st workshop of **[AI Data Scientist](https://usail-hkust.github.io/aidatasci)** in conjunction with ***[KDD 2026](https://kdd2026.kdd.org/workshops/)***, we sincerely invite both academia and industry researchers to contribute a manuscript. Submission deadline on May 23, 2025! </span>
+<section class="home-overview" id="research" aria-labelledby="research-heading">
+  <header class="home-overview__header">
+    <h2 id="research-heading">Building agentic systems for complex digital and physical worlds.</h2>
+    <p>My recent interest spans agentic data science, scientific discovery, and decision-making in dynamic real-world systems.</p>
+  </header>
 
-<span style="color:red"> **[Postdoc]** Postdoc/Research Associate positions available! Very competitive salary and research fund package. Please drop your resume and representative publications to liuh\[AT\]ust\[DOT\]hk. </span>
+  <div class="home-questions home-questions--overview" aria-label="Core research capabilities">
+    <article class="home-question">
+      <span class="home-question__number">01</span>
+      <h3>Understand complex worlds</h3>
+      <p>Learn transferable representations of complex, evolving environments across scales and domains.</p>
+    </article>
+    <article class="home-question">
+      <span class="home-question__number">02</span>
+      <h3>Make grounded decisions</h3>
+      <p>Reason with evidence, tools, collaborators, and physical constraints to act reliably in real-world environments.</p>
+    </article>
+    <article class="home-question">
+      <span class="home-question__number">03</span>
+      <h3>Learn through interaction</h3>
+      <p>Improve analytical and scientific workflows through execution feedback, reusable skills, and accumulated experience.</p>
+    </article>
+  </div>
 
-<span style="color:red"> **[Prospective 2026/2027 Fall PhD students]** Please feel free to send your resume to liuh\[AT\]ust\[DOT\]hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are highly encouraged to apply to my visiting student positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career. </span><br><br>
-<span style="color:red"> **[Prospective RBM students]** Please directly submit your application through the HKUST(GZ) admission system. If you have secured an offer, you are welcome to make an appointment to discuss research alignment and expectations. You are also encouraged to join my group as an RA before finalizing your decision. Please read the [Guidelines & Expectations](http://RaymondHLIU.github.io/files/MPhil_Guideline.pdf) for more details. Thanks! 
-<span id="main"> </span>
+  <p class="home-section__footer-link home-section__footer-link--research"><a href="{{ site.baseurl }}/research/">Explore research themes and related work →</a></p>
+</section>
 
-News
-======
-* <span style="color:red">New!</span> (2026-5-18) Several papers were accepted to ***KDD 2026*** and ***ICML 2026*** about **[AI Data Scientist](https://raymondhliu.github.io/publications/)**, **[Travel Agent](https://arxiv.org/abs/2509.21842)**, **[Efficient Agent Reasoning](https://arxiv.org/abs/2602.04284)**, and **[Flood Forecasting](https://raymondhliu.github.io/publications/)**, Congrates to Yansong Ning, Zherui Yang, and Jianping Zhu!
-* Several papers were accepted to ***ICLR 2026*** and ***WWW 2026*** about **[Multimodal AI Scientist](https://openreview.net/forum?id=kZHSvETWdi)**, **[Cooperative Urban Agent](https://arxiv.org/abs/2503.11739)**, **[Spatiotemporal Reasoning](https://arxiv.org/abs/2505.17572)**, and **[GPU-accelerated Recommendation](https://arxiv.org/abs/2502.11490)**, Congrates to my students Zirui Yuan, Siqi Lai, Fan Liu, Zhuoning Guo and Yuping Zhou!
-* 2025-11-25) Several papers were accepted to ***KDD 2026*** and ***AAAI 2026*** about **[Extreme Weather Forecasting](https://www.arxiv.org/abs/2508.01426)**, **[Subseasonal-to-Seasonal Weather Forecasting](https://arxiv.org/abs/2506.08049)**, **[MoE for Travel Time Estimation](https://raymondhliu.github.io/publications/)**, and **[Denoised Recommendation](https://arxiv.org/abs/2511.07295)**, Congrates to my students Tengfei Lyu, Wenzhao Jiang, Hang Ni, and Tianrui Song!
-* (2025-9-25) Three papers were accepted to ***NeurIPS 2025*** about **[The Fifth Paradigm: LLM based Scientific Discovery](http://www.techrxiv.org/doi/full/10.36227/techrxiv.174953071.19189612/v1)**, **[Real-world Mathematical Modeling Agent](https://arxiv.org/abs/2505.14148)**, and **[Test-time Computation Benchmark of LLM Reasoning](https://arxiv.org/abs/2502.07191)**, Congrates to my student Fan Liu!
-* (2025-8-5) Delighted to receive the **[Audience Appreciation Award of KDD 2025](https://kdd2025.kdd.org/awards/)**, congrates to the **[LLMLight team](https://github.com/usail-hkust/LLMTSCS)**.
-* (2025-6-1) Congratulations to my first PhD student Jindong Han for joining Shandong University as an Associate Professor.
-* (2025-5-31) Glad to receive the **Outstanding Reviewer** recoginition from ***[KDD 2025](https://kdd2025.kdd.org/)***.
-* (2025-5-20) Several papers were accepted to ***KDD 2025*** about **[Pre-trained Language Model for Irregular Time Series](https://arxiv.org/abs/2408.08328)**, **[State Space Model for Time Series](https://arxiv.org/abs/2408.12068)**, **[Nuclear Radiation Forecasting](https://arxiv.org/abs/2410.119)**, **[LLM-Powered Ride-Hailing Assistant](https://arxiv.org/abs/2503.04768)**, and **[Large-Scale RAG Dataset for Scientific Research](https://raymondhliu.github.io/)**, Congrates to my students Weijia Zhang, Zixuan Weng, Tengfei Lyu, Yansong Ning, Junyong Lin and Lu Dai!
-* (2025-4-30) One paper was accepted to ***IJCAI 2025*** about **[Language Model Empowered Spatio-Temporal Forecasting](https://arxiv.org/abs/2408.14505)** Congrates to my student Hao Wang!
-* (2025-4-25) Congrates to my student Weijia Zhang for receiving the **[Baidu Scholarship](https://raymondhliu.github.io/)**, highly selective and well deserved!
-* (2025-4-15) Delighted to receive the Speical Award and Golden Medal of ***[International Exhibition Inventions of Geneva 2025](https://www.inventions-geneva.ch/en/home-en/)***, congrates to the **[LLMLight team](https://github.com/usail-hkust/LLMTSCS)**.
-* (2025-3-16) One paper was accepted to ***VLDB 2025*** about **[Compact Pre-Trained Spatiotemporal Predictive Model](https://raymondhliu.github.io/)**, congrates to my students Jindong Han.
-* (2025-1-23) Three papers were accepted to ***ICLR 2025*** and ***WebConf 2025*** about **[Retrival Utility Measurement in RAG](https://arxiv.org/abs/2503.01478)** (Spotlight), **[LLM Data Selection](https://raymondhliu.github.io/)** and **[Federated Graph Unlearning](https://raymondhliu.github.io/)**, congrates to my students Lu Dai, Jindong Han, and Fan Liu.
+<section class="home-section" aria-labelledby="updates-heading">
+  <header class="home-section__header home-section__header--label-only">
+    <h2 class="home-section__eyebrow" id="updates-heading">Recent updates</h2>
+  </header>
 
-<details>
-<summary>Past news</summary>
-<ul>
-<li> (2024-12-19) Glad to receive the <b>Excellent Reviewer</b> recoginition from <b>KDD 2025</b>. And congras to my students Weijia Zhang and Siqi Lai for receving the <b>Outstanding Reviewer</b>, even better than me :)</li>  
-<li> (2024-11-20) We organize a special issue on <b>Urban Foundation Models</b> at <b>ACM TIST</b>, we sincerely invite you to contribute a manuscript.</li>  
-<li> (2024-11-20) Three papers were accepted to <b>KDD 2025</b> about <b>LLM as Traffic Control Agent</b>, <b>Auotmated Spatiotemporal Forecasting</b> and <b>Graph LoRA</b>, congrates to my students Siqi Lai, Tengfei Lyu, and Zherui Yang.</li>  
-<li> (2024-9-26) Two papers were accepted to <b>NeurIPS 2024</b> about <b>LLM based Urban KG Construction</b> and <b>Benchmarking LLM Jailbreak Attacks</b>, congrates to my students Yansong Ning and Zhao Xu.</li>  
-<li> (2024-9-20) Pleased to announce our IEEE standard <b>IEEE Recommended Practice for the Application of Knowledge Graphs for Talent Services</b>formally published after two years preparation.</li>  
-<li> (2024-9-20) Two papers were accepted to <b>EMNLP 2024</b> about <b>Dense Retrival for RAG/QA</b> (main) and <b>LLM Enhanced Recommendation</b> (findings), congrates to my students Lu Dai and Wenshuo Chao.</li>  
-<li> (2024-9-13) Starting to serve as an associate editor of <b>IEEE Transaction on Big Data</b>.</li>  
-<li> (2024-9-1) Congratulations to my students Weijia Zhang and Fan Liu for receiving the AI Thrust <b>Best Research Award</b> and <b>Rising Star Award</b>, respectively!</li>  
-<li> (2024-8-30) Our paper <b>BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks</b> received the <b>VLDB 2024 Best Paper Nomination Award</b>, congrats to my student Jindong Han. </li>  
-<li> (2024-8-27) We gave a tutorial about <b>Urban Foundation Models</b> on <b>KDD 2024</b>, checkout the tutorial <b>Homepage</b> (https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial/ and the <b>paper list</b>(https://github.com/usail-hkust/Awesome-Urban-Foundation-Models).</li>  
-<li> (2024-5-17) Three papers were accepted to <b>KDD 2024</b> about <b>Traffic Congestion Prediction</b>, <b>Federated Graph Learning</b> and <b>Irregular Traffic Forecasting</b>, congrats to my students Wenzhao Jiang, Zhuoning Guo and Weijia Zhang.</li>  
-<li> (2024-5-1) Congratulations to my student Jindong Han for receiving the <b>HKUST AIS Best Research Award</b>!</li>
-<li> (2024-5-1) One paper was accepted to <b>ICML 2024</b> about <b>Irregular Time Series Forecasting</b>, congrats to my student Weijia Zhang.</li>  
-<li> (2023-12-20) One paper was accepted to <b>VLDB 2024</b> about <b>large-scale traffic forecasting</b>, congrats to my student Jindong Han. </li>  
-<li> (2023-12-20) two papers were accepted to <b>AAAI 2024</b> about <b>skill demand-supply prediction</b> and <b>hierarchical multi-label classification</b> congrats to my student Wenshuo Chao and Dr. Zixuan Yuan.  </li>
-<li> (2023-9-22) One paper was accepted to <b>NeurIPS</b> Datasets and Benchmarks track about <b>Urban Knowledge Graph</b> congrats to my student Yansong Ning. Checkout the opensourced <b>UrbanKG construction tool and UrbanKGs for NYC and Chicago</b>(https://github.com/usail-hkust/UUKG) to boost your own research. </li>  
-<li> (2023-5-17) Four papers were accepted to <b>KDD</b> about <b>adversarial spatiotemporal training</b>, <b>ETA prediction</b>, and <b>personalized vehicle energy consumption estimation</b> congrats to my students Fan Liu, Jindong Han, and Siqi Lai. </li> 
-<li> (2023-1-30) One paper was accepted to <b>TKDE</b> about <b>joint air quality and weather prediction</b>, congrats to my student Jindong Han. </li> 
-<li> (2022-9-16) One paper was accepted to <b>NeurIPS 2022</b> about <b>adversarial attack against graph based traffic forecasting models</b>, congrats to my student Fan Liu. </li> 
-<li> (2022-9-1) One paper was accepted to <b>ICDM 2022</b> about <b>knowledge enhanced imitative trajectory generation</b>, congrats to my student Qingyan Zhu who graduated in August, a perfect end of research study. </li> 
-<li> (2022-5-19) Three papers were accepted to <b>SIGKDD 2022</b> about <b>GPU-accelerated deep learning system</b>, <b>multi-agent charging pricing</b>, and <b>talent demand-supply prediction</b>, congrats to my students Weijia Zhang and Zhuoning Guo. </li> 
-<li> (2022-5-18) One paper on <b>Reinforced charging station recommendation</b> was accepted to <b>TKDE</b>. </li> 
-<li> (2022-5-1) One paper on <b>multi-modal transportation routing</b> was accepted to <b>VLDBJ</b>. </li> 
-<li> (2022-2-21) One paper on <b>national-wide public transportation routing</b> was accepted to <b>TKDE</b>. </li> 
-<li> (2022-1-29) Two papers on <b>semi-supervised air quality forecasting</b> and <b>graph-grounded conversational recommendation</b> were accepted to <b>TKDE</b>. </li> 
-<li> (2022-1-29) One paper on <b>data science competition analysis</b> was accepted to <b>TKDD</b>. </li> 
-<li> (2021-12-02) One paper was accepted to <b>AAAI 2022</b> about <b>long path knowledge reasoning</b>. </li> 
-<li> (2021-09-28) One paper was accepted to <b>NeurIPS 2021</b> about <b>bi-level optimization</b>. </li> 
-<li> (2021-09-16) I was named in <b>Forbes 30 Under 30 China 2021</b> list. </li> 
-<li> (2021-05-18) Four papers were accepted to <b>SIGKDD 2021</b> about <b>web-scale machine learning system</b>, <b>real estate appraisal</b>, <b>talent demand forecasting</b>, and <b>domain-oriented BERT</b>. </li> 
-<li> (2021-01-16) Two papers were accepted to <b>WebConf 2021</b> about <b>intelligent charging station recommendation</b> and <b>online query-POI matching</b>. </li> 
-<!-- * (2020-12-02) Four papers were accepted to ***AAAI 2021*** about **transportation demand prediction**, **atmospheric prediction**, **corporate porfiling**, and **POI recommendation**. -->
-<!-- * (2020-10-21) Our paper [Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network](https://ieeexplore.ieee.org/document/9241427)  was accepted to ***TKDE***. -->
-<!-- * (2020-10-16) Our paper [Multi-Modal Transportation Recommendation with Unified Route Representation Learning](https://raymondhliu.github.io/) was accepted to ***VLDB 2021*** Scalable Data Science track. -->
-<!-- * (2020-05-16) Our paper [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf) was accepted to ***KDD 2020*** ADS track as oral (oral accpetence rate 5.8%). -->
-<!-- * (2020-05-16) Our paper [Competitive Analysis for Points of Interest](http://RaymondHLIU.github.io/files/KDD20-competitive.pdf) was accepted to ***KDD 2020*** research track. -->
-<!-- * (2020-04-23) Our paper [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](http://RaymondHLIU.github.io/files/SIGIR20-matching.pdf) was accepted to ***SIGIR 2020***. -->
-<!-- * (2020-04-23) Our paper [Spatial Object Recommendation with Hints: When Spatial Granularity Matters](http://RaymondHLIU.github.io/files/SIGIR20-poirec.pdf) was accepted to ***SIGIR 2020***. -->
-<!-- * (2020-04-21) Our paper [Why We Go Where We Go: Profiling User Decisions on Choosing POIs](https://www.ijcai.org/Proceedings/2020/0478.pdf) was accepted to ***IJCAI 2020***. -->
-<!-- * (2020-03-31) Our paper [Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation](https://ieeexplore.ieee.org/document/9063461) was accepted to ***TKDE***.  -->
+  <ul class="home-updates">
+    <li class="home-update">
+      <time datetime="2026-07">Jul 2026</time>
+      <p>Call for papers: the <a href="https://link.springer.com/collections/fhbghibigc">Frontiers of AI and Data Science Competitions</a> special issue in <strong>Frontiers of Computer Science</strong> is now open for submissions.</p>
+    </li>
+    <li class="home-update">
+      <time datetime="2026-05">May 2026</time>
+      <p>New papers at <strong>KDD 2026</strong> on <a href="{{ site.baseurl }}/publications/full/">autonomous data science, travel agents, extreme-weather forecasting, and flood forecasting</a>.</p>
+    </li>
+    <li class="home-update">
+      <time datetime="2026-01">Jan 2026</time>
+      <p>New work at <strong>ICLR 2026</strong> and <strong>The Web Conference 2026</strong> on <a href="https://openreview.net/forum?id=kZHSvETWdi">multimodal scientific discovery</a>, <a href="https://arxiv.org/abs/2503.11739">cooperative urban agents</a>, and <a href="https://arxiv.org/abs/2505.17572">spatiotemporal reasoning</a>.</p>
+    </li>
+    <li class="home-update">
+      <time datetime="2025-09">Sep 2025</time>
+      <p>Three papers were accepted to <strong>NeurIPS 2025</strong>, exploring agentic scientific discovery, mathematical modeling agents, and test-time reasoning.</p>
+    </li>
+    <li class="home-update">
+      <time datetime="2025-08">Aug 2025</time>
+      <p><a href="https://arxiv.org/abs/2312.16044">LLMLight</a> received the <a href="https://kdd2025.kdd.org/awards/">KDD 2025 Audience Appreciation Award</a>.</p>
+    </li>
+  </ul>
+  <p class="home-news-link"><a href="{{ site.baseurl }}/news/">Older news →</a></p>
+</section>
 
-<li>  (2020-03-16) Our Cross-City Multi-Modal Recommendation service get online! This service covers over 330 cities in mainland China. </li>
-<li>  (2019-08-02) We organized "The KDD Cup 2019 Regular ML Track", Context-Aware Multi-Modal Transportation Recommendation. We attracted over 1700 teams participates. </li>
-<li>  (2018-9-01) Our Multi-Modal Transportation Recommendation service get online! Download Baidu Maps and try Zhixing! </li>
-</ul>
-</details><br>
+<section class="home-section" id="join-us" aria-labelledby="join-us-heading">
+  <header class="home-section__header">
+    <p class="home-section__eyebrow">Join us</p>
+    <h2 class="home-section__title" id="join-us-heading">Work with us.</h2>
+  </header>
 
-
-
-Selected Publications
-======
-* <ins>Siqi Lai</ins>, <ins>Zhao Xu</ins>, <ins>Weijia Zhang</ins>, ***Hao Liu\****, Hui Xiong. [LLMLight: Large Language Models as Traffic Signal Control Agents](https://arxiv.org/abs/2312.16044). In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining  (***KDD 2025***), Toronto, Canada, 2025. [Special Award of International Exhibition of Inventions Geneva 2025](http://RaymondHLIU.github.io/images/trophy.jpg) and [KDD 2025 Audience Appreciation Award](https://kdd2025.kdd.org/awards/)
-* <ins>Jindong Han</ins>, <ins>Weijia Zhang</ins>, ***Hao Liu\****, Tao Tao, Naiqiang Tan and Hui Xiong. [BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks](https://dl.acm.org/doi/abs/10.14778/3641204.3641217). In Proceedings of the VLDB Endowment (***VLDB 2024***), Guangzhou, China, 2024. <font color="#dd0000"> Nomination of Best Research Paper Award </font>
-* <ins>Jindong Han</ins>, ***Hao Liu\****, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong. [iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation](https://dl.acm.org/doi/10.1145/3580305.3599842). In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (***KDD 2023***), Long Beach, CA, USA, 2023. <font color="#dd0000"> Full deployment on DiDi Chuxing </font>
-* **Hao Liu**, Ying Li, Yanjie Fu, Huaibo Mei, Jingbo Zhou, Xu Ma and Hui Xiong. [Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine](http://RaymondHLIU.github.io/files/KDD20-polestar.pdf). In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (***KDD 2020***), San Diego, California, 2020. <font color="#dd0000"> Full deployment on Baidu Maps</font>
-* **Hao Liu**, Yongxin Tong, Panpan Zhang, Xinjiang Lu, Jianguo Duan, and Hui Xiong. [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](http://RaymondHLIU.github.io/files/KDD19-Hydra.pdf). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (***KDD 2019***) , Anchorage, Alaska, 2019. <font color="#dd0000"> Full deployment on Baidu Maps</font>
-
+  <div class="home-join">
+    <article>
+      <h3>Postdoc and PhD students</h3>
+      <p>Postdoctoral / Research Associate positions are available. Prospective Ph.D. and visiting students whose interests align with our research are also welcome. Please email your CV and representative work to <a href="mailto:liuh@ust.hk">liuh@ust.hk</a>.</p>
+    </article>
+    <article>
+      <h3>RBM students</h3>
+      <p>Please apply directly through the <a href="https://pgoas.hkust-gz.edu.cn/">HKUST(GZ) Online Admission System</a>. After receiving an offer, you are welcome to contact me to discuss research fit; joining the group as an RA before making a final decision is encouraged. Please read the <a href="{{ site.baseurl }}/files/MPhil_Guideline.pdf">Guidelines &amp; Expectations</a>.</p>
+    </article>
+  </div>
+</section>

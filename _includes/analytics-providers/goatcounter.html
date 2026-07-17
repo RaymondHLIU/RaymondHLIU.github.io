@@ -1,0 +1,35 @@
+{% assign goatcounter_code = site.analytics.goatcounter.site_code | default: "" | strip %}
+{% assign production_hostname = site.analytics.goatcounter.production_hostname | default: "" | strip %}
+{% if goatcounter_code != "" and production_hostname != "" %}
+  <script>
+    (function () {
+      if (window.location.hostname !== {{ production_hostname | jsonify }}) return;
+
+      var endpoint = "https://{{ goatcounter_code }}.goatcounter.com";
+      var analytics = document.createElement("script");
+      analytics.async = true;
+      analytics.src = "https://gc.zgo.at/count.js";
+      analytics.dataset.goatcounter = endpoint + "/count";
+{% if site.page_views.enabled and site.page_views.provider == "goatcounter" %}
+      analytics.addEventListener("load", function () {
+        var display = document.getElementById("goatcounter_site_views");
+        if (!display) return;
+
+        var request = new XMLHttpRequest();
+        request.addEventListener("load", function () {
+          if (request.status < 200 || request.status >= 300) return;
+
+          try {
+            display.textContent = JSON.parse(request.responseText).count;
+          } catch (error) {
+            // Keep the neutral fallback when the counter response is unavailable.
+          }
+        });
+        request.open("GET", endpoint + "/counter/TOTAL.json");
+        request.send();
+      });
+{% endif %}
+      document.body.appendChild(analytics);
+    }());
+  </script>
+{% endif %}

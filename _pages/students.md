@@ -1,51 +1,70 @@
 ---
-title: "Students"
+layout: home
+title: "Students — Hao Liu"
 permalink: /students/
-author_profile: true
-description: Students and interns I supervised.
+description: "Student achievements and alumni supervised by Hao Liu."
+author_profile: false
 ---
 
-Current Ph.D. students
----
-* **Lu Dai**, undergraduate from University of Science and Technology of China.
-* **Weijia Zhang**, master from University of Science and Technology of China. <font color="#dd0000"> Baidu Scholarship </font>
-* **Wenzhao Jiang**, undergraduate from University of Science and Technology of China.
-* **Tengfei Lyu**, master from Central South University.
-* **Shuowei Cai**, M.Phil. from HKUST.
-* **Siqi Lai**, undergraduate from Wuhan University.
-* **Hang Ni**, undergraduate from Northwestern Polytechnical University.
-* **Fan Liu**, M.Phil. from HKUST(GZ).
-* **Wenshuo Chao**, M.Phil. from HKUST(GZ).
-* **Zirui Yuan**, Master from Tianjin University.
-* **Yansong Ning**, M.Phil. from HKUST(GZ).
-* **Zherui Yang**, Master from Sun Yat-sen University.
+<header class="page-heading">
+  <h1>Students</h1>
+</header>
 
+<section class="academic-section academic-section--first" aria-labelledby="student-achievements-heading">
+  <header class="academic-section__header academic-section__header--simple">
+    <h2 id="student-achievements-heading">Student Achievements</h2>
+  </header>
 
-Past members
----
-* **Jindong Han**, Ph.D. 2025, first employment: Professor at Shandong University.
+  <ul class="achievement-list achievement-list--flat">
+    <li><strong>Tengfei Lyu</strong><span>HKUST(GZ) AI Thrust 2026 Best Research Award</span></li>
+    <li><strong>Yansong Ning</strong><span>HKUST(GZ) AI Thrust 2026 Rising Star Award</span></li>
+    <li><strong>Fan Liu</strong><span>2026 Lizhi Scholarship</span></li>
+    <li><strong>Fan Liu</strong><span>HKUST(GZ) AI Thrust 2025 Best Research Award</span></li>
+    <li><strong>Weijia Zhang</strong><span>2025 Baidu Scholarship</span></li>
+    <li><strong>Siqi Lai</strong><span><a href="{{ site.baseurl }}/images/trophy.jpg">Special Award of International Exhibition of Inventions Geneva 2025</a></span></li>
+    <li><strong>Siqi Lai</strong><span><a href="https://kdd2025.kdd.org/awards/">KDD 2025 Audience Appreciation Award</a></span></li>
+    <li><strong>Jindong Han</strong><span>2025 National Young Talent Plan</span></li>
+    <li><strong>Jindong Han</strong><span>HKUST AIS 2024 Best Research Award</span></li>
+    <li><strong>Jindong Han</strong><span>VLDB 2024 Best Research Paper Nomination Award</span></li>
+    <li><strong>Fan Liu</strong><span>HKUST(GZ) AI Thrust 2024 Rising Star Award</span></li>
+    <li><strong>Weijia Zhang</strong><span>HKUST(GZ) AI Thrust 2023 Best Research Award</span></li>
+  </ul>
+</section>
 
-* **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc. 
-* **Ziyang Wu**, M.Phil. 2024, first employment: China Grid
-* **Ruohong Liu**, M.Phil. 2024 -> Ph.D. student at Oxford University.
-* **Zhao Xu**, M.Phil. 2025 -> Ph.D. student at UCLA.
-* **Tianrui Song**, M.Phil. 2025 -> Master student at KCL.
-* **Ruiqian Han**, M.Phil. 2026, first employment: DiDi Chuxing Inc. 
-* **Hao Wang**, M.Phil. 2026 -> Ph.D. student at Hong Kong Polytechnic University. 
-* **Yuxuan Fan**, M.Phil. 2026 -> Ph.D. student at Nanyang Technological University. 
+<section class="academic-section" aria-labelledby="alumni-heading">
+  <header class="academic-section__header academic-section__header--simple">
+    <h2 id="alumni-heading">Alumni</h2>
+  </header>
 
-* **Xiaolong Jin**, RA, Undergraduate at USTC -> Ph.D. student at Purdue University.
-* **Weilin Lin**, RA, MSC at CityU -> Ph.D. student at HKUST(GZ).
-* **Zixuan Weng**, RA, Undergraduate at Beijing Jiaotong University -> Ph.D. student at Georgia Institute of Technology.
+  <div class="people-groups">
+  <ul class="people-list people-group">
+    <li><strong>Weijia Zhang</strong><span>Ph.D., 2026 · First employment: Ant Group (Talent Plan)</span></li>
+    <li><strong>Ruiqian Han</strong><span>M.Phil., 2026 → DiDi Chuxing</span></li>
+    <li><strong>Hao Wang</strong><span>M.Phil., 2026 → Ph.D. student, The Hong Kong Polytechnic University</span></li>
+    <li><strong>Yuxuan Fan</strong><span>M.Phil., 2026 → Ph.D. student, Nanyang Technological University</span></li>
+    <li><strong>Jindong Han</strong><span>Ph.D., 2025 → Professor, Shandong University</span></li>
+    <li><strong>Zhao Xu</strong><span>M.Phil., 2025 → Ph.D. student, UCLA</span></li>
+    <li><strong>Tianrui Song</strong><span>M.Phil., 2025 → Master's student, King's College London</span></li>
+    <li><strong>Wenshuo Chao</strong><span>M.Phil., 2024 · First employment: Quant Researcher @ Private Fund</span></li>
+    <li><strong>Ziyang Wu</strong><span>M.Phil., 2024 → China Grid</span></li>
+    <li><strong>Ruohong Liu</strong><span>M.Phil., 2024 → Ph.D. student, University of Oxford</span></li>
+    <li><strong>Qingyan Zhu</strong><span>M.Phil., 2022 → NIO Inc.</span></li>
+  </ul>
 
-* **Can Chen**, Intern, Undergraduate at USTC -> Ph.D. student at McGill University.
-* **Wei Fan**, Intern, Ph.D. student at UCF, now Lecturer at Auckland University.
-* **Qingyu Guo**, Intern, Ph.D. student at HKUST.
-* **Ding Zhou**, Intern, Master at USTC -> Alibaba Group.
-* **Qiyu Wu**, Intern, Master at PKU.
-* **Carter Blum**, Intern, Master student at University of Minnesota -> Bloomberg.
-* **Ying Xu** Intern, Ph.D. student at NUDT.
-* **Pengfei Wang**, Intern, Ph.D. student at CAS, now associate researcher at Chinese Academy of Sciences.
-* **Zixuan Yuan**, Intern, Ph.D student at Rutgers University, now assistant professor at HKUST(GZ).
-* **Ting Li**, Intern, Master student at NUDT -> JD Digits.
-
+  <ul class="people-list people-group people-group--assistants">
+    <li><strong>Xiaolong Jin</strong><span>Research Assistant · Undergraduate, USTC → Ph.D. student, Purdue University</span></li>
+    <li><strong>Weilin Lin</strong><span>Research Assistant · M.Sc., City University of Hong Kong → Ph.D. student, HKUST(GZ)</span></li>
+    <li><strong>Zixuan Weng</strong><span>Research Assistant · Undergraduate, Beijing Jiaotong University → Ph.D. student, Georgia Tech</span></li>
+    <li><strong>Can Chen</strong><span>Intern · Undergraduate, USTC → Ph.D. student, McGill University</span></li>
+    <li><strong>Wei Fan</strong><span>Intern · Ph.D., University of Central Florida → Lecturer, University of Auckland</span></li>
+    <li><strong>Qingyu Guo</strong><span>Intern · Ph.D. student, HKUST</span></li>
+    <li><strong>Ding Zhou</strong><span>Intern · Master's student, USTC → Alibaba Group</span></li>
+    <li><strong>Qiyu Wu</strong><span>Intern · Master's student, Peking University</span></li>
+    <li><strong>Carter Blum</strong><span>Intern · Master's student, University of Minnesota → Bloomberg</span></li>
+    <li><strong>Ying Xu</strong><span>Intern · Ph.D. student, National University of Defense Technology</span></li>
+    <li><strong>Pengfei Wang</strong><span>Intern · Ph.D., Chinese Academy of Sciences → Associate Researcher, Chinese Academy of Sciences</span></li>
+    <li><strong>Zixuan Yuan</strong><span>Intern · Ph.D., Rutgers University → Assistant Professor, HKUST(GZ)</span></li>
+    <li><strong>Ting Li</strong><span>Intern · Master's student, National University of Defense Technology → JD Digits</span></li>
+  </ul>
+  </div>
+</section>

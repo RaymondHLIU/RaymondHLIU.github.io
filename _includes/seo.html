@@ -7,7 +7,11 @@
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title %}
-  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% if page.title contains site.title %}
+    {% assign seo_title = page.title %}
+  {% else %}
+    {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% endif %}
 {% endif %}
 
 {% if seo_title %}
@@ -23,6 +27,7 @@
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
+  <meta name="description" content="{{ seo_description }}">
 {% endif %}
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
@@ -48,7 +53,7 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 
@@ -115,10 +120,16 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
+      "@context" : "https://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
+      "jobTitle" : "Associate Professor",
+      "affiliation" : {
+        "@type" : "CollegeOrUniversity",
+        "name" : "The Hong Kong University of Science and Technology (Guangzhou)"
+      },
+      "image" : {{ "/images/haoliu.jpg" | prepend: seo_url | jsonify }},
       "sameAs" : {{ site.social.links | jsonify }}
     }
   </script>

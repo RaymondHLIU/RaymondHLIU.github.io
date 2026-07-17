@@ -1,16 +1,16 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
-    url: /publications/ 
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Services"
-    url: /services/
-
-    
   - title: "Students"
     url: /students/
-    
 
+  - title: "Services"
+    url: /services/

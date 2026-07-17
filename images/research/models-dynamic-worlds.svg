@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" role="img" aria-labelledby="title">
+  <title id="title">A model learning changing world dynamics over time</title>
+  <rect x="1" y="1" width="298" height="178" rx="18" fill="#f4f6f1" stroke="#dfe2da"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 27 136 H 273 M 41 28 V 148" stroke="#c4cfc8" stroke-width="2"/>
+    <path d="M 41 116 C 63 113 70 69 94 71 C 118 74 115 110 140 106 C 165 101 173 45 202 50 C 227 54 231 92 262 70" stroke="#557a68" stroke-width="4"/>
+    <path d="M 41 125 C 70 121 78 99 104 101 C 132 104 138 125 165 119 C 194 113 208 77 262 84" stroke="#91aa9c" stroke-width="3" stroke-dasharray="6 7"/>
+    <path d="M 84 35 V 136 M 150 35 V 136 M 216 35 V 136" stroke="#d8dfda" stroke-width="1.5"/>
+    <circle cx="94" cy="71" r="6" fill="#f4f6f1" stroke="#557a68" stroke-width="3"/>
+    <circle cx="202" cy="50" r="6" fill="#f4f6f1" stroke="#557a68" stroke-width="3"/>
+  </g>
+  <path d="M 250 42 L 254 51 L 263 55 L 254 59 L 250 68 L 246 59 L 237 55 L 246 51 Z" fill="#557a68"/>
+</svg>

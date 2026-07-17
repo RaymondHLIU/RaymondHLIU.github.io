@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" role="img" aria-labelledby="title">
+  <title id="title">Agentic data science workflow</title>
+  <rect x="1" y="1" width="298" height="178" rx="18" fill="#f4f6f1" stroke="#dfe2da"/>
+  <g fill="none" stroke="#557a68" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="57" cy="51" rx="29" ry="11" fill="#e3ece6"/>
+    <path d="M 28 51 V 109 C 28 123 86 123 86 109 V 51"/>
+    <path d="M 28 78 C 28 92 86 92 86 78 M 28 101 C 28 115 86 115 86 101"/>
+    <path d="M 88 83 H 120"/>
+    <circle cx="141" cy="83" r="19" fill="#ffffff"/>
+    <path d="M 160 83 H 190"/>
+    <rect x="193" y="42" width="78" height="82" rx="10" fill="#ffffff"/>
+    <path d="M 208 102 L 223 82 L 236 91 L 256 63"/>
+    <path d="M 207 111 H 258" stroke="#b4c3ba" stroke-width="2"/>
+    <path d="M 134 75 L 141 68 L 148 75 M 134 91 L 141 98 L 148 91"/>
+  </g>
+  <g fill="#557a68">
+    <circle cx="112" cy="83" r="4"/>
+    <circle cx="178" cy="83" r="4"/>
+    <path d="M 235 29 L 239 38 L 248 42 L 239 46 L 235 55 L 231 46 L 222 42 L 231 38 Z"/>
+  </g>
+</svg>
