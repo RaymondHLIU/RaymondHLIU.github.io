@@ -241,17 +241,3 @@
       image_alt: "iETA data acquisition, feature construction, incremental learning, online serving, and feedback loop"
       authors: "Jindong Han, <strong>Hao Liu</strong>, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, and Hui Xiong"
       summary: "A production-scale ETA framework that continuously adapts to evolving traffic through incremental prediction, knowledge consolidation, and adversarial training."
-
-    - short_title: "Urban Foundation Models"
-      venue: "KDD 2024"
-      topic: "Urban foundation models"
-      title: "Urban Foundation Models: A Survey"
-      url: "https://doi.org/10.1145/3637528.3671453"
-      bibtex: "/files/bibtex/urban-foundation-models.bib"
-      image: "/images/publications/urban-foundation-models.png"
-      image_alt: "Urban foundation models trained on multimodal urban data and adapted to downstream city applications"
-      authors: "Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, <strong>Hao Liu</strong>, and Hui Xiong"
-      summary: "A data-centric definition and taxonomy of urban foundation models spanning multimodal urban data, adaptation strategies, and downstream city applications."
-      links:
-        - label: "Project"
-          url: "https://github.com/usail-hkust/Awesome-Urban-Foundation-Models"

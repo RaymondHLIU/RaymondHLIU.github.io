@@ -365,26 +365,6 @@
   line-height: 1.62;
 }
 
-.home-question__theme {
-  display: inline-block;
-  margin-top: 1rem;
-  color: #245c4b;
-  font-family: $sans-serif;
-  font-size: 0.78rem;
-  font-weight: 650;
-  line-height: 1.45;
-}
-
-.home-question__theme span {
-  display: block;
-  margin-bottom: 0.1rem;
-  color: #888e87;
-  font-size: 0.64rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
 .home-subsection {
   margin-top: 5rem;
 }
@@ -1129,10 +1109,9 @@
 
 .publication-year-index a {
   display: inline-flex;
-  gap: 0.5rem;
   align-items: center;
   min-height: 2rem;
-  padding: 0.3rem 0.55rem 0.3rem 0.7rem;
+  padding: 0.3rem 0.7rem;
   color: #4e554f;
   background: #f4f5f0;
   border: 1px solid #e0e2da;
@@ -1147,29 +1126,13 @@
   background: #eef1e9;
 }
 
-.publication-year-index small {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 1.35rem;
-  min-height: 1.35rem;
-  padding: 0 0.25rem;
-  color: #7f867f;
-  background: #ffffff;
-  border-radius: 999px;
-  font-size: 0.58rem;
-  font-weight: 700;
-}
-
 .publication-year {
   scroll-margin-top: 5.5rem;
 }
 
 .publication-year__heading {
   display: flex;
-  gap: 1rem;
   align-items: baseline;
-  justify-content: space-between;
   margin: 4.75rem 0 0;
   padding-bottom: 1rem;
   border-bottom: 1px solid #dedfd8;
@@ -1187,16 +1150,6 @@
   font-weight: 650;
   letter-spacing: -0.045em;
   line-height: 1;
-}
-
-.publication-year__heading p {
-  margin: 0;
-  color: #8a918b;
-  font-family: $sans-serif;
-  font-size: 0.68rem;
-  font-weight: 650;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
 }
 
 .publications-list ul {
@@ -1516,7 +1469,7 @@
   }
 
   .publication-year-index a {
-    justify-content: space-between;
+    justify-content: center;
     min-width: 0;
   }
 

@@ -6,15 +6,10 @@ excerpt: "Publications by Hao Liu and collaborators."
 author_profile: false
 ---
 
-{% assign publication_total = 0 %}
-{% for group in site.data.publications.groups %}
-  {% assign publication_total = publication_total | plus: group.papers.size %}
-{% endfor %}
-
 <header class="page-heading page-heading--split">
   <div>
     <h1>Full publication list</h1>
-    <p class="publications-heading__meta">{{ publication_total }} publications · 2016–2026</p>
+    <p class="publications-heading__meta">2016–2026</p>
   </div>
   <a class="publications-heading__link" href="{{ site.baseurl }}/publications/">← Selected publications</a>
 </header>
@@ -27,7 +22,6 @@ author_profile: false
       {% for group in site.data.publications.groups %}
       <a href="#publications-{{ group.id }}">
         <span>{{ group.year }}</span>
-        <small>{{ group.papers.size }}</small>
       </a>
       {% endfor %}
     </nav>
@@ -38,7 +32,6 @@ author_profile: false
     <section class="publication-year" id="publications-{{ group.id }}" aria-labelledby="publications-{{ group.id }}-title">
       <header class="publication-year__heading">
         <h2 id="publications-{{ group.id }}-title">{{ group.year }}</h2>
-        <p>{{ group.papers.size }} publications</p>
       </header>
       <ul>
         {% for citation in group.papers %}

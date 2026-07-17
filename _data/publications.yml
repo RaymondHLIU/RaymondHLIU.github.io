@@ -3,6 +3,7 @@ groups:
 - year: '2026'
   id: '2026'
   papers:
+  - "**[TIST]** <ins>Weijia Zhang</ins>, <ins>Jindong Han</ins>, <ins>Zhao Xu</ins>, <ins>Hang Ni</ins>, <ins>Tengfei Lyu</ins>, ***Hao Liu\\**** and Hui Xiong. [Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models](https://arxiv.org/abs/2402.01749). ACM Transactions on Intelligent Systems and Technology, Accepted."
   - "**[TITS]** <ins>Tengfei Lyu</ins>, Siyuan Feng\\*, ***Hao Liu\\**** and Hai Yang. [LLM-ODDR: A Large Language Model Framework for Joint Order Dispatching and Driver Repositioning](https://arxiv.org/abs/2505.22695). IEEE Transactions on Intelligent Transportation Systems, Accepted."
   - "**[ICML]** <ins>Yansong Ning</ins>, Jun Fang, Naiqiang Tan and ***Hao Liu\\****. [Agent-Omit: Adaptive Context Omission for Efficient LLM Agents](https://arxiv.org/abs/2602.04284). In Proceedings of the Forty-third International Conference on Machine Learning, Seoul, South Korea, 2026."
   - "**[ICLR]** <ins>Fan Liu</ins>, <ins>Xiaozhao Zeng</ins> and ***Hao Liu\\****. [Towards Multimodal Data-Driven Scientific Discovery Powered by LLM Agents](https://openreview.net/forum?id=kZHSvETWdi). In Proceedings of the Fourteenth International Conference on Learning Representations, Rio de Janeiro, Brazil, 2026."

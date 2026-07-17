@@ -31,27 +31,24 @@ redirect_from:
 <section class="home-overview" id="research" aria-labelledby="research-heading">
   <header class="home-overview__header">
     <h2 id="research-heading">Building agentic systems for complex digital and physical worlds.</h2>
-    <p>Across our work, intelligence follows a shared loop: understand the world, make grounded decisions, and learn through interaction.</p>
+    <p>My recent interest spans agentic data science, scientific discovery, and decision-making in dynamic real-world systems.</p>
   </header>
 
-  <div class="home-questions home-questions--overview" aria-label="Core capabilities and their primary research themes">
+  <div class="home-questions home-questions--overview" aria-label="Core research capabilities">
     <article class="home-question">
       <span class="home-question__number">01</span>
       <h3>Understand complex worlds</h3>
       <p>Learn transferable representations of complex, evolving environments across scales and domains.</p>
-      <a class="home-question__theme" href="{{ site.baseurl }}/research/#models-of-dynamic-worlds"><span>Primary theme</span> Models of Dynamic Worlds →</a>
     </article>
     <article class="home-question">
       <span class="home-question__number">02</span>
       <h3>Make grounded decisions</h3>
       <p>Reason with evidence, tools, collaborators, and physical constraints to act reliably in real-world environments.</p>
-      <a class="home-question__theme" href="{{ site.baseurl }}/research/#grounded-physical-agents"><span>Primary theme</span> Grounded Physical Agents →</a>
     </article>
     <article class="home-question">
       <span class="home-question__number">03</span>
       <h3>Learn through interaction</h3>
       <p>Improve analytical and scientific workflows through execution feedback, reusable skills, and accumulated experience.</p>
-      <a class="home-question__theme" href="{{ site.baseurl }}/research/#agentic-data-scientists"><span>Primary theme</span> Agentic Data Scientists →</a>
     </article>
   </div>
 
