@@ -7,7 +7,7 @@
 {% when "google-universal" %}
   {% include /analytics-providers/google-universal.html %}
 {% when "goatcounter" %}
-  {% include /analytics-providers/goatcounter.html %}
+  {% comment %}Loaded from the footer after the public counter placeholder.{% endcomment %}
 {% when "custom" %}
   {% include /analytics-providers/custom.html %}
 {% endcase %}

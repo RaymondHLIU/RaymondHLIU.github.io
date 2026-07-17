@@ -11,10 +11,8 @@
       analytics.src = "https://gc.zgo.at/count.js";
       analytics.dataset.goatcounter = endpoint + "/count";
 {% if site.page_views.enabled and site.page_views.provider == "goatcounter" %}
-      analytics.addEventListener("load", function () {
-        var display = document.getElementById("goatcounter_site_views");
-        if (!display) return;
-
+      var display = document.getElementById("goatcounter_site_views");
+      if (display) {
         var request = new XMLHttpRequest();
         request.addEventListener("load", function () {
           if (request.status < 200 || request.status >= 300) return;
@@ -27,7 +25,7 @@
         });
         request.open("GET", endpoint + "/counter/TOTAL.json");
         request.send();
-      });
+      }
 {% endif %}
       document.body.appendChild(analytics);
     }());

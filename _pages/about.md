@@ -94,11 +94,15 @@ redirect_from:
   <div class="home-join">
     <article>
       <h3>Postdoc and PhD students</h3>
-      <p>Postdoctoral / Research Associate positions are available. Prospective Ph.D. and visiting students whose interests align with our research are also welcome. Please email your CV and representative work to <a href="mailto:liuh@ust.hk">liuh@ust.hk</a>.</p>
+      <p>Postdoctoral / Research Associate positions are available. Prospective Ph.D. students whose interests align with our research are also welcome. Please email your CV and representative work to <a href="mailto:liuh@ust.hk">liuh@ust.hk</a>.</p>
     </article>
     <article>
       <h3>RBM students</h3>
       <p>Please apply directly through the <a href="https://pgoas.hkust-gz.edu.cn/">HKUST(GZ) Online Admission System</a>. After receiving an offer, you are welcome to contact me to discuss research fit; joining the group as an RA before making a final decision is encouraged. Please read the <a href="{{ site.baseurl }}/files/MPhil_Guideline.pdf">Guidelines &amp; Expectations</a>.</p>
+    </article>
+    <article>
+      <h3>RAs, interns, and visiting students</h3>
+      <p>We welcome applications year-round from students who can commit for at least six months. We provide a stipend, computing resources, and close research mentorship. Please email your CV, availability, and a brief description of your research interests to <a href="mailto:liuh@ust.hk">liuh@ust.hk</a>.</p>
     </article>
   </div>
 </section>

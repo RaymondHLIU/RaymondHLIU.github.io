@@ -13,3 +13,7 @@
     <a href="mailto:liuh@ust.hk">Email</a>
   </nav>
 </div>
+
+{% if site.analytics.provider == "goatcounter" and page.analytics != false %}
+  {% include /analytics-providers/goatcounter.html %}
+{% endif %}

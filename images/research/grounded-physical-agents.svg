@@ -1,24 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" role="img" aria-labelledby="title">
-  <title id="title">Grounded agents coordinating in a physical environment</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" role="img" aria-labelledby="title desc">
+  <title id="title">A grounded agent acting in and learning from the physical world</title>
+  <desc id="desc">A controller sends actions to a robot interacting with an object, while observations and consequences return as feedback.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#557a68"/>
+    </marker>
+  </defs>
   <rect x="1" y="1" width="298" height="178" rx="18" fill="#f4f6f1" stroke="#dfe2da"/>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 20 58 H 280 M 20 122 H 280 M 80 18 V 162 M 220 18 V 162" stroke="#d4ddd7" stroke-width="2"/>
-    <path d="M 150 18 V 162 M 20 90 H 280" stroke="#c2cec6" stroke-width="2" stroke-dasharray="7 8"/>
-    <g stroke="#557a68" stroke-width="3">
-      <circle cx="80" cy="58" r="18" fill="#e3ece6"/>
-      <circle cx="220" cy="58" r="18" fill="#ffffff"/>
-      <circle cx="150" cy="122" r="18" fill="#ffffff"/>
-      <path d="M 99 58 H 198"/>
-      <path d="M 210 76 L 163 107"/>
-      <path d="M 137 108 L 93 73"/>
-    </g>
-  </g>
-  <g fill="#557a68">
-    <path d="M 199 53 L 210 58 L 199 63 Z"/>
-    <path d="M 167 101 L 163 112 L 155 104 Z"/>
-    <path d="M 99 72 L 89 68 L 92 79 Z"/>
-    <circle cx="80" cy="58" r="5"/>
-    <circle cx="220" cy="58" r="5"/>
-    <circle cx="150" cy="122" r="5"/>
+
+  <g fill="none" stroke="#557a68" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Agent/controller. -->
+    <rect x="28" y="59" width="66" height="66" rx="14" fill="#ffffff"/>
+    <circle cx="61" cy="92" r="13" fill="#e3ece6"/>
+    <circle cx="61" cy="92" r="4" fill="#557a68"/>
+    <path d="M 61 44 V 59 M 61 125 V 140 M 13 92 H 28 M 94 92 H 109"/>
+    <path d="M 43 51 V 59 M 79 51 V 59 M 43 125 V 133 M 79 125 V 133" stroke-width="2"/>
+
+    <!-- Action reaches into the physical world. -->
+    <path d="M 105 58 C 142 27 210 26 242 55" marker-end="url(#arrow)"/>
+
+    <!-- Articulated body visibly contacts and moves an object. -->
+    <rect x="199" y="137" width="58" height="13" rx="4" fill="#e3ece6"/>
+    <path d="M 228 137 L 228 124 L 194 100 L 222 71"/>
+    <circle cx="228" cy="124" r="7" fill="#ffffff"/>
+    <circle cx="194" cy="100" r="7" fill="#ffffff"/>
+    <circle cx="222" cy="71" r="7" fill="#ffffff"/>
+    <path d="M 222 71 L 238 61 M 222 71 L 239 83"/>
+    <rect x="244" y="66" width="20" height="20" rx="3" fill="#e3ece6"/>
+    <path d="M 238 76 H 244"/>
+    <path d="M 187 151 H 276" stroke="#b4c3ba" stroke-width="2"/>
+    <path d="M 250 57 L 254 50 L 258 57 M 267 76 L 276 76 M 250 92 L 254 99 L 258 92" stroke="#91aa9c" stroke-width="2"/>
+
+    <!-- Consequences close the action-observation loop. -->
+    <path d="M 250 156 C 206 176 137 171 98 140" stroke="#91aa9c" stroke-width="2.4" marker-end="url(#arrow)"/>
   </g>
 </svg>

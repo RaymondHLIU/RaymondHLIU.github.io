@@ -14,9 +14,9 @@ author_profile: false
 <figure class="research-framework">
   <picture>
     <source media="(max-width: 560px)" srcset="{{ site.baseurl }}/images/research/research-overview-mobile.svg">
-    <img src="{{ site.baseurl }}/images/research/research-overview.svg" alt="Research framework connecting models of dynamic worlds, grounded physical agents, and agentic data scientists in a continuous feedback loop.">
+    <img src="{{ site.baseurl }}/images/research/research-overview.svg" alt="Research framework connecting models of dynamic worlds, grounded physical agents, and agentic data scientists around agentic intelligence across digital-physical space.">
   </picture>
-  <figcaption>The three themes form a coupled loop: models support grounded action, interaction produces observations and consequences, and data-science agents turn evidence into discovery, reusable workflows, and improved systems.</figcaption>
+  <figcaption>The three themes are mutually reinforcing: data-science agents build and interrogate world models, models guide physical action, and interaction returns evidence that improves both models and workflows.</figcaption>
 </figure>
 
 <section class="research-perspectives" aria-labelledby="research-perspectives-heading">
