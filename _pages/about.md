@@ -14,7 +14,6 @@ redirect_from:
     <h1 id="home-name">Hao Liu</h1>
 
     <p class="home-bio">I am an Associate Professor in the Artificial Intelligence Thrust at The Hong Kong University of Science and Technology (Guangzhou), and an affiliated faculty member at HKUST. Before joining HKUST(GZ), I was a Research Scientist at Baidu Research.</p>
-    <p class="home-bio">My research develops agentic systems that can work as data scientists, make grounded decisions in real-world environments, and learn models of dynamic worlds.</p>
 
     <nav class="home-links" aria-label="Profile links">
       <a class="home-links__internal" href="#join-us">Join Us</a>
@@ -29,6 +28,36 @@ redirect_from:
   </figure>
 </section>
 
+<section class="home-overview" id="research" aria-labelledby="research-heading">
+  <header class="home-overview__header">
+    <h2 id="research-heading">Building agentic systems for complex digital and physical worlds.</h2>
+    <p>Across our work, intelligence follows a shared loop: understand the world, make grounded decisions, and learn through interaction.</p>
+  </header>
+
+  <div class="home-questions home-questions--overview" aria-label="Core capabilities and their primary research themes">
+    <article class="home-question">
+      <span class="home-question__number">01</span>
+      <h3>Understand complex worlds</h3>
+      <p>Learn transferable representations of complex, evolving environments across scales and domains.</p>
+      <a class="home-question__theme" href="{{ site.baseurl }}/research/#models-of-dynamic-worlds"><span>Primary theme</span> Models of Dynamic Worlds →</a>
+    </article>
+    <article class="home-question">
+      <span class="home-question__number">02</span>
+      <h3>Make grounded decisions</h3>
+      <p>Reason with evidence, tools, collaborators, and physical constraints to act reliably in real-world environments.</p>
+      <a class="home-question__theme" href="{{ site.baseurl }}/research/#grounded-physical-agents"><span>Primary theme</span> Grounded Physical Agents →</a>
+    </article>
+    <article class="home-question">
+      <span class="home-question__number">03</span>
+      <h3>Learn through interaction</h3>
+      <p>Improve analytical and scientific workflows through execution feedback, reusable skills, and accumulated experience.</p>
+      <a class="home-question__theme" href="{{ site.baseurl }}/research/#agentic-data-scientists"><span>Primary theme</span> Agentic Data Scientists →</a>
+    </article>
+  </div>
+
+  <p class="home-section__footer-link home-section__footer-link--research"><a href="{{ site.baseurl }}/research/">Explore research themes and related work →</a></p>
+</section>
+
 <section class="home-section" aria-labelledby="updates-heading">
   <header class="home-section__header home-section__header--label-only">
     <h2 class="home-section__eyebrow" id="updates-heading">Recent updates</h2>
@@ -40,7 +69,7 @@ redirect_from:
       <p>New papers at <strong>KDD 2026</strong> on <a href="{{ site.baseurl }}/publications/full/">autonomous data science, travel agents, extreme-weather forecasting, and flood forecasting</a>.</p>
     </li>
     <li class="home-update">
-      <time datetime="2026">2026</time>
+      <time datetime="2026-01">Jan 2026</time>
       <p>New work at <strong>ICLR 2026</strong> and <strong>The Web Conference 2026</strong> on <a href="https://openreview.net/forum?id=kZHSvETWdi">multimodal scientific discovery</a>, <a href="https://arxiv.org/abs/2503.11739">cooperative urban agents</a>, and <a href="https://arxiv.org/abs/2505.17572">spatiotemporal reasoning</a>.</p>
     </li>
     <li class="home-update">
@@ -53,36 +82,6 @@ redirect_from:
     </li>
   </ul>
   <p class="home-news-link"><a href="{{ site.baseurl }}/news/">Older news →</a></p>
-</section>
-
-<section class="home-section" id="research" aria-labelledby="research-heading">
-  <header class="home-section__header">
-    <p class="home-section__eyebrow">Research</p>
-    <div>
-      <h2 class="home-section__title" id="research-heading">Building agentic systems for complex digital and physical worlds.</h2>
-      <p class="home-section__lead">My research asks how agentic systems can operate across digital and physical environments: understanding complex worlds, making grounded decisions, and learning from the consequences of action.</p>
-    </div>
-  </header>
-
-  <div class="home-questions" aria-label="Core research questions">
-    <article class="home-question">
-      <span class="home-question__number">01</span>
-      <h3>Understand complex worlds</h3>
-      <p>Build representations that integrate heterogeneous data, scientific structure, and evolving context.</p>
-    </article>
-    <article class="home-question">
-      <span class="home-question__number">02</span>
-      <h3>Make grounded decisions</h3>
-      <p>Connect reasoning to evidence, tools, collaborators, and constraints in real operating environments.</p>
-    </article>
-    <article class="home-question">
-      <span class="home-question__number">03</span>
-      <h3>Learn through interaction</h3>
-      <p>Enable agents to improve through feedback, consequences, and experience rather than static supervision alone.</p>
-    </article>
-  </div>
-
-  <p class="home-section__footer-link home-section__footer-link--research"><a href="{{ site.baseurl }}/research/">Explore research themes and related work →</a></p>
 </section>
 
 <section class="home-section" id="join-us" aria-labelledby="join-us-heading">

@@ -76,6 +76,11 @@ social:
 analytics:
   provider               : false # Add a GA4 provider and measurement ID here if analytics is needed.
 
+# Lightweight public counter displayed in the footer.
+page_views:
+  enabled                : true
+  provider               : "busuanzi"
+
 
 # Site Author
 author:

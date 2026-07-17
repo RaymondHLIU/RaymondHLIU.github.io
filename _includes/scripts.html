@@ -2,3 +2,16 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+{% if site.page_views.enabled and site.page_views.provider == "busuanzi" %}
+  <script>
+    (function () {
+      var localHosts = ["localhost", "127.0.0.1", "::1"];
+      if (localHosts.indexOf(window.location.hostname) !== -1) return;
+
+      var counter = document.createElement("script");
+      counter.src = "https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js";
+      counter.defer = true;
+      document.body.appendChild(counter);
+    }());
+  </script>
+{% endif %}
