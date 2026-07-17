@@ -4,9 +4,6 @@
 
 $(document).ready(function(){
 
-  // FitVids init
-  $("#main").fitVids();
-
   // init sticky sidebar
   $(".sticky").Stickyfill();
 
