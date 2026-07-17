@@ -11,6 +11,14 @@ author_profile: false
   <p>We study agentic intelligence across digital and physical worlds: systems that understand complex environments, make grounded decisions, and learn from the consequences of action.</p>
 </header>
 
+<figure class="research-framework">
+  <picture>
+    <source media="(max-width: 560px)" srcset="{{ site.baseurl }}/images/research/research-overview-mobile.svg">
+    <img src="{{ site.baseurl }}/images/research/research-overview.svg" alt="Research framework connecting models of dynamic worlds, grounded physical agents, and agentic data scientists in a continuous feedback loop.">
+  </picture>
+  <figcaption>The three themes form a coupled loop: models support grounded action, interaction produces observations and consequences, and data-science agents turn evidence into discovery, reusable workflows, and improved systems.</figcaption>
+</figure>
+
 <section class="research-perspectives" aria-labelledby="research-perspectives-heading">
   <h2 id="research-perspectives-heading">Surveys &amp; perspectives</h2>
   <ul>

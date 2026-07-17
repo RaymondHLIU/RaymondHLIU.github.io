@@ -62,6 +62,10 @@ redirect_from:
 
   <ul class="home-updates">
     <li class="home-update">
+      <time datetime="2026-07">Jul 2026</time>
+      <p>Call for papers: the <a href="https://link.springer.com/collections/fhbghibigc">Frontiers of AI and Data Science Competitions</a> special issue in <strong>Frontiers of Computer Science</strong> is now open for submissions.</p>
+    </li>
+    <li class="home-update">
       <time datetime="2026-05">May 2026</time>
       <p>New papers at <strong>KDD 2026</strong> on <a href="{{ site.baseurl }}/publications/full/">autonomous data science, travel agents, extreme-weather forecasting, and flood forecasting</a>.</p>
     </li>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" role="img" aria-labelledby="title">
+  <title id="title">Grounded agents coordinating in a physical environment</title>
+  <rect x="1" y="1" width="298" height="178" rx="18" fill="#f4f6f1" stroke="#dfe2da"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 20 58 H 280 M 20 122 H 280 M 80 18 V 162 M 220 18 V 162" stroke="#d4ddd7" stroke-width="2"/>
+    <path d="M 150 18 V 162 M 20 90 H 280" stroke="#c2cec6" stroke-width="2" stroke-dasharray="7 8"/>
+    <g stroke="#557a68" stroke-width="3">
+      <circle cx="80" cy="58" r="18" fill="#e3ece6"/>
+      <circle cx="220" cy="58" r="18" fill="#ffffff"/>
+      <circle cx="150" cy="122" r="18" fill="#ffffff"/>
+      <path d="M 99 58 H 198"/>
+      <path d="M 210 76 L 163 107"/>
+      <path d="M 137 108 L 93 73"/>
+    </g>
+  </g>
+  <g fill="#557a68">
+    <path d="M 199 53 L 210 58 L 199 63 Z"/>
+    <path d="M 167 101 L 163 112 L 155 104 Z"/>
+    <path d="M 99 72 L 89 68 L 92 79 Z"/>
+    <circle cx="80" cy="58" r="5"/>
+    <circle cx="220" cy="58" r="5"/>
+    <circle cx="150" cy="122" r="5"/>
+  </g>
+</svg>

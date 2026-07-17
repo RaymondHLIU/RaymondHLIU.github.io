@@ -12,6 +12,7 @@ author_profile: false
 
 <section class="news-archive" aria-label="News archive">
   <ul class="home-updates home-updates--archive">
+    <li class="home-update"><time datetime="2026-07">Jul 2026</time><p>Call for papers: the <a href="https://link.springer.com/collections/fhbghibigc">Frontiers of AI and Data Science Competitions</a> special issue in <strong>Frontiers of Computer Science</strong> is now open for submissions.</p></li>
     <li class="home-update"><time datetime="2026-05-18">May 2026</time><p>New papers at <strong>KDD 2026</strong> and <strong>ICML 2026</strong> on autonomous data science, travel agents, efficient agent reasoning, and flood forecasting.</p></li>
     <li class="home-update"><time datetime="2026">2026</time><p>New work at <strong>ICLR 2026</strong> and <strong>The Web Conference 2026</strong> on <a href="https://openreview.net/forum?id=kZHSvETWdi">multimodal scientific discovery</a>, <a href="https://arxiv.org/abs/2503.11739">cooperative urban agents</a>, and <a href="https://arxiv.org/abs/2505.17572">spatiotemporal reasoning</a>.</p></li>
     <li class="home-update"><time datetime="2025-11-25">Nov 2025</time><p>New papers at <strong>KDD 2026</strong> and <strong>AAAI 2026</strong> on extreme-weather forecasting, subseasonal-to-seasonal weather forecasting, travel-time estimation, and recommendation.</p></li>
