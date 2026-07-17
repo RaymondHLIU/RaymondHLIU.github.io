@@ -6,12 +6,11 @@ description: "Courses taught by Hao Liu at HKUST(GZ)."
 author_profile: false
 ---
 
-<header class="academic-intro academic-intro--compact">
-  <p class="home-eyebrow">Teaching</p>
+<header class="page-heading">
   <h1>Teaching</h1>
 </header>
 
-<section class="academic-section academic-section--compact" aria-labelledby="current-courses-heading">
+<section class="academic-section academic-section--compact academic-section--first" aria-labelledby="current-courses-heading">
   <header class="academic-section__header academic-section__header--simple">
     <h2 id="current-courses-heading">Current Courses</h2>
   </header>

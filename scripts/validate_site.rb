@@ -9,6 +9,7 @@ end).expand_path
 
 core_pages = %w[
   index.html
+  news/index.html
   research/index.html
   publications/index.html
   publications/full/index.html

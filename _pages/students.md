@@ -6,9 +6,13 @@ description: "Student achievements and alumni supervised by Hao Liu."
 author_profile: false
 ---
 
+<header class="page-heading">
+  <h1>Students</h1>
+</header>
+
 <section class="academic-section academic-section--first" aria-labelledby="student-achievements-heading">
-  <header class="academic-section__header academic-section__header--simple academic-section__header--page">
-    <h1 id="student-achievements-heading">Student Achievements</h1>
+  <header class="academic-section__header academic-section__header--simple">
+    <h2 id="student-achievements-heading">Student Achievements</h2>
   </header>
 
   <ul class="achievement-list achievement-list--flat">
@@ -32,7 +36,8 @@ author_profile: false
     <h2 id="alumni-heading">Alumni</h2>
   </header>
 
-  <ul class="people-list">
+  <div class="people-groups">
+  <ul class="people-list people-group">
     <li><strong>Weijia Zhang</strong><span>Ph.D., 2026 · First employment: Ant Group (Talent Plan)</span></li>
     <li><strong>Ruiqian Han</strong><span>M.Phil., 2026 → DiDi Chuxing</span></li>
     <li><strong>Hao Wang</strong><span>M.Phil., 2026 → Ph.D. student, The Hong Kong Polytechnic University</span></li>
@@ -44,6 +49,9 @@ author_profile: false
     <li><strong>Ziyang Wu</strong><span>M.Phil., 2024 → China Grid</span></li>
     <li><strong>Ruohong Liu</strong><span>M.Phil., 2024 → Ph.D. student, University of Oxford</span></li>
     <li><strong>Qingyan Zhu</strong><span>M.Phil., 2022 → NIO Inc.</span></li>
+  </ul>
+
+  <ul class="people-list people-group people-group--assistants">
     <li><strong>Xiaolong Jin</strong><span>Research Assistant · Undergraduate, USTC → Ph.D. student, Purdue University</span></li>
     <li><strong>Weilin Lin</strong><span>Research Assistant · M.Sc., City University of Hong Kong → Ph.D. student, HKUST(GZ)</span></li>
     <li><strong>Zixuan Weng</strong><span>Research Assistant · Undergraduate, Beijing Jiaotong University → Ph.D. student, Georgia Tech</span></li>
@@ -58,4 +66,5 @@ author_profile: false
     <li><strong>Zixuan Yuan</strong><span>Intern · Ph.D., Rutgers University → Assistant Professor, HKUST(GZ)</span></li>
     <li><strong>Ting Li</strong><span>Intern · Master's student, National University of Defense Technology → JD Digits</span></li>
   </ul>
+  </div>
 </section>

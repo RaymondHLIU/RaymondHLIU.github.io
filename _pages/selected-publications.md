@@ -6,9 +6,8 @@ excerpt: "Selected publications by Hao Liu and collaborators."
 author_profile: false
 ---
 
-<header class="publications-heading">
+<header class="page-heading page-heading--split">
   <div>
-    <p class="home-eyebrow">Publications</p>
     <h1 id="selected-publications-title">Selected publications</h1>
   </div>
   <a class="publications-heading__link" href="{{ site.baseurl }}/publications/full/">Full publication list →</a>

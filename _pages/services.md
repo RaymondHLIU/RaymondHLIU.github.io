@@ -1,20 +1,17 @@
 ---
 layout: home
-title: "Professional Services — Hao Liu"
+title: "Services — Hao Liu"
 permalink: /services/
 description: "Editorial, organizational, and reviewing service by Hao Liu."
 author_profile: false
 ---
 
-<header class="academic-intro">
-  <p class="home-eyebrow">Professional Services</p>
-  <h1>Service to the research community.</h1>
-  <p class="academic-intro__lead">Selected editorial, organizational, program committee, and reviewing activities across artificial intelligence, data mining, and data science.</p>
+<header class="page-heading">
+  <h1>Services</h1>
 </header>
 
-<section class="academic-section" aria-labelledby="editorial-service-heading">
-  <header class="academic-section__header">
-    <p class="academic-section__eyebrow">Leadership</p>
+<section class="academic-section academic-section--first" aria-labelledby="editorial-service-heading">
+  <header class="academic-section__header academic-section__header--simple">
     <h2 id="editorial-service-heading">Editorial and Organizational Service</h2>
   </header>
 
@@ -33,8 +30,7 @@ author_profile: false
 </section>
 
 <section class="academic-section" aria-labelledby="program-committee-heading">
-  <header class="academic-section__header">
-    <p class="academic-section__eyebrow">Peer review</p>
+  <header class="academic-section__header academic-section__header--simple">
     <h2 id="program-committee-heading">Conference Service</h2>
   </header>
 
@@ -53,8 +49,7 @@ author_profile: false
 </section>
 
 <section class="academic-section" aria-labelledby="journal-reviewing-heading">
-  <header class="academic-section__header">
-    <p class="academic-section__eyebrow">Journals</p>
+  <header class="academic-section__header academic-section__header--simple">
     <h2 id="journal-reviewing-heading">Journal Reviewing</h2>
   </header>
 

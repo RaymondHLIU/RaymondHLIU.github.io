@@ -11,17 +11,15 @@ redirect_from:
 
 <section class="home-intro" aria-labelledby="home-name">
   <div class="home-intro__copy">
-    <p class="home-eyebrow">Associate Professor · HKUST(GZ)</p>
     <h1 id="home-name">Hao Liu</h1>
-    <p class="home-role">Artificial Intelligence Thrust<br>The Hong Kong University of Science and Technology (Guangzhou)</p>
 
     <p class="home-bio">I am an Associate Professor in the Artificial Intelligence Thrust at The Hong Kong University of Science and Technology (Guangzhou), and an affiliated faculty member at HKUST. Before joining HKUST(GZ), I was a Research Scientist at Baidu Research.</p>
-    <p class="home-bio">My research develops agentic systems that can work as data scientists, make grounded decisions in urban environments, and learn models of dynamic worlds.</p>
+    <p class="home-bio">My research develops agentic systems that can work as data scientists, make grounded decisions in real-world environments, and learn models of dynamic worlds.</p>
 
     <nav class="home-links" aria-label="Profile links">
-      <a href="{{ site.baseurl }}/publications/">Publications</a>
+      <a class="home-links__internal" href="#join-us">Join Us</a>
       <a href="https://scholar.google.com/citations?user=66KKZR4AAAAJ&amp;hl=en">Google Scholar</a>
-      <a href="https://github.com/RaymondHLIU">GitHub</a>
+      <a href="https://github.com/usail-hkust">GitHub</a>
       <a href="mailto:liuh@ust.hk">Email</a>
     </nav>
   </div>
@@ -32,9 +30,8 @@ redirect_from:
 </section>
 
 <section class="home-section" aria-labelledby="updates-heading">
-  <header class="home-section__header">
-    <p class="home-section__eyebrow">Recent updates</p>
-    <h2 class="home-section__title" id="updates-heading">What we have been working on lately.</h2>
+  <header class="home-section__header home-section__header--label-only">
+    <h2 class="home-section__eyebrow" id="updates-heading">Recent updates</h2>
   </header>
 
   <ul class="home-updates">
@@ -55,6 +52,7 @@ redirect_from:
       <p><a href="https://arxiv.org/abs/2312.16044">LLMLight</a> received the <a href="https://kdd2025.kdd.org/awards/">KDD 2025 Audience Appreciation Award</a>.</p>
     </li>
   </ul>
+  <p class="home-news-link"><a href="{{ site.baseurl }}/news/">Older news →</a></p>
 </section>
 
 <section class="home-section" id="research" aria-labelledby="research-heading">
@@ -84,10 +82,10 @@ redirect_from:
     </article>
   </div>
 
-  <p class="home-section__footer-link home-section__footer-link--research"><a href="{{ site.baseurl }}/research/">Explore research themes and representative projects →</a></p>
+  <p class="home-section__footer-link home-section__footer-link--research"><a href="{{ site.baseurl }}/research/">Explore research themes and related work →</a></p>
 </section>
 
-<section class="home-section" aria-labelledby="join-us-heading">
+<section class="home-section" id="join-us" aria-labelledby="join-us-heading">
   <header class="home-section__header">
     <p class="home-section__eyebrow">Join us</p>
     <h2 class="home-section__title" id="join-us-heading">Work with us.</h2>
@@ -95,11 +93,11 @@ redirect_from:
 
   <div class="home-join">
     <article>
-      <h3>Postdoctoral researchers and students</h3>
+      <h3>Postdoc and PhD students</h3>
       <p>Postdoctoral / Research Associate positions are available. Prospective Ph.D. and visiting students whose interests align with our research are also welcome. Please email your CV and representative work to <a href="mailto:liuh@ust.hk">liuh@ust.hk</a>.</p>
     </article>
     <article>
-      <h3>Red Bird MPhil (RBM)</h3>
+      <h3>RBM students</h3>
       <p>Please apply directly through the <a href="https://pgoas.hkust-gz.edu.cn/">HKUST(GZ) Online Admission System</a>. After receiving an offer, you are welcome to contact me to discuss research fit; joining the group as an RA before making a final decision is encouraged. Please read the <a href="{{ site.baseurl }}/files/MPhil_Guideline.pdf">Guidelines &amp; Expectations</a>.</p>
     </article>
   </div>

@@ -11,9 +11,8 @@ author_profile: false
   {% assign publication_total = publication_total | plus: group.papers.size %}
 {% endfor %}
 
-<header class="publications-heading">
+<header class="page-heading page-heading--split">
   <div>
-    <p class="home-eyebrow">Publications</p>
     <h1>Full publication list</h1>
     <p class="publications-heading__meta">{{ publication_total }} publications · 2016–2026</p>
   </div>

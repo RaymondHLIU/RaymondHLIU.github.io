@@ -6,29 +6,22 @@ excerpt: "Research on agentic systems for complex digital and physical worlds."
 author_profile: false
 ---
 
-<header class="research-intro">
-  <p class="home-eyebrow">Research</p>
-  <h1>Agentic intelligence across digital and physical worlds.</h1>
-  <p class="research-intro__lead">We study how agentic systems can understand complex worlds, make grounded decisions, and learn from the consequences of action. Our work develops agentic data scientists, grounded urban agents, and models of dynamic worlds.</p>
-
-  <nav class="research-index" aria-label="Research themes">
-    <a href="#agentic-data-scientists"><span>01</span>Agentic Data Scientists</a>
-    <a href="#grounded-urban-agents"><span>02</span>Grounded Urban Agents</a>
-    <a href="#models-of-dynamic-worlds"><span>03</span>Models of Dynamic Worlds</a>
-    <a href="#physical-ai"><span>04</span>Toward Physical AI</a>
-  </nav>
+<header class="page-heading page-heading--with-lead">
+  <h1>Research</h1>
+  <p>We study agentic intelligence across digital and physical worlds: systems that understand complex environments, make grounded decisions, and learn from the consequences of action.</p>
 </header>
 
-<section class="research-page__body" aria-label="Research themes and representative projects">
-  {% include selected-research-theme.html %}
+<section class="research-perspectives" aria-labelledby="research-perspectives-heading">
+  <h2 id="research-perspectives-heading">Surveys &amp; perspectives</h2>
+  <ul>
+    <li><a href="http://www.techrxiv.org/doi/full/10.36227/techrxiv.174953071.19189612/v1">Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition</a></li>
+    <li><a href="https://github.com/usail-hkust/Awesome-Urban-Foundation-Models">Urban Foundation Models: A Survey</a></li>
+    <li><a href="https://arxiv.org/abs/2507.00914">Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications</a></li>
+  </ul>
+</section>
 
-  <aside class="home-emerging" id="physical-ai" aria-label="Emerging research direction">
-    <div>
-      <p class="home-project__label">Emerging direction</p>
-      <h3>Toward Physical AI</h3>
-    </div>
-    <p>An emerging direction is to extend these ideas toward Physical AI: agents that ground reasoning in embodied interaction, adapt to changing environments, and learn from the consequences of real-world action.</p>
-  </aside>
+<section class="research-page__body" aria-label="Research themes and related work">
+  {% include selected-research-theme.html %}
 
   <p class="home-section__footer-link"><a href="{{ site.baseurl }}/publications/full/">View full publication list →</a></p>
 </section>

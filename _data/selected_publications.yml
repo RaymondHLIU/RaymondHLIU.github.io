@@ -61,9 +61,9 @@
         - label: "Project"
           url: "https://github.com/usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery"
 
-- id: grounded-urban-agents
+- id: grounded-physical-agents
   number: "02"
-  title: "Grounded Urban Agents"
+  title: "Grounded Physical Agents"
   papers:
     - short_title: "DeepTravel"
       venue: "KDD 2026"
