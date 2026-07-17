@@ -74,12 +74,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # Add a GA4 provider and measurement ID here if analytics is needed.
+  provider               : "goatcounter"
+  goatcounter:
+    # Create the site at https://www.goatcounter.com/signup and add its code here.
+    # Example: "raymondhliu" for https://raymondhliu.goatcounter.com.
+    site_code            : "raymondhliu"
+    production_hostname  : "raymondhliu.github.io"
 
-# Lightweight public counter displayed in the footer.
+# Lightweight public counter displayed in the footer. GoatCounter also powers
+# the private analytics dashboard, so only one statistics service is loaded.
 page_views:
   enabled                : true
-  provider               : "busuanzi"
+  provider               : "goatcounter"
 
 
 # Site Author
