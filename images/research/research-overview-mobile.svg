@@ -1,107 +1,105 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1160" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 815" role="img" aria-labelledby="title desc">
   <title id="title">Research framework</title>
-  <desc id="desc">A compact vertical loop connects agentic data scientists, models of dynamic worlds, and grounded physical agents.</desc>
+  <desc id="desc">A compact triangular feedback loop connects agentic data scientists, models of dynamic worlds, and grounded physical agents around agentic intelligence across digital-physical space.</desc>
   <defs>
-    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#527866"/>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#527866"/>
     </marker>
-    <marker id="mini-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#678d7b"/>
+    <marker id="mini-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#678d7b"/>
     </marker>
+    <filter id="shadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#8d9991" flood-opacity="0.12"/>
+    </filter>
   </defs>
-  <rect x="1" y="1" width="638" height="1158" rx="28" fill="#f5f6f1" stroke="#dfe2da"/>
 
-  <rect x="70" y="45" width="500" height="150" rx="28" fill="#e8efea" stroke="#678d7b" stroke-width="2"/>
+  <rect x="1" y="1" width="638" height="813" rx="28" fill="#f5f6f1" stroke="#dfe2da"/>
+
+  <!-- Relationship loop. -->
+  <g fill="none" stroke="#527866" stroke-width="3" stroke-linecap="round">
+    <path d="M177 199 C92 262 76 438 133 558" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+    <path d="M463 199 C548 262 564 438 507 558" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+    <path d="M285 727 C305 748 335 748 355 727" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  </g>
+  <g fill="#58655e" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <text x="85" y="383" transform="rotate(-78 85 383)">modeling ↔ discovery</text>
+    <text x="555" y="383" transform="rotate(78 555 383)">experiments ↔ observations</text>
+    <text x="320" y="790">forecast ↔ feedback</text>
+  </g>
+
+  <!-- Central research objective. -->
+  <circle cx="320" cy="402" r="116" fill="#edf2ed" stroke="#78998a" stroke-width="2.5"/>
+  <circle cx="320" cy="402" r="101" fill="#fbfcf9" stroke="#d5ddd6"/>
   <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-    <text x="320" y="94" fill="#1d2822" font-size="28" font-weight="700">Agentic Intelligence Across</text>
-    <text x="320" y="130" fill="#1d2822" font-size="25" font-weight="600">Digital-Physical Space</text>
-    <g fill="#66736b" font-size="14" font-weight="700">
-      <text x="225" y="164">UNDERSTAND</text>
-      <circle cx="274" cy="159" r="2" fill="#8a958e"/>
-      <text x="320" y="164">DECIDE</text>
-      <circle cx="361" cy="159" r="2" fill="#8a958e"/>
-      <text x="407" y="164">LEARN</text>
+    <text x="320" y="365" fill="#243029" font-size="22" font-weight="700">Agentic Intelligence</text>
+    <text x="320" y="394" fill="#243029" font-size="19" font-weight="700">Across Digital-Physical</text>
+    <text x="320" y="420" fill="#243029" font-size="19" font-weight="700">Space</text>
+    <g fill="#66736b" font-size="12" font-weight="700">
+      <text x="320" y="459">UNDERSTAND · DECIDE · LEARN</text>
     </g>
   </g>
 
-  <g fill="#ffffff" stroke="#cbd6ce">
-    <rect x="60" y="245" width="520" height="190" rx="24"/>
-    <rect x="60" y="535" width="520" height="190" rx="24"/>
-    <rect x="60" y="825" width="520" height="190" rx="24"/>
+  <!-- Agentic data scientists. -->
+  <g filter="url(#shadow)">
+    <rect x="115" y="43" width="410" height="156" rx="24" fill="#ffffff" stroke="#cbd6ce"/>
+  </g>
+  <g transform="translate(145 84)" fill="none" stroke="#678d7b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="20" cy="14" rx="18" ry="7" fill="#edf3ef"/>
+    <path d="M2 14 V57 C2 66 38 66 38 57 V14 M2 35 C2 44 38 44 38 35"/>
+    <path d="M39 36 H50"/>
+    <circle cx="64" cy="36" r="13" fill="#f9fbf8"/>
+    <path d="M59 31 L64 26 L69 31 M59 41 L64 46 L69 41"/>
+    <path d="M77 36 H88"/>
+    <rect x="89" y="10" width="42" height="52" rx="6" fill="#f9fbf8"/>
+    <path d="M97 50 L106 39 L114 44 L124 27 M97 54 H123"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="301" y="100" fill="#202622" font-size="27" font-weight="700">Agentic Data</text>
+    <text x="301" y="132" fill="#202622" font-size="27" font-weight="700">Scientists</text>
+    <text x="301" y="166" fill="#657069" font-size="16">Analyze · discover · improve</text>
   </g>
 
-  <!-- Agentic data science symbol. -->
-  <g transform="translate(93 292)" fill="none" stroke="#678d7b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="22" cy="17" rx="20" ry="8" fill="#edf3ef"/>
-    <path d="M 2 17 V 66 C 2 76 42 76 42 66 V 17 M 2 41 C 2 51 42 51 42 41"/>
-    <path d="M 43 44 H 56"/>
-    <circle cx="72" cy="44" r="16" fill="#f9fbf8"/>
-    <path d="M 65 38 L 72 31 L 79 38 M 65 50 L 72 57 L 79 50"/>
-    <path d="M 88 44 H 101"/>
-    <rect x="102" y="14" width="48" height="60" rx="7" fill="#f9fbf8"/>
-    <path d="M 111 60 L 121 47 L 130 53 L 143 33 M 111 65 H 143"/>
+  <!-- Models of dynamic worlds. -->
+  <g filter="url(#shadow)">
+    <rect x="25" y="558" width="280" height="160" rx="22" fill="#ffffff" stroke="#cbd6ce"/>
+  </g>
+  <g transform="translate(104 575)" fill="none" stroke="#678d7b" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="8" width="35" height="52" rx="6" fill="#edf3ef"/>
+    <path d="M7 47 L17 23 L28 37"/>
+    <circle cx="7" cy="47" r="3" fill="#678d7b"/><circle cx="17" cy="23" r="3" fill="#678d7b"/><circle cx="28" cy="37" r="3" fill="#678d7b"/>
+    <circle cx="61" cy="34" r="19" fill="#f9fbf8"/>
+    <path d="M48 37 C51 23 67 19 74 31 C80 43 67 52 54 47 Z"/>
+    <path d="M47 28 C57 32 66 43 72 49 M45 40 C56 38 69 32 77 26" stroke-width="1.8"/>
+    <rect x="86" y="8" width="35" height="52" rx="6" fill="#f9fbf8" stroke-dasharray="5 4"/>
+    <path d="M93 44 L104 19 L115 34"/>
+    <path d="M36 35 H42 M80 35 H84" marker-end="url(#mini-arrow)"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="165" y="662" fill="#202622" font-size="21" font-weight="700">Models of Dynamic</text>
+    <text x="165" y="686" fill="#202622" font-size="21" font-weight="700">Worlds</text>
+    <text x="165" y="708" fill="#657069" font-size="13.5">Represent · forecast · adapt</text>
   </g>
 
-  <!-- World model: observations are encoded into latent dynamics and rolled forward. -->
-  <g transform="translate(91 583)" fill="none" stroke="#678d7b" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="0" y="13" width="43" height="65" rx="7" fill="#edf3ef"/>
-    <path d="M 8 61 L 21 31 L 35 48"/>
-    <circle cx="8" cy="61" r="3.5" fill="#678d7b"/><circle cx="21" cy="31" r="3.5" fill="#678d7b"/><circle cx="35" cy="48" r="3.5" fill="#678d7b"/>
-
-    <circle cx="81" cy="45" r="24" fill="#f9fbf8"/>
-    <path d="M 66 49 C 69 31 88 26 96 40 C 103 54 88 65 73 58 Z"/>
-    <path d="M 64 37 C 76 42 87 55 94 62 M 61 51 C 74 48 91 41 101 34" stroke-width="2"/>
-    <circle cx="72" cy="35" r="3" fill="#678d7b"/><circle cx="93" cy="42" r="3" fill="#678d7b"/><circle cx="79" cy="59" r="3" fill="#678d7b"/>
-
-    <rect x="118" y="13" width="43" height="65" rx="7" fill="#f9fbf8" stroke-dasharray="6 5"/>
-    <path d="M 126 56 L 140 25 L 154 44"/>
-    <circle cx="126" cy="56" r="3.5" fill="#678d7b"/><circle cx="140" cy="25" r="3.5" fill="#678d7b"/><circle cx="154" cy="44" r="3.5" fill="#678d7b"/>
-    <path d="M 46 46 H 53 M 109 46 H 115" marker-end="url(#mini-arrow)"/>
+  <!-- Grounded physical agents. -->
+  <g filter="url(#shadow)">
+    <rect x="335" y="558" width="280" height="160" rx="22" fill="#ffffff" stroke="#cbd6ce"/>
   </g>
-
-  <!-- Physical interaction: an agent acts on the world and learns from feedback. -->
-  <g transform="translate(88 875)" fill="none" stroke="#678d7b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="0" y="27" width="44" height="44" rx="10" fill="#f9fbf8"/>
-    <circle cx="22" cy="49" r="8" fill="#edf3ef"/>
-    <circle cx="22" cy="49" r="3" fill="#678d7b"/>
-    <path d="M 22 17 V 27 M 22 71 V 81 M -10 49 H 0 M 44 49 H 54"/>
-
-    <path d="M 50 23 C 80 3 124 3 150 25" marker-end="url(#mini-arrow)"/>
-    <path d="M 150 78 C 120 97 78 97 50 73" marker-end="url(#mini-arrow)"/>
-
-    <path d="M 124 76 L 124 66 L 103 49 L 123 31"/>
-    <circle cx="124" cy="66" r="5" fill="#ffffff"/>
-    <circle cx="103" cy="49" r="5" fill="#ffffff"/>
-    <circle cx="123" cy="31" r="5" fill="#ffffff"/>
-    <path d="M 123 31 L 136 24 M 123 31 L 137 39"/>
-    <rect x="142" y="27" width="16" height="16" rx="2" fill="#edf3ef"/>
-    <path d="M 133 76 H 172 M 143 49 L 143 55 M 158 49 L 158 55" stroke="#91aa9c" stroke-width="2"/>
-    <path d="M 144 19 L 150 12 L 156 19" stroke="#91aa9c" stroke-width="2"/>
+  <g transform="translate(408 572)" fill="none" stroke="#678d7b" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="20" width="38" height="38" rx="9" fill="#f9fbf8"/>
+    <circle cx="19" cy="39" r="7" fill="#edf3ef"/>
+    <circle cx="19" cy="39" r="2.8" fill="#678d7b"/>
+    <path d="M19 11 V20 M19 58 V67 M-8 39 H0 M38 39 H47"/>
+    <path d="M44 18 C68 2 101 3 120 20" marker-end="url(#mini-arrow)"/>
+    <path d="M119 60 C96 75 67 74 45 57" marker-end="url(#mini-arrow)"/>
+    <path d="M96 60 L96 52 L79 39 L95 24"/>
+    <circle cx="96" cy="52" r="4" fill="#fff"/><circle cx="79" cy="39" r="4" fill="#fff"/><circle cx="95" cy="24" r="4" fill="#fff"/>
+    <path d="M95 24 L106 18 M95 24 L107 31"/>
+    <rect x="111" y="21" width="14" height="14" rx="2" fill="#edf3ef"/>
+    <path d="M103 60 H133" stroke="#91aa9c" stroke-width="2"/>
   </g>
-
-  <g font-family="Arial, Helvetica, sans-serif" fill="#202622">
-    <text x="275" y="313" font-size="29" font-weight="700">Agentic Data</text>
-    <text x="275" y="348" font-size="29" font-weight="700">Scientists</text>
-    <text x="275" y="391" font-size="18" fill="#657069">Analyze · discover · improve</text>
-
-    <text x="275" y="603" font-size="27" font-weight="700">Models of Dynamic</text>
-    <text x="275" y="638" font-size="27" font-weight="700">Worlds</text>
-    <text x="275" y="681" font-size="18" fill="#657069">Represent · forecast · adapt</text>
-
-    <text x="275" y="893" font-size="27" font-weight="700">Grounded Physical</text>
-    <text x="275" y="928" font-size="27" font-weight="700">Agents</text>
-    <text x="275" y="971" font-size="18" fill="#657069">Perceive · reason · act</text>
-  </g>
-
-  <!-- The three themes form a mutually reinforcing bidirectional loop. -->
-  <g fill="none" stroke="#527866" stroke-width="3" stroke-linecap="round">
-    <path d="M 475 435 V 520" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
-    <path d="M 475 725 V 810" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
-    <path d="M 580 920 C 624 920 624 340 580 340" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
-  </g>
-  <g fill="#526059" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" text-anchor="middle">
-    <text x="254" y="476">modeling ↔ discovery</text>
-    <text x="281" y="767">forecast ↔ feedback</text>
-    <text x="622" y="630" transform="rotate(-90 622 630)" font-size="15">experiments ↔ observations</text>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="475" y="662" fill="#202622" font-size="21" font-weight="700">Grounded Physical</text>
+    <text x="475" y="686" fill="#202622" font-size="21" font-weight="700">Agents</text>
+    <text x="475" y="708" fill="#657069" font-size="13.5">Perceive · reason · act</text>
   </g>
 </svg>

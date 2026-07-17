@@ -38,14 +38,14 @@ author_profile: false
 
   <div class="people-groups">
   <ul class="people-list people-group">
-    <li><strong>Weijia Zhang</strong><span>Ph.D., 2026 · First employment: Ant Group (Talent Plan)</span></li>
+    <li><strong>Weijia Zhang</strong><span>Ph.D., 2026 → Ant Group (Talent Plan)</span></li>
     <li><strong>Ruiqian Han</strong><span>M.Phil., 2026 → DiDi Chuxing</span></li>
     <li><strong>Hao Wang</strong><span>M.Phil., 2026 → Ph.D. student, The Hong Kong Polytechnic University</span></li>
     <li><strong>Yuxuan Fan</strong><span>M.Phil., 2026 → Ph.D. student, Nanyang Technological University</span></li>
     <li><strong>Jindong Han</strong><span>Ph.D., 2025 → Professor, Shandong University</span></li>
     <li><strong>Zhao Xu</strong><span>M.Phil., 2025 → Ph.D. student, UCLA</span></li>
     <li><strong>Tianrui Song</strong><span>M.Phil., 2025 → Master's student, King's College London</span></li>
-    <li><strong>Wenshuo Chao</strong><span>M.Phil., 2024 · First employment: Quant Researcher @ Private Fund</span></li>
+    <li><strong>Wenshuo Chao</strong><span>M.Phil., 2024 → Quant Researcher @ Private Fund</span></li>
     <li><strong>Ziyang Wu</strong><span>M.Phil., 2024 → China Grid</span></li>
     <li><strong>Ruohong Liu</strong><span>M.Phil., 2024 → Ph.D. student, University of Oxford</span></li>
     <li><strong>Qingyan Zhu</strong><span>M.Phil., 2022 → NIO Inc.</span></li>
@@ -57,9 +57,7 @@ author_profile: false
     <li><strong>Zixuan Weng</strong><span>Research Assistant · Undergraduate, Beijing Jiaotong University → Ph.D. student, Georgia Tech</span></li>
     <li><strong>Can Chen</strong><span>Intern · Undergraduate, USTC → Ph.D. student, McGill University</span></li>
     <li><strong>Wei Fan</strong><span>Intern · Ph.D., University of Central Florida → Lecturer, University of Auckland</span></li>
-    <li><strong>Qingyu Guo</strong><span>Intern · Ph.D. student, HKUST</span></li>
-    <li><strong>Ding Zhou</strong><span>Intern · Master's student, USTC → Alibaba Group</span></li>
-    <li><strong>Qiyu Wu</strong><span>Intern · Master's student, Peking University</span></li>
+    <li><strong>Qingyu Guo</strong><span>Intern · Ph.D. student, HKUST → Tencent</span></li>
     <li><strong>Carter Blum</strong><span>Intern · Master's student, University of Minnesota → Bloomberg</span></li>
     <li><strong>Ying Xu</strong><span>Intern · Ph.D. student, National University of Defense Technology</span></li>
     <li><strong>Pengfei Wang</strong><span>Intern · Ph.D., Chinese Academy of Sciences → Associate Researcher, Chinese Academy of Sciences</span></li>
