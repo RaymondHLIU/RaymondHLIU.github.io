@@ -1,0 +1,10 @@
+.bundle/
+.jekyll-cache/
+.sass-cache/
+node_modules/
+/vendor/
+_site/
+
+.DS_Store
+*.sublime-project
+*.sublime-workspace

@@ -16,6 +16,10 @@ core_pages = %w[
   teaching/index.html
   students/index.html
   services/index.html
+  cv/index.html
+  talks/index.html
+  terms/index.html
+  aiaa5028/index.html
 ]
 
 errors = []
