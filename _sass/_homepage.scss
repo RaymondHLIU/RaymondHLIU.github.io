@@ -1336,17 +1336,27 @@
 
   .home-intro {
     grid-template-columns: 1fr;
-    gap: 2.5rem;
-    padding: 3.2rem 0;
+    gap: 1.9rem;
+    padding: 2.5rem 0 3rem;
   }
 
   .home-intro h1 {
-    font-size: 3.5rem;
+    font-size: 3.25rem;
+  }
+
+  .home-bio {
+    font-size: 1rem;
+    line-height: 1.66;
+  }
+
+  .home-links {
+    gap: 0.55rem 1.05rem;
+    margin-top: 1.35rem;
   }
 
   .home-portrait {
     grid-row: 1;
-    width: 124px;
+    width: 108px;
   }
 
   .home-portrait img {
@@ -1354,11 +1364,23 @@
   }
 
   .home-section {
-    padding: 3.4rem 0;
+    padding: 3rem 0;
   }
 
   .home-overview {
-    padding: 3.2rem 0 3.4rem;
+    padding: 3rem 0 3.2rem;
+  }
+
+  .home-overview__header {
+    gap: 1.1rem;
+  }
+
+  .home-overview__header h2 {
+    font-size: 2rem;
+  }
+
+  .home-overview__header p {
+    font-size: 0.95rem;
   }
 
   .home-join {
@@ -1367,11 +1389,11 @@
 
   .page-heading {
     min-height: 0;
-    padding: 2.8rem 0 1.8rem;
+    padding: 2.35rem 0 1.55rem;
   }
 
   .page-heading h1 {
-    font-size: 2.45rem;
+    font-size: 2.35rem;
   }
 
   .page-heading--with-lead,
@@ -1382,31 +1404,56 @@
     align-items: start;
   }
 
+  .page-heading--with-lead p {
+    font-size: 0.96rem;
+    line-height: 1.62;
+  }
+
   .research-perspectives {
-    padding: 2rem 0;
+    padding: 1.8rem 0;
   }
 
   .research-framework {
-    padding: 2rem 0;
+    padding: 1.6rem 0 2.1rem;
   }
 
   .research-framework figcaption {
-    margin-top: 1rem;
-    font-size: 0.82rem;
+    margin-top: 0.85rem;
+    font-size: 0.8rem;
     text-align: left;
   }
 
   .home-project__identity {
-    grid-template-columns: 104px minmax(0, 1fr);
-    gap: 1rem;
+    grid-template-columns: 82px minmax(0, 1fr);
+    gap: 0.9rem;
+    align-items: center;
   }
 
   .home-project__visual {
-    width: 104px;
+    width: 82px;
+    margin: 0;
+  }
+
+  .home-project {
+    gap: 1.2rem;
+    padding: 1.55rem 0;
+  }
+
+  .home-project__theme {
+    font-size: 1.08rem;
+  }
+
+  .home-project__question {
+    font-size: 0.94rem !important;
+    line-height: 1.65 !important;
+  }
+
+  .home-project__related {
+    line-height: 1.6 !important;
   }
 
   .research-page__body {
-    padding: 3.4rem 0;
+    padding: 3rem 0 3.5rem;
   }
 
   .academic-intro {
@@ -1422,11 +1469,11 @@
   }
 
   .academic-section {
-    padding: 3.4rem 0;
+    padding: 3rem 0;
   }
 
   .academic-section--first {
-    padding-top: 2.6rem;
+    padding-top: 2.2rem;
   }
 
   .academic-section--compact {
@@ -1441,7 +1488,7 @@
   }
 
   .academic-section__header h2 {
-    font-size: 2rem;
+    font-size: 1.85rem;
   }
 
   .journal-list {
@@ -1463,6 +1510,7 @@
   .service-list li {
     grid-template-columns: 1fr;
     gap: 0.35rem;
+    padding: 0.9rem 0;
   }
 
   .achievement-list--flat li {
@@ -1471,7 +1519,7 @@
   }
 
   .people-group {
-    padding: 0 1rem;
+    padding: 0 0.85rem;
   }
 
   .service-grid {
@@ -1487,7 +1535,7 @@
   }
 
   .publication-feature {
-    padding: 2.25rem 0;
+    padding: 2rem 0;
   }
 
   .publication-feature__media {
@@ -1495,7 +1543,7 @@
   }
 
   .publication-feature h2 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
 
   .publication-theme__heading {
@@ -1574,7 +1622,7 @@
 
   .home-questions {
     grid-template-columns: 1fr;
-    gap: 2rem;
+    gap: 1.65rem;
   }
 
   .home-question__number {
