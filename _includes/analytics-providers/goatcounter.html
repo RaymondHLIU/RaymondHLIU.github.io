@@ -19,7 +19,7 @@
           try {
             display.textContent = JSON.parse(request.responseText).count;
           } catch (error) {
-            // Keep the neutral fallback when the counter response is unavailable.
+            /* Keep the numeric fallback when the counter response is unavailable. */
           }
         });
         request.open("GET", endpoint + "/counter/TOTAL.json");
