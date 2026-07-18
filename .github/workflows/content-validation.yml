@@ -1,0 +1,27 @@
+name: Content validation
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+
+      - name: Validate structured site content
+        run: ruby scripts/validate_content.rb
+
+      - name: Validate publication data and assets
+        run: ruby scripts/validate_publications.rb

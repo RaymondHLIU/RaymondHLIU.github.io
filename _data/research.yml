@@ -1,0 +1,65 @@
+lead: >-
+  We study agentic intelligence across digital and physical worlds: systems that understand complex environments, make grounded decisions, and learn from the consequences of action.
+
+framework:
+  desktop_image: /images/research/research-overview.svg
+  mobile_image: /images/research/research-overview-mobile.svg
+  alt: Research framework connecting models of dynamic worlds, grounded physical agents, and agentic data scientists around agentic intelligence across digital-physical space.
+  caption: >-
+    The three themes are mutually reinforcing: data-science agents build and interrogate world models, models guide physical action, and interaction returns evidence that improves both models and workflows.
+
+perspectives:
+  - title: "Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition"
+    url: http://www.techrxiv.org/doi/full/10.36227/techrxiv.174953071.19189612/v1
+  - title: "Urban Foundation Models: A Survey"
+    url: https://github.com/usail-hkust/Awesome-Urban-Foundation-Models
+  - title: "Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications"
+    url: https://arxiv.org/abs/2507.00914
+
+themes:
+  - id: agentic-data-scientists
+    title: Agentic Data Scientists
+    image: /images/research/agentic-data-scientists.svg
+    description: >-
+      We develop agents that turn open-ended questions into reproducible end-to-end data science and scientific workflows. Beyond general agent capabilities such as planning, tool use, memory, and self-improvement, we emphasize data-centric intelligence: actively exploring, cleaning, and grounding reasoning in heterogeneous and imperfect data; making methodological choices through execution feedback; and reliably coordinating the full lifecycle from data preparation and modeling to evaluation, interpretation, and deployment.
+    related:
+      - title: EvoDS
+        url: https://arxiv.org/abs/2606.03841
+      - title: MM-Agent
+        url: https://arxiv.org/abs/2505.14148
+      - title: MoSciBench
+        url: https://openreview.net/forum?id=kZHSvETWdi
+  - id: grounded-physical-agents
+    title: Grounded Physical Agents
+    image: /images/research/grounded-physical-agents.svg
+    description: >-
+      We build agents that perceive and act through spatiotemporal signals, tools, simulators, APIs, and multi-agent interaction. Real-world systems—especially cities—provide a demanding testbed where decisions must respect physical constraints, uncertainty, coordination requirements, and downstream consequences.
+    related:
+      - title: DeepTravel
+        url: https://arxiv.org/abs/2509.21842
+      - title: USTBench
+        url: https://arxiv.org/abs/2505.17572
+      - title: CoLLMLight
+        url: https://arxiv.org/abs/2503.11739
+      - title: CityNav
+        url: https://arxiv.org/abs/2510.07825
+      - title: LLMLight
+        url: https://arxiv.org/abs/2312.16044
+  - id: models-of-dynamic-worlds
+    title: Models of Dynamic Worlds
+    image: /images/research/models-dynamic-worlds.svg
+    description: >-
+      We study predictive models that learn transferable representations of complex, evolving environments. Our goal is to capture dynamics across scales, domains, and observation patterns while retaining the efficiency, robustness, and adaptability needed for scientific and operational use.
+    related:
+      - title: UniExtreme
+        url: https://arxiv.org/abs/2508.01426
+      - title: CompactST
+        url: https://www.vldb.org/pvldb/vol18/p2149-han.pdf
+      - title: BigST
+        url: https://www.vldb.org/pvldb/vol17/p1081-han.pdf
+      - title: t-PatchGNN
+        url: https://proceedings.mlr.press/v235/zhang24bw.html
+
+full_publications:
+  label: View full publication list →
+  url: /publications/full/

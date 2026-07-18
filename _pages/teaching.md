@@ -15,16 +15,7 @@ author_profile: false
     <h2 id="current-courses-heading">Current Courses</h2>
   </header>
 
-  <ul class="course-history course-history--current">
-    <li>
-      <time>2026 Fall</time>
-      <div><strong>AIAA 3111</strong><span>Introduction to Data Mining</span></div>
-    </li>
-    <li>
-      <time>2026 Fall</time>
-      <div><strong>UCUG 1002</strong><span>Artificial Intelligence General Education</span></div>
-    </li>
-  </ul>
+  {% include course-list.html courses=site.data.teaching.current current=true %}
 </section>
 
 <section class="academic-section academic-section--compact" aria-labelledby="past-courses-heading">
@@ -32,38 +23,5 @@ author_profile: false
     <h2 id="past-courses-heading">Past Courses</h2>
   </header>
 
-  <ul class="course-history">
-    <li>
-      <time>2026 Spring</time>
-      <div><strong>UCMP 6010</strong><span>Cross-disciplinary Research Methods I</span></div>
-    </li>
-    <li>
-      <time>2025 Fall</time>
-      <div><strong>AIAA 3111</strong><span>Introduction to Data Mining</span></div>
-    </li>
-    <li>
-      <time>2025 Fall</time>
-      <div><strong>UCMP 6010</strong><span>Cross-disciplinary Research Methods I</span></div>
-    </li>
-    <li>
-      <time>2025 Spring</time>
-      <div><strong>UCMP 6010</strong><span>Cross-disciplinary Research Methods I</span></div>
-    </li>
-    <li>
-      <time>2024 Fall</time>
-      <div><strong>UFUG 1601</strong><span>Introduction to Computer Science</span></div>
-    </li>
-    <li>
-      <time>2024 Fall</time>
-      <div><strong>UCMP 6010</strong><span>Cross-disciplinary Research Methods I</span></div>
-    </li>
-    <li>
-      <time>2023 Fall</time>
-      <div><strong>AIAA 5028</strong><span>Machine Learning on Graphs</span></div>
-    </li>
-    <li>
-      <time>2022 Fall</time>
-      <div><strong>AIAA 5028</strong><span>Machine Learning on Graphs</span></div>
-    </li>
-  </ul>
+  {% include course-list.html courses=site.data.teaching.past %}
 </section>

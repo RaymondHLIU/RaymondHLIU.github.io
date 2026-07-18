@@ -16,16 +16,9 @@ author_profile: false
   </header>
 
   <ul class="service-list">
-    <li><a href="https://www.computer.org/csdl/journal/bd">IEEE Transactions on Big Data</a><span>Associate Editor</span></li>
-    <li><a href="https://www.nature.com/npjai/editors">npj Artificial Intelligence</a><span>Editorial Board Member</span></li>
-    <li><a href="https://jcst.ict.ac.cn/">Journal of Computer Science and Technology</a><span>Young Scientist Editor</span></li>
-    <li><a href="https://dl.acm.org/journal/tist">ACM Transactions on Intelligent Systems and Technology</a><span>Guest Editor</span></li>
-    <li><a href="https://link.springer.com/journal/11704">Frontiers of Computer Science</a><span>Guest Editor</span></li>
-    <li><a href="https://link.springer.com/referencework/10.1007/978-0-387-35973-1">Encyclopedia of GIS</a><span>Field Editor</span></li>
-    <li><a href="https://2025.ijcai.org/">IJCAI 2025</a><span>Competition Chair</span></li>
-    <li><a href="https://vldb.org/2024/">VLDB 2024</a><span>Local Chair</span></li>
-    <li><strong>IEEE P3154 Standard Working Group</strong><span>Secretary</span></li>
-    <li><strong>KDD Cup 2019 · Regular ML Track</strong><span>Co-organizer</span></li>
+    {% for service in site.data.services.editorial_and_organizational %}
+      <li>{% if service.url %}<a href="{{ service.url | escape }}">{{ service.organization }}</a>{% else %}<strong>{{ service.organization }}</strong>{% endif %}<span>{{ service.role }}</span></li>
+    {% endfor %}
   </ul>
 </section>
 
@@ -35,16 +28,9 @@ author_profile: false
   </header>
 
   <div class="service-grid">
-    <article><h3>KDD</h3><p>2019–2026</p></article>
-    <article><h3>ACL Rolling Review</h3><p>2023–2026</p></article>
-    <article><h3>IJCAI</h3><p>2021–2024</p></article>
-    <article><h3>AAAI</h3><p>2020–2026</p></article>
-    <article><h3>NeurIPS</h3><p>2023–2026</p></article>
-    <article><h3>ICLR</h3><p>2023–2026</p></article>
-    <article><h3>The Web Conference</h3><p>2023</p></article>
-    <article><h3>ICDM</h3><p>2023–2025</p></article>
-    <article><h3>SDM</h3><p>2021, 2023</p></article>
-    <article><h3>ECAI</h3><p>2025</p></article>
+    {% for conference in site.data.services.conferences %}
+      <article><h3>{{ conference.name }}</h3><p>{{ conference.years }}</p></article>
+    {% endfor %}
   </div>
 </section>
 
@@ -54,13 +40,6 @@ author_profile: false
   </header>
 
   <ul class="journal-list">
-    <li>IEEE Transactions on Knowledge and Data Engineering</li>
-    <li>ACM Transactions on Knowledge Discovery from Data</li>
-    <li>ACM Transactions on Intelligent Systems and Technology</li>
-    <li>Data &amp; Knowledge Engineering</li>
-    <li>IEEE Transactions on Big Data</li>
-    <li>IEEE Transactions on Cybernetics</li>
-    <li>Scientific Reports</li>
-    <li>Transportation Research Part C</li>
+    {% for journal in site.data.services.journals %}<li>{{ journal }}</li>{% endfor %}
   </ul>
 </section>

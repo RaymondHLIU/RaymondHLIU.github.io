@@ -1,0 +1,31 @@
+items:
+  - title: "Next Generation Smart Transportation: Research and Applications"
+    format: Invited Talk
+    venue: 2020 China Collegiate Computing Contest - Artificial Intelligence Innovation Contest
+    date: "2020-08-28"
+  - title: "Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System"
+    format: Oral Presentation
+    venue: KDD 2019
+    location: Alaska, USA
+    date: "2019-08-06"
+  - title: "Baidu’s Initiative in Creating the Future of Intelligent Transportation"
+    format: Invited talk
+    venue: World AI Summit Americas
+    venue_url: https://americas.worldsummit.ai/
+    location: Montreal, Canada
+    date: "2019-04-11"
+  - title: Baidu AI
+    format: Recruitment talk
+    venue: Tsinghua University
+    location: Beijing, China
+    date: "2019-03-18"
+  - title: Baidu Brain 3.0
+    format: Invited talk
+    venue: University of Macau
+    location: Macau, China
+    date: "2019-02-15"
+  - title: Joint Representation Learning for Multi-Modal Transportation Recommendation
+    format: Oral Presentation
+    venue: AAAI 2019
+    location: Hawaii, USA
+    date: "2019-01-29"

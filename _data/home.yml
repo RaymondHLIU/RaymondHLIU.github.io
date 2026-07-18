@@ -1,0 +1,30 @@
+research:
+  heading: Building agentic systems for complex digital and physical worlds.
+  lead: My recent interest spans agentic data science, scientific discovery, and decision-making in dynamic real-world systems.
+  capabilities:
+    - number: "01"
+      title: Understand complex worlds
+      description: Learn transferable representations of complex, evolving environments across scales and domains.
+    - number: "02"
+      title: Make grounded decisions
+      description: Reason with evidence, tools, collaborators, and physical constraints to act reliably in real-world environments.
+    - number: "03"
+      title: Learn through interaction
+      description: Improve analytical and scientific workflows through execution feedback, reusable skills, and accumulated experience.
+  link:
+    label: Explore research themes and related work →
+    url: /research/
+
+join:
+  eyebrow: Join us
+  title: Work with us.
+  opportunities:
+    - title: Postdoc and PhD students
+      content: >-
+        Postdoctoral / Research Associate positions are available. Prospective Ph.D. students whose interests align with our research are also welcome. Please email your CV and representative work to [liuh@ust.hk](mailto:liuh@ust.hk).
+    - title: RBM students
+      content: >-
+        Please apply directly through the [HKUST(GZ) Online Admission System](https://pgoas.hkust-gz.edu.cn/). After receiving an offer, you are welcome to contact me to discuss research fit; joining the group as an RA before making a final decision is encouraged. Please read the [Guidelines & Expectations](/files/MPhil_Guideline.pdf).
+    - title: RAs, interns, and visiting students
+      content: >-
+        We welcome applications year-round from students who can commit for at least six months. We provide a stipend, computing resources, and close research mentorship. Please email your CV, availability, and a brief description of your research interests to [liuh@ust.hk](mailto:liuh@ust.hk).

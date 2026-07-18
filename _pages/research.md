@@ -6,30 +6,30 @@ excerpt: "Research on agentic systems for complex digital and physical worlds."
 author_profile: false
 ---
 
+{% assign research = site.data.research %}
+
 <header class="page-heading page-heading--with-lead">
   <h1>Research</h1>
-  <p>We study agentic intelligence across digital and physical worlds: systems that understand complex environments, make grounded decisions, and learn from the consequences of action.</p>
+  <p>{{ research.lead }}</p>
 </header>
 
 <figure class="research-framework">
   <picture>
-    <source media="(max-width: 560px)" srcset="{{ site.baseurl }}/images/research/research-overview-mobile.svg">
-    <img src="{{ site.baseurl }}/images/research/research-overview.svg" alt="Research framework connecting models of dynamic worlds, grounded physical agents, and agentic data scientists around agentic intelligence across digital-physical space.">
+    <source media="(max-width: 560px)" srcset="{{ site.baseurl }}{{ research.framework.mobile_image }}">
+    <img src="{{ site.baseurl }}{{ research.framework.desktop_image }}" alt="{{ research.framework.alt }}">
   </picture>
-  <figcaption>The three themes are mutually reinforcing: data-science agents build and interrogate world models, models guide physical action, and interaction returns evidence that improves both models and workflows.</figcaption>
+  <figcaption>{{ research.framework.caption }}</figcaption>
 </figure>
 
 <section class="research-perspectives" aria-labelledby="research-perspectives-heading">
   <h2 id="research-perspectives-heading">Surveys &amp; perspectives</h2>
   <ul>
-    <li><a href="http://www.techrxiv.org/doi/full/10.36227/techrxiv.174953071.19189612/v1">Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition</a></li>
-    <li><a href="https://github.com/usail-hkust/Awesome-Urban-Foundation-Models">Urban Foundation Models: A Survey</a></li>
-    <li><a href="https://arxiv.org/abs/2507.00914">Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications</a></li>
+    {% for paper in research.perspectives %}<li><a href="{{ paper.url | escape }}">{{ paper.title }}</a></li>{% endfor %}
   </ul>
 </section>
 
 <section class="research-page__body" aria-label="Research themes and related work">
   {% include selected-research-theme.html %}
 
-  <p class="home-section__footer-link"><a href="{{ site.baseurl }}/publications/full/">View full publication list →</a></p>
+  <p class="home-section__footer-link"><a href="{{ site.baseurl }}{{ research.full_publications.url }}">{{ research.full_publications.label }}</a></p>
 </section>

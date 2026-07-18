@@ -1,0 +1,100 @@
+items:
+  - date: "2026-07"
+    display: Jul 2026
+    featured: true
+    content: >-
+      Call for papers: the [Frontiers of AI and Data Science Competitions](https://link.springer.com/collections/fhbghibigc) special issue in **Frontiers of Computer Science** is now open for submissions.
+  - date: "2026-05-18"
+    display: May 2026
+    featured: true
+    summary: >-
+      New papers at **KDD 2026** on [autonomous data science, travel agents, extreme-weather forecasting, and flood forecasting](/publications/full/).
+    content: >-
+      New papers at **KDD 2026** and **ICML 2026** on autonomous data science, travel agents, efficient agent reasoning, and flood forecasting.
+  - date: "2026-01"
+    display: Jan 2026
+    featured: true
+    content: >-
+      New work at **ICLR 2026** and **The Web Conference 2026** on [multimodal scientific discovery](https://openreview.net/forum?id=kZHSvETWdi), [cooperative urban agents](https://arxiv.org/abs/2503.11739), and [spatiotemporal reasoning](https://arxiv.org/abs/2505.17572).
+  - date: "2025-11-25"
+    display: Nov 2025
+    content: >-
+      New papers at **KDD 2026** and **AAAI 2026** on extreme-weather forecasting, subseasonal-to-seasonal weather forecasting, travel-time estimation, and recommendation.
+  - date: "2025-09-25"
+    display: Sep 2025
+    featured: true
+    content: >-
+      Three papers were accepted to **NeurIPS 2025**, exploring agentic scientific discovery, mathematical modeling agents, and test-time reasoning.
+  - date: "2025-08-05"
+    display: Aug 2025
+    featured: true
+    content: >-
+      [LLMLight](https://arxiv.org/abs/2312.16044) received the [KDD 2025 Audience Appreciation Award](https://kdd2025.kdd.org/awards/).
+  - date: "2025-06-01"
+    display: Jun 2025
+    content: >-
+      Congratulations to Jindong Han on joining Shandong University as an Associate Professor.
+  - date: "2025-05-31"
+    display: May 2025
+    content: >-
+      Received an Outstanding Reviewer recognition from **KDD 2025**.
+  - date: "2025-05-20"
+    display: May 2025
+    content: >-
+      Five papers were accepted to **KDD 2025** on time-series modeling, nuclear-radiation forecasting, ride-hailing agents, and scientific retrieval.
+  - date: "2025-04-30"
+    display: Apr 2025
+    content: >-
+      One paper on language-model-empowered spatiotemporal forecasting was accepted to **IJCAI 2025**.
+  - date: "2025-04-25"
+    display: Apr 2025
+    content: >-
+      Congratulations to Weijia Zhang on receiving the 2025 Baidu Scholarship.
+  - date: "2025-04-15"
+    display: Apr 2025
+    content: >-
+      The LLMLight team received a Special Award and Gold Medal at the International Exhibition of Inventions Geneva 2025.
+  - date: "2025-03-16"
+    display: Mar 2025
+    content: >-
+      Our work on compact pre-trained spatiotemporal predictive models was accepted to **VLDB 2025**.
+  - date: "2025-01-23"
+    display: Jan 2025
+    content: >-
+      Three papers were accepted to **ICLR 2025** and **The Web Conference 2025**, including a spotlight on retrieval utility measurement for RAG.
+  - date: "2024-12-19"
+    display: Dec 2024
+    content: >-
+      Our group received reviewer recognitions from **KDD 2025**.
+  - date: "2024-11-20"
+    display: Nov 2024
+    content: >-
+      Three papers were accepted to **KDD 2025** on traffic-control agents, automated spatiotemporal forecasting, and graph adaptation.
+  - date: "2024-09-26"
+    display: Sep 2024
+    content: >-
+      Two papers were accepted to **NeurIPS 2024** on urban knowledge-graph agents and LLM jailbreak evaluation.
+  - date: "2024-09-20"
+    display: Sep 2024
+    content: >-
+      Our IEEE recommended practice for applying knowledge graphs to talent services was formally published.
+  - date: "2024-09-13"
+    display: Sep 2024
+    content: >-
+      Started serving as an Associate Editor of **IEEE Transactions on Big Data**.
+  - date: "2024-08-30"
+    display: Aug 2024
+    content: >-
+      [BigST](https://www.vldb.org/pvldb/vol17/p1081-han.pdf) received a **VLDB 2024 Best Research Paper Nomination**.
+  - date: "2024-08-27"
+    display: Aug 2024
+    content: >-
+      We presented a tutorial on [Urban Foundation Models](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models) at **KDD 2024**.
+  - date: "2024-05-17"
+    display: May 2024
+    content: >-
+      Three papers were accepted to **KDD 2024** on congestion prediction, federated graph learning, and irregular traffic forecasting.
+  - date: "2024-05-01"
+    display: May 2024
+    content: >-
+      Our work on irregular multivariate time-series forecasting was accepted to **ICML 2024**.

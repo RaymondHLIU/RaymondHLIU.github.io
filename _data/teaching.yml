@@ -1,0 +1,33 @@
+current:
+  - term: 2026 Fall
+    code: AIAA 3111
+    title: Introduction to Data Mining
+  - term: 2026 Fall
+    code: UCUG 1002
+    title: Artificial Intelligence General Education
+
+past:
+  - term: 2026 Spring
+    code: UCMP 6010
+    title: Cross-disciplinary Research Methods I
+  - term: 2025 Fall
+    code: AIAA 3111
+    title: Introduction to Data Mining
+  - term: 2025 Fall
+    code: UCMP 6010
+    title: Cross-disciplinary Research Methods I
+  - term: 2025 Spring
+    code: UCMP 6010
+    title: Cross-disciplinary Research Methods I
+  - term: 2024 Fall
+    code: UFUG 1601
+    title: Introduction to Computer Science
+  - term: 2024 Fall
+    code: UCMP 6010
+    title: Cross-disciplinary Research Methods I
+  - term: 2023 Fall
+    code: AIAA 5028
+    title: Machine Learning on Graphs
+  - term: 2022 Fall
+    code: AIAA 5028
+    title: Machine Learning on Graphs
