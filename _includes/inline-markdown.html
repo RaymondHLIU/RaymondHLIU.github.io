@@ -1,0 +1,1 @@
+{% assign inline_markdown = include.content | markdownify | strip %}{{ inline_markdown | remove_first: '<p>' | remove_first: '</p>' }}

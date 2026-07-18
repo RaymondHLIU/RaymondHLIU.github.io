@@ -1,0 +1,14 @@
+{% assign rendered_news = 0 %}
+<ul class="home-updates{% if include.archive %} home-updates--archive{% endif %}">
+  {% for item in site.data.news.items %}
+    {% if include.featured_only and item.featured != true %}{% continue %}{% endif %}
+    {% if include.limit and rendered_news >= include.limit %}{% break %}{% endif %}
+    {% assign news_content = item.content %}
+    {% if include.use_summary and item.summary %}{% assign news_content = item.summary %}{% endif %}
+    <li class="home-update">
+      <time datetime="{{ item.date }}">{{ item.display }}</time>
+      <p>{% include inline-markdown.html content=news_content %}</p>
+    </li>
+    {% assign rendered_news = rendered_news | plus: 1 %}
+  {% endfor %}
+</ul>

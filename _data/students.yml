@@ -1,0 +1,130 @@
+achievements:
+  - name: Tengfei Lyu
+    year: 2026
+    award: HKUST(GZ) AI Thrust 2026 Best Research Award
+  - name: Yansong Ning
+    year: 2026
+    award: HKUST(GZ) AI Thrust 2026 Rising Star Award
+  - name: Fan Liu
+    year: 2026
+    award: 2026 Lizhi Scholarship
+  - name: Fan Liu
+    year: 2025
+    award: HKUST(GZ) AI Thrust 2025 Best Research Award
+  - name: Weijia Zhang
+    year: 2025
+    award: 2025 Baidu Scholarship
+  - name: Siqi Lai
+    year: 2025
+    award: Special Award of International Exhibition of Inventions Geneva 2025
+    url: /images/trophy.jpg
+  - name: Siqi Lai
+    year: 2025
+    award: KDD 2025 Audience Appreciation Award
+    url: https://kdd2025.kdd.org/awards/
+  - name: Jindong Han
+    year: 2025
+    award: 2025 National Young Talent Plan
+  - name: Jindong Han
+    year: 2024
+    award: HKUST AIS 2024 Best Research Award
+  - name: Jindong Han
+    year: 2024
+    award: VLDB 2024 Best Research Paper Nomination Award
+  - name: Fan Liu
+    year: 2024
+    award: HKUST(GZ) AI Thrust 2024 Rising Star Award
+  - name: Weijia Zhang
+    year: 2023
+    award: HKUST(GZ) AI Thrust 2023 Best Research Award
+
+alumni:
+  students:
+    - name: Weijia Zhang
+      degree: Ph.D.
+      year: 2026
+      destination: Ant Group (Talent Plan)
+    - name: Ruiqian Han
+      degree: M.Phil.
+      year: 2026
+      destination: DiDi Chuxing
+    - name: Hao Wang
+      degree: M.Phil.
+      year: 2026
+      destination: Ph.D. student, The Hong Kong Polytechnic University
+    - name: Yuxuan Fan
+      degree: M.Phil.
+      year: 2026
+      destination: Ph.D. student, Nanyang Technological University
+    - name: Jindong Han
+      degree: Ph.D.
+      year: 2025
+      destination: Professor, Shandong University
+    - name: Zhao Xu
+      degree: M.Phil.
+      year: 2025
+      destination: Ph.D. student, UCLA
+    - name: Tianrui Song
+      degree: M.Phil.
+      year: 2025
+      destination: Master's student, King's College London
+    - name: Wenshuo Chao
+      degree: M.Phil.
+      year: 2024
+      destination: Quant Researcher @ Private Fund
+    - name: Ziyang Wu
+      degree: M.Phil.
+      year: 2024
+      destination: China Grid
+    - name: Ruohong Liu
+      degree: M.Phil.
+      year: 2024
+      destination: Ph.D. student, University of Oxford
+    - name: Qingyan Zhu
+      degree: M.Phil.
+      year: 2022
+      destination: NIO Inc.
+  assistants:
+    - name: Xiaolong Jin
+      role: Research Assistant
+      background: Undergraduate, USTC
+      destination: Ph.D. student, Purdue University
+    - name: Weilin Lin
+      role: Research Assistant
+      background: M.Sc., City University of Hong Kong
+      destination: Ph.D. student, HKUST(GZ)
+    - name: Zixuan Weng
+      role: Research Assistant
+      background: Undergraduate, Beijing Jiaotong University
+      destination: Ph.D. student, Georgia Tech
+    - name: Can Chen
+      role: Intern
+      background: Undergraduate, USTC
+      destination: Ph.D. student, McGill University
+    - name: Wei Fan
+      role: Intern
+      background: Ph.D., University of Central Florida
+      destination: Lecturer, University of Auckland
+    - name: Qingyu Guo
+      role: Intern
+      background: Ph.D. student, HKUST
+      destination: Tencent
+    - name: Carter Blum
+      role: Intern
+      background: Master's student, University of Minnesota
+      destination: Bloomberg
+    - name: Ying Xu
+      role: Intern
+      background: Ph.D. student, National University of Defense Technology
+    - name: Pengfei Wang
+      role: Intern
+      background: Ph.D., Chinese Academy of Sciences
+      destination: Associate Researcher, Chinese Academy of Sciences
+    - name: Zixuan Yuan
+      role: Intern
+      background: Ph.D., Rutgers University
+      destination: Assistant Professor, HKUST(GZ)
+    - name: Ting Li
+      role: Intern
+      background: Master's student, National University of Defense Technology
+      destination: JD Digits

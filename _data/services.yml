@@ -1,0 +1,61 @@
+editorial_and_organizational:
+  - organization: IEEE Transactions on Big Data
+    url: https://www.computer.org/csdl/journal/bd
+    role: Associate Editor
+  - organization: npj Artificial Intelligence
+    url: https://www.nature.com/npjai/editors
+    role: Editorial Board Member
+  - organization: Journal of Computer Science and Technology
+    url: https://jcst.ict.ac.cn/
+    role: Young Scientist Editor
+  - organization: ACM Transactions on Intelligent Systems and Technology
+    url: https://dl.acm.org/journal/tist
+    role: Guest Editor
+  - organization: Frontiers of Computer Science
+    url: https://link.springer.com/journal/11704
+    role: Guest Editor
+  - organization: Encyclopedia of GIS
+    url: https://link.springer.com/referencework/10.1007/978-0-387-35973-1
+    role: Field Editor
+  - organization: IJCAI 2025
+    url: https://2025.ijcai.org/
+    role: Competition Chair
+  - organization: VLDB 2024
+    url: https://vldb.org/2024/
+    role: Local Chair
+  - organization: IEEE P3154 Standard Working Group
+    role: Secretary
+  - organization: KDD Cup 2019 · Regular ML Track
+    role: Co-organizer
+
+conferences:
+  - name: KDD
+    years: 2019–2026
+  - name: ACL Rolling Review
+    years: 2023–2026
+  - name: IJCAI
+    years: 2021–2024
+  - name: AAAI
+    years: 2020–2026
+  - name: NeurIPS
+    years: 2023–2026
+  - name: ICLR
+    years: 2023–2026
+  - name: The Web Conference
+    years: "2023"
+  - name: ICDM
+    years: 2023–2025
+  - name: SDM
+    years: 2021, 2023
+  - name: ECAI
+    years: "2025"
+
+journals:
+  - IEEE Transactions on Knowledge and Data Engineering
+  - ACM Transactions on Knowledge Discovery from Data
+  - ACM Transactions on Intelligent Systems and Technology
+  - Data & Knowledge Engineering
+  - IEEE Transactions on Big Data
+  - IEEE Transactions on Cybernetics
+  - Scientific Reports
+  - Transportation Research Part C

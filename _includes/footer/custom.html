@@ -1,16 +1,15 @@
 {% include base_path %}
+{% assign profile = site.data.profile %}
 
 <div class="site-footer">
   <p class="site-footer__meta">
-    <span class="site-footer__copyright">&copy; {{ site.time | date: '%Y' }} Hao Liu <span class="site-footer__separator" aria-hidden="true">·</span> HKUST(GZ)</span>
+    <span class="site-footer__copyright">&copy; {{ site.time | date: '%Y' }} {{ profile.name }} <span class="site-footer__separator" aria-hidden="true">·</span> {{ profile.affiliation }}</span>
     {% if site.page_views.enabled %}
       <span class="site-footer__views">Site visits <span id="goatcounter_site_views" aria-live="polite">—</span></span>
     {% endif %}
   </p>
   <nav aria-label="Footer links">
-    <a href="https://scholar.google.com/citations?user=66KKZR4AAAAJ&amp;hl=en">Google Scholar</a>
-    <a href="https://github.com/usail-hkust">GitHub</a>
-    <a href="mailto:liuh@ust.hk">Email</a>
+    {% for link in profile.footer_links %}<a href="{{ link.url | escape }}">{{ link.label }}</a>{% endfor %}
   </nav>
 </div>
 

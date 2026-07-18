@@ -1,0 +1,8 @@
+<ul class="course-history{% if include.current %} course-history--current{% endif %}">
+  {% for course in include.courses %}
+    <li>
+      <time>{{ course.term }}</time>
+      <div><strong>{{ course.code }}</strong><span>{{ course.title }}</span></div>
+    </li>
+  {% endfor %}
+</ul>
