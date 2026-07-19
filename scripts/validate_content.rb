@@ -143,8 +143,11 @@ assistant_alumni = Array(alumni["assistants"])
 student_alumni.each_with_index do |person, index|
   require_fields(person, %w[name degree year destination], "students.alumni.students[#{index}]", errors)
 end
-years = student_alumni.map { |person| person["year"].to_i }
-errors << "students.alumni.students: not ordered by year" unless years == years.sort.reverse
+degree_rank = { "Ph.D." => 0, "M.Phil." => 1 }
+expected_student_order = student_alumni.sort_by do |person|
+  [degree_rank.fetch(person["degree"], degree_rank.size), -person["year"].to_i]
+end
+errors << "students.alumni.students: expected Ph.D. alumni first, then M.Phil. alumni, with each group ordered by year" unless student_alumni == expected_student_order
 assistant_alumni.each_with_index do |person, index|
   require_fields(person, %w[name role background], "students.alumni.assistants[#{index}]", errors)
 end
