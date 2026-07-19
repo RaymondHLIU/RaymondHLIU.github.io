@@ -81,6 +81,8 @@ past:
       destination: Assistant Professor, Example University
 ```
 
+学生 alumni 按学位分组：Ph.D. 在前，M.Phil. 在后；每组内部按毕业年份倒序排列。
+
 RA、intern 或 visiting student 加入 `alumni.assistants`：
 
 ```yaml

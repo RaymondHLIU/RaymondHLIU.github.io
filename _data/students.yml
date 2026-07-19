@@ -44,6 +44,10 @@ alumni:
       degree: Ph.D.
       year: 2026
       destination: Ant Group (Talent Plan)
+    - name: Jindong Han
+      degree: Ph.D.
+      year: 2025
+      destination: Professor, Shandong University
     - name: Ruiqian Han
       degree: M.Phil.
       year: 2026
@@ -56,10 +60,6 @@ alumni:
       degree: M.Phil.
       year: 2026
       destination: Ph.D. student, Nanyang Technological University
-    - name: Jindong Han
-      degree: Ph.D.
-      year: 2025
-      destination: Professor, Shandong University
     - name: Zhao Xu
       degree: M.Phil.
       year: 2025
@@ -85,6 +85,10 @@ alumni:
       year: 2022
       destination: NIO Inc.
   assistants:
+    - name: Zhe Zhao
+      role: Visiting Student
+      background: Ph.D., USTC
+      destination: Postdoc, Stanford University
     - name: Xiaolong Jin
       role: Research Assistant
       background: Undergraduate, USTC
