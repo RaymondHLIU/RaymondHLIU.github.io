@@ -102,7 +102,7 @@
     <text x="925" y="657" font-size="15" fill="#657069">Perceive · reason · act</text>
   </g>
 
-  <g transform="translate(0 24)">
+  <g transform="translate(0 48)">
     <circle cx="600" cy="365" r="132" fill="#e8efea" stroke="#678d7b" stroke-width="2.4"/>
     <circle cx="600" cy="365" r="118" fill="#f9faf7" stroke="#b8c7bd"/>
     <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
