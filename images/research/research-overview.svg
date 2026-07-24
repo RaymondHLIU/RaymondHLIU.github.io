@@ -102,18 +102,20 @@
     <text x="925" y="657" font-size="15" fill="#657069">Perceive · reason · act</text>
   </g>
 
-  <circle cx="600" cy="365" r="132" fill="#e8efea" stroke="#678d7b" stroke-width="2.4"/>
-  <circle cx="600" cy="365" r="118" fill="#f9faf7" stroke="#b8c7bd"/>
-  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-    <text x="600" y="326" fill="#1d2822" font-size="21" font-weight="700">Agentic Intelligence</text>
-    <text x="600" y="355" fill="#1d2822" font-size="17" font-weight="600">Across Digital-Physical</text>
-    <text x="600" y="380" fill="#1d2822" font-size="17" font-weight="600">Space</text>
-    <g fill="#66736b" font-size="10" font-weight="700">
-      <text x="547" y="426">UNDERSTAND</text>
-      <circle cx="587" cy="422" r="1.7" fill="#8a958e"/>
-      <text x="614" y="426">DECIDE</text>
-      <circle cx="640" cy="422" r="1.7" fill="#8a958e"/>
-      <text x="669" y="426">LEARN</text>
+  <g transform="translate(0 24)">
+    <circle cx="600" cy="365" r="132" fill="#e8efea" stroke="#678d7b" stroke-width="2.4"/>
+    <circle cx="600" cy="365" r="118" fill="#f9faf7" stroke="#b8c7bd"/>
+    <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+      <text x="600" y="326" fill="#1d2822" font-size="21" font-weight="700">Agentic Intelligence</text>
+      <text x="600" y="355" fill="#1d2822" font-size="17" font-weight="600">Across Digital-Physical</text>
+      <text x="600" y="380" fill="#1d2822" font-size="17" font-weight="600">Space</text>
+      <g fill="#66736b" font-size="10" font-weight="700">
+        <text x="547" y="426">UNDERSTAND</text>
+        <circle cx="587" cy="422" r="1.7" fill="#8a958e"/>
+        <text x="614" y="426">DECIDE</text>
+        <circle cx="640" cy="422" r="1.7" fill="#8a958e"/>
+        <text x="669" y="426">LEARN</text>
+      </g>
     </g>
   </g>
 </svg>
