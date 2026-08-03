@@ -593,19 +593,20 @@
 
 .research-perspectives {
   display: grid;
-  grid-template-columns: minmax(180px, 0.45fr) minmax(0, 1.55fr);
+  grid-template-columns: minmax(210px, 0.5fr) minmax(0, 1.5fr);
   gap: 3rem;
-  padding: 2.75rem 0;
+  padding: 3rem 0;
   border-bottom: 1px solid #dedfd8;
 }
 
 .research-perspectives h2 {
   margin: 0;
-  color: #303631;
+  color: #202621;
   font-family: $sans-serif;
-  font-size: 0.86rem;
-  font-weight: 700;
-  letter-spacing: 0.01em;
+  font-size: 1.2rem;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
 }
 
 .research-perspectives ul {
@@ -614,16 +615,21 @@
   list-style: none;
 }
 
+.research-perspectives li {
+  padding-left: 1rem;
+  border-left: 2px solid #91aa9e;
+}
+
 .research-perspectives li + li {
-  margin-top: 0.75rem;
+  margin-top: 1rem;
 }
 
 .research-perspectives a {
   color: #2f3832;
   font-family: $sans-serif;
-  font-size: 0.9rem;
+  font-size: 1.02rem;
   font-weight: 600;
-  line-height: 1.5;
+  line-height: 1.55;
 }
 
 .research-perspectives a::after {
@@ -1410,7 +1416,15 @@
   }
 
   .research-perspectives {
-    padding: 1.8rem 0;
+    padding: 2.1rem 0;
+  }
+
+  .research-perspectives h2 {
+    font-size: 1.12rem;
+  }
+
+  .research-perspectives a {
+    font-size: 0.96rem;
   }
 
   .research-framework {
