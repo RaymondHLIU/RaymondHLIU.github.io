@@ -1,4 +1,11 @@
 items:
+  - date: "2026-08-21"
+    display: Aug 2026
+    featured: true
+    summary: >-
+      Four papers were accepted to **EMNLP 2026**, and one paper was accepted to **ICDM 2026**.
+    content: >-
+      Four papers were accepted to **EMNLP 2026** (including one Findings paper), covering video interview assessment, multimodal time-series understanding, efficient LLM reasoning, and automated data-science workflows. One paper on universal traffic forecasting was accepted to **ICDM 2026**.
   - date: "2026-07"
     display: Jul 2026
     featured: true

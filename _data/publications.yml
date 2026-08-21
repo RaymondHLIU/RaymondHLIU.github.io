@@ -3,11 +3,6 @@ groups:
 - year: '2026'
   id: '2026'
   papers:
-  - "**[EMNLP]** <ins>Yuxuan Fan</ins>, Miaojun Huang, Haimei Zhang, Jingshen Wu and ***Hao Liu\\****. PhoenixNest-Video: Evidence-Grounded Multimodal Agent Framework for Automated Video Interview Assessment. In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, Budapest, Hungary, 2026."
-  - "**[EMNLP]** <ins>Hang Ni</ins>, <ins>Weijia Zhang</ins>, Fei Wang, Zezhi Shao and ***Hao Liu\\****. [From Consistency to Complementarity: Aligned and Disentangled Multi-modal Learning for Time Series Understanding and Reasoning](https://arxiv.org/abs/2601.21436). In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, Budapest, Hungary, 2026."
-  - "**[EMNLP]** <ins>Yansong Ning</ins>, Wei Li, Jun Fang, Naiqiang Tan and ***Hao Liu\\****. [Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Synergizing-Oriented Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2505.11827). In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, Budapest, Hungary, 2026."
-  - "**[EMNLP Findings]** <ins>Fan Liu</ins>, Tianyu Pang, Chao Du and ***Hao Liu\\****. DSFlow: Evolutionary Workflow Optimization for Generalizable LLM-Based Data Science Automation. In Findings of the Association for Computational Linguistics: EMNLP 2026, Budapest, Hungary, 2026."
-  - "**[ICDM]** Zhouyang Liu, <ins>Jindong Han</ins>, <ins>Hao Wang</ins>, Xinyue Liu, Hui Gao, Dongsheng Li and ***Hao Liu\\****. A Multi-Resolution Multi-Domain Pre-Training Framework for Universal Traffic Forecasting. In Proceedings of the 26th IEEE International Conference on Data Mining, Shenyang, China, 2026."
   - "**[TIST]** <ins>Weijia Zhang</ins>, <ins>Jindong Han</ins>, <ins>Zhao Xu</ins>, <ins>Hang Ni</ins>, <ins>Tengfei Lyu</ins>, ***Hao Liu\\**** and Hui Xiong. [Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models](https://arxiv.org/abs/2402.01749). ACM Transactions on Intelligent Systems and Technology, Accepted."
   - "**[TITS]** <ins>Tengfei Lyu</ins>, Siyuan Feng\\*, ***Hao Liu\\**** and Hai Yang. [LLM-ODDR: A Large Language Model Framework for Joint Order Dispatching and Driver Repositioning](https://arxiv.org/abs/2505.22695). IEEE Transactions on Intelligent Transportation Systems, Accepted."
   - "**[ICML]** <ins>Yansong Ning</ins>, Jun Fang, Naiqiang Tan and ***Hao Liu\\****. [Agent-Omit: Adaptive Context Omission for Efficient LLM Agents](https://arxiv.org/abs/2602.04284). In Proceedings of the Forty-third International Conference on Machine Learning, Seoul, South Korea, 2026."
@@ -24,6 +19,11 @@ groups:
   - "**[WebConf]** <ins>Yuping Zhou</ins>, <ins>Siqi Lai</ins>, <ins>Jindong Han</ins>, ***Hao Liu\\****. [An LLM-Powered Cooperative Framework for Large-Scale Multi-Vehicle Navigation](https://arxiv.org/abs/2510.07825). In Proceedings of the ACM Web Conference 2026, Dubai, United Arab Emirates, 2026."
   - "**[WebConf]** <ins>Zhuoning Guo</ins>, Guangxing Chen, Qian Gao, Xiaochao Liao, Jianjia Zheng, Lu Shen, ***Hao Liu\\****. [GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations](https://arxiv.org/abs/2502.11490). In Proceedings of the ACM Web Conference 2026, Dubai, United Arab Emirates, 2026."
   - "**[AAAI]** <ins>Tianrui Song</ins>, <ins>Wenshuo Chao</ins> and ***Hao Liu\\****. [Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models](https://arxiv.org/abs/2511.07295). In Proceedings of the Fortieth AAAI Conference on Artificial Intelligence, Singapore, 2026."
+  - "**[EMNLP]** <ins>Yuxuan Fan</ins>, Miaojun Huang, Haimei Zhang, Jingshen Wu and ***Hao Liu\\****. PhoenixNest-Video: Evidence-Grounded Multimodal Agent Framework for Automated Video Interview Assessment. In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, Budapest, Hungary, 2026."
+  - "**[EMNLP]** <ins>Hang Ni</ins>, <ins>Weijia Zhang</ins>, Fei Wang, Zezhi Shao and ***Hao Liu\\****. [From Consistency to Complementarity: Aligned and Disentangled Multi-modal Learning for Time Series Understanding and Reasoning](https://arxiv.org/abs/2601.21436). In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, Budapest, Hungary, 2026."
+  - "**[EMNLP]** <ins>Yansong Ning</ins>, Wei Li, Jun Fang, Naiqiang Tan and ***Hao Liu\\****. [Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Synergizing-Oriented Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2505.11827). In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, Budapest, Hungary, 2026."
+  - "**[ICDM]** Zhouyang Liu, <ins>Jindong Han</ins>, <ins>Hao Wang</ins>, Xinyue Liu, Hui Gao, Dongsheng Li and ***Hao Liu\\****. A Multi-Resolution Multi-Domain Pre-Training Framework for Universal Traffic Forecasting. In Proceedings of the 26th IEEE International Conference on Data Mining, Shenyang, China, 2026."
+  - "**[EMNLP Findings]** <ins>Fan Liu</ins>, Tianyu Pang, Chao Du and ***Hao Liu\\****. DSFlow: Evolutionary Workflow Optimization for Generalizable LLM-Based Data Science Automation. In Findings of the Association for Computational Linguistics: EMNLP 2026, Budapest, Hungary, 2026."
   - "**[ACL Findings]** <ins>Hao Wang</ins>, Jindong Han, Wei Fan and ***Hao Liu\\****. [ClimAgent: LLM as Agents for Autonomous Open-ended Climate Science Analysis](https://arxiv.org/abs/2604.16922). In Proceedings of The 64th Annual Meeting of the Association for Computational Linguistics, San Diego, California, 2026."
 - year: '2025'
   id: '2025'
@@ -133,9 +133,9 @@ groups:
 - year: '2019'
   id: '2019'
   papers:
+  - "**[TBD]** Ting Li, Yiming Zhang, ***Hao Liu***, Guangtao Xue, and Ling Liu. Fast Compressive Spectral Clustering for Large-Scale Sparse Graph. IEEE Transactions on Big Data, 2019."
   - "**[KDD]** ***Hao Liu***, Yongxin Tong, Panpan Zhang, Xinjiang Lu, Jianguo Duan, and Hui Xiong. [Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](/files/KDD19-Hydra.pdf). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Anchorage, Alaska, 2019."
   - "**[AAAI]** ***Hao Liu***, Ting Li, Renjun Hu, Yanjie Fu, Jingjing Gu, and Hui Xiong. [Joint Representation Learning for Multi-Modal Transportation Recommendation](/files/AAAI19-trans2vec.pdf). In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence, Honolulu, Hawaii, USA, 2019."
-  - "**[TBD]** Ting Li, Yiming Zhang, ***Hao Liu***, Guangtao Xue, and Ling Liu. Fast Compressive Spectral Clustering for Large-Scale Sparse Graph. IEEE Transactions on Big Data, 2019."
 - year: Before 2019
   id: before-2019
   papers:

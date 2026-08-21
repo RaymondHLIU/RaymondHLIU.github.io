@@ -166,6 +166,25 @@ RA、intern 或 visiting student 加入 `alumni.assistants`：
 
 如果没有 code、demo 或 project page，可省略 `links`。`image_alt` 应描述图片内容，而不是重复论文标题。
 
+### 9. 更新 Full Publication List
+
+在 `_data/publications.yml` 的对应年份中加入完整引用。每一年严格按以下层级排列；同一层级内尽量保留原有相对顺序：
+
+1. 期刊论文；
+2. CCF A 类会议论文；
+3. CCF B 类会议论文；
+4. CCF C 类会议论文；
+5. 未被 CCF 正式分级的论文或 track。
+
+CCF 分级以当前正式版目录为准。Findings、short paper、demo、workshop 等不继承主会议的 CCF 等级，统一放在正式分级论文之后。
+
+更新论文时同步判断是否发布 Recent Update：
+
+- 新增 CCF A 类 full/regular paper：自动在 `_data/news.yml` 增加一条新闻；
+- 同一批次新增多篇论文：合并成一条简洁新闻；
+- 仅新增一篇期刊论文或一篇 CCF B 类论文：先确认是否需要发布新闻；
+- 其他情况不自动发布，先确认。
+
 ## 更新后检查
 
 ```bash
